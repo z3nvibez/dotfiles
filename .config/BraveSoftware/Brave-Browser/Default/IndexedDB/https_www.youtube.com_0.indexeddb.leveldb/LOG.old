@@ -1,0 +1,7 @@
+2020/09/15-14:42:26.799 288e2a Reusing MANIFEST /home/drmdub/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/15-14:42:26.799 288e2a Recovering log #3
+2020/09/15-14:42:26.800 288e2a Reusing old log /home/drmdub/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2020/09/15-14:42:29.531 288f4a Level-0 table #5: started
+2020/09/15-14:42:29.532 288f4a Level-0 table #5: 9603 bytes OK
+2020/09/15-14:42:29.533 288f4a Delete type=0 #3
+2020/09/15-14:42:29.533 288f4a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

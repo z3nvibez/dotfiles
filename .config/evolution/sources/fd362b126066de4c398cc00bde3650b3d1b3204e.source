@@ -1,0 +1,20 @@
+[Data Source]
+DisplayName=mtwb47@gmail.com
+Enabled=true
+Parent=ad5e1769d61d563c932d5f9bc780e5ccba21456b
+
+[Authentication]
+Host=smtp.gmail.com
+Method=Google
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=mtwb47@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp

@@ -1,0 +1,7 @@
+2020/10/19-10:03:06.540 2ae2b Reusing MANIFEST /home/drmdub/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/10/19-10:03:06.540 2ae2b Recovering log #4
+2020/10/19-10:03:06.541 2ae2b Reusing old log /home/drmdub/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/000004.log 
+2020/10/19-10:03:06.671 2ae39 Level-0 table #8: started
+2020/10/19-10:03:06.672 2ae39 Level-0 table #8: 469 bytes OK
+2020/10/19-10:03:06.672 2ae39 Delete type=0 #4
+2020/10/19-10:03:06.672 2ae39 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

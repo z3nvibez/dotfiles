@@ -1,0 +1,7 @@
+alsa_card.pci-0000:0b:00.4:output:iec958-stereo-output mute:0 volumes:2,1.000000,1.000000
+alsa_card.usb-Samson_Technologies_Samson_Q2U_Microphone-00:input:analog-input-mic mute:0 volumes:2,0.251199,0.251199
+alsa_card.usb-Samson_Technologies_Samson_Q2U_Microphone-00:output:analog-output-speaker mute:0 volumes:2,0.099999,0.099999
+alsa_card.pci-0000:09:00.1:output:hdmi-output-0 mute:0 volumes:2,1.000000,1.000000
+alsa_card.pci-0000:0b:00.4:output:analog-output-lineout mute:0 volumes:2,0.031621,0.031621
+alsa_card.usb-BLUE_MICROPHONE_Blue_Icicle_201306-00:input:analog-input-mic mute:0 volumes:2,0.891235,0.891235
+alsa_card.usb-046d_HD_Pro_Webcam_C920_875E59AF-02:input:analog-input-mic mute:0 volumes:2,0.735605,0.735605

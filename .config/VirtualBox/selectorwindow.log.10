@@ -1,0 +1,19 @@
+00:00:00.321989 VirtualBox GUI VM Selector Window 6.1.16 r140961 linux.amd64 (Oct 20 2020 18:52:28) release log
+00:00:00.321991 Log opened 2020-10-22T23:25:11.834561000Z
+00:00:00.321992 Build Type: release
+00:00:00.321994 OS Product: Linux
+00:00:00.321995 OS Release: 5.9.1-arch1-1
+00:00:00.321995 OS Version: #1 SMP PREEMPT Sat, 17 Oct 2020 13:30:37 +0000
+00:00:00.322013 DMI Product Name: X570 AORUS ELITE WIFI
+00:00:00.322019 DMI Product Version: -CF
+00:00:00.322026 Firmware type: BIOS
+00:00:00.322056 Host RAM: 64331MB (62.8GB) total, 61079MB (59.6GB) available
+00:00:00.322062 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.322062 Process ID: 6206
+00:00:00.322063 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.322081 Qt version: 5.15.1
+00:00:00.376639 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.701234 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 12x35 x 624x1031
+00:00:00.710273 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 642x35 x 634x1031
+00:00:00.714364 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:15:01.179261 GUI: UIMediumEnumerator: Medium-enumeration finished!

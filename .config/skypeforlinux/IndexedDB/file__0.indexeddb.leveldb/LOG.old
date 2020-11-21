@@ -1,0 +1,30 @@
+2020/11/09-21:29:57.577 cf6a Reusing MANIFEST /home/drmdub/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/11/09-21:29:57.577 cf6a Recovering log #101
+2020/11/09-21:29:57.588 cf6a Reusing old log /home/drmdub/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000101.log 
+2020/11/09-21:30:03.265 d02b Level-0 table #106: started
+2020/11/09-21:30:03.277 d02b Level-0 table #106: 2072592 bytes OK
+2020/11/09-21:30:03.278 d02b Delete type=0 #101
+2020/11/09-21:30:16.849 d02b Compacting 1@1 + 1@2 files
+2020/11/09-21:30:16.873 d02b Generated table #107@1: 6793 keys, 1335400 bytes
+2020/11/09-21:30:16.873 d02b Compacted 1@1 + 1@2 files => 1335400 bytes
+2020/11/09-21:30:16.874 d02b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/09-21:30:16.874 d02b Delete type=2 #106
+2020/11/09-21:30:16.874 d02b Delete type=2 #103
+2020/11/10-05:03:56.781 d02b Level-0 table #109: started
+2020/11/10-05:03:56.792 d02b Level-0 table #109: 1775210 bytes OK
+2020/11/10-05:03:56.793 d02b Delete type=0 #105
+2020/11/10-05:47:01.689 d02b Compacting 1@1 + 1@2 files
+2020/11/10-05:47:01.703 d02b Generated table #110@1: 7180 keys, 1204514 bytes
+2020/11/10-05:47:01.703 d02b Compacted 1@1 + 1@2 files => 1204514 bytes
+2020/11/10-05:47:01.704 d02b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/10-05:47:01.704 d02b Delete type=2 #109
+2020/11/10-05:47:01.704 d02b Delete type=2 #107
+2020/11/10-16:03:54.792 d02b Level-0 table #112: started
+2020/11/10-16:03:54.810 d02b Level-0 table #112: 1840851 bytes OK
+2020/11/10-16:03:54.811 d02b Delete type=0 #108
+2020/11/10-16:30:14.406 d02b Compacting 1@1 + 1@2 files
+2020/11/10-16:30:14.424 d02b Generated table #113@1: 7418 keys, 1221186 bytes
+2020/11/10-16:30:14.424 d02b Compacted 1@1 + 1@2 files => 1221186 bytes
+2020/11/10-16:30:14.425 d02b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/10-16:30:14.425 d02b Delete type=2 #112
+2020/11/10-16:30:14.425 d02b Delete type=2 #110

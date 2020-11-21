@@ -1,0 +1,90 @@
+[options]
+#https://github.com/thestinger/termite/blob/master/config
+allow_bold = true
+audible_bell = false
+browser = xdg-open
+clickable_url = true
+cursor_blink = system
+cursor_shape = ibeam
+dynamic_title = true
+filter_unmatched_urls = true
+font = JetBrains Mono 15 
+font = Hack Nerd Font 15
+geometry = 900x650
+highlight = #2f2f2f
+icon_name = terminal
+modify_other_keys = false
+mouse_autohide = true
+scroll_on_output = false
+scroll_on_keystroke = true
+scrollback_lines = 15000
+size_hints = false
+search_wrap = true
+urgent_on_bell = true
+
+[hints]
+#font = Monospace 12
+#foreground = #dcdccc
+#background = #3f3f3f
+#active_foreground = #e68080
+#active_background = #3f3f3f
+#padding = 2
+#border = #3f3f3f
+#border_width = 10
+#roundness = 2.0
+
+############################################################
+#### You can change the color coding to your liking
+#### There is a folder themes in ~/config/termite/themes
+#### Copy/paste the colors from one of the 79+ templates to this one
+#### A backup of the original config termite is present
+############################################################
+#### Use websites to make the terminal your own
+#### https://terminal.sexy
+#### https://critical.ch/xterm/
+############################################################
+
+# one dark
+[colors]
+
+# special
+foreground      = #abb2bf
+foreground_bold = #abb2bf
+cursor          =
+#background      = #282c34
+background = rgba(40, 44, 52, 0.9)
+
+
+# black
+color0  = #282c34
+color8  = #5c6370
+
+# red
+color1  = #E95678
+color9  = #E95640
+
+# green
+color2  = #98c379
+color10 = #7a9f60
+
+# yellow
+color3  = #FAC29A
+color11 = #d19a66
+
+# blue
+color4  = #61afef
+color12 = #3b84c0
+
+# magenta
+color5  = #B877DB
+color13 = #9a52af
+
+# cyan
+color6  = #25B2BC
+color14 = #3c909b
+
+# white
+color7  = #FDF0D
+color15 = #828997
+
+vim: ft=dosini cms=#%s
