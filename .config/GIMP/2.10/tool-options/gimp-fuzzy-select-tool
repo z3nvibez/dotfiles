@@ -1,7 +1,0 @@
-# GIMP gimp-fuzzy-select-tool options
-
-(feather yes)
-(select-transparent no)
-(draw-mask yes)
-
-# end of gimp-fuzzy-select-tool options

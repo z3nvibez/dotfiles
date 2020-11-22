@@ -1,5 +1,0 @@
-2020/10/17-15:46:26.093 de450 Reusing MANIFEST /home/drmdub/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2020/10/17-15:46:26.217 de45a Level-0 table #5: started
-2020/10/17-15:46:26.218 de45a Level-0 table #5: 496 bytes OK
-2020/10/17-15:46:26.220 de45a Delete type=0 #3
-2020/10/17-15:46:26.220 de45a Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

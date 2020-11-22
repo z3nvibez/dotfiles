@@ -1,3 +1,0 @@
-alsa_card.pci-0000:0b:00.4 output:analog-stereo
-alsa_card.usb-Samson_Technologies_Samson_Q2U_Microphone-00 output:analog-stereo+input:analog-stereo
-alsa_card.usb-046d_HD_Pro_Webcam_C920_875E59AF-02 input:analog-stereo
