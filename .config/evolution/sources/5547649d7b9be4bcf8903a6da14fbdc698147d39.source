@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=mtwb47@gmail.com
+Enabled=true
+Parent=ad5e1769d61d563c932d5f9bc780e5ccba21456b
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=fd362b126066de4c398cc00bde3650b3d1b3204e
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://cdbefb29b1951dccfb4509917e36f56447c838d5/%5bGmail%5d/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=mtwb47@gmail.com
+Aliases=
+Name=Matthew Weber
+Organization=
+ReplyTo=
+SignatureUid=none

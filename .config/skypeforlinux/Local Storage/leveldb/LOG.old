@@ -1,0 +1,14 @@
+2020/12/16-13:51:02.804 9a7 Reusing MANIFEST /home/drmdub/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2020/12/16-13:51:02.804 9a7 Recovering log #88
+2020/12/16-13:51:02.804 9a7 Level-0 table #91: started
+2020/12/16-13:51:02.806 9a7 Level-0 table #91: 60082 bytes OK
+2020/12/16-13:51:02.806 9a7 Delete type=0 #88
+2020/12/16-13:51:02.807 9e5 Compacting 4@0 + 1@1 files
+2020/12/16-13:51:02.809 9e5 Generated table #93@0: 13 keys, 60182 bytes
+2020/12/16-13:51:02.809 9e5 Compacted 4@0 + 1@1 files => 60182 bytes
+2020/12/16-13:51:02.810 9e5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/16-13:51:02.810 9e5 Delete type=2 #89
+2020/12/16-13:51:02.810 9e5 Delete type=2 #87
+2020/12/16-13:51:02.810 9e5 Delete type=2 #83
+2020/12/16-13:51:02.810 9e5 Delete type=2 #91
+2020/12/16-13:51:02.810 9e5 Delete type=2 #85

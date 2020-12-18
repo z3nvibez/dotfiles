@@ -1,0 +1,6 @@
+2020/12/12-23:29:02.439 123b3d Reusing MANIFEST /home/drmdub/.config/vivaldi/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/12/12-23:29:02.439 123b3d Recovering log #3
+2020/12/12-23:29:02.440 123b3d Reusing old log /home/drmdub/.config/vivaldi/Default/Sync Data/LevelDB/000003.log 
+2020/12/12-23:31:45.212 123b3d Level-0 table #5: started
+2020/12/12-23:31:45.215 123b3d Level-0 table #5: 365021 bytes OK
+2020/12/12-23:31:45.217 123b3d Delete type=0 #3

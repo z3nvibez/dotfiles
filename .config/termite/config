@@ -43,48 +43,51 @@ urgent_on_bell = true
 #### https://terminal.sexy
 #### https://critical.ch/xterm/
 ############################################################
-
-# one dark
 [colors]
 
-# special
-foreground      = #abb2bf
-foreground_bold = #abb2bf
-cursor          =
-#background      = #282c34
-background = rgba(40, 44, 52, 0.9)
+foreground      = #d0d0d0
+foreground_bold = #e0e0e0
+cursor          = #e0e0e0
+background = #333333
 
+# 16 color space
 
-# black
-color0  = #282c34
-color8  = #5c6370
+# Black, Gray, Silver, White
+color0  = #000000
+color8  = #505050
+color7  = #d0d0d0
+color15 = #ffffff
 
-# red
-color1  = #E95678
-color9  = #E95640
+# Red
+color1  = #eb008a
+color9  = #eb008a
 
-# green
-color2  = #98c379
-color10 = #7a9f60
+# Green
+color2  = #37b349
+color10 = #37b349
 
-# yellow
-color3  = #FAC29A
-color11 = #d19a66
+# Yellow
+color3  = #f8ca12
+color11 = #f8ca12
 
-# blue
-color4  = #61afef
-color12 = #3b84c0
+# Blue
+color4  = #0e5a94
+color12 = #0e5a94
 
-# magenta
-color5  = #B877DB
-color13 = #9a52af
+# Purple
+color5  = #b31e8d
+color13 = #b31e8d
 
-# cyan
-color6  = #25B2BC
-color14 = #3c909b
+# Teal
+color6  = #00aabb
+color14 = #00aabb
 
-# white
-color7  = #FDF0D
-color15 = #828997
+# Extra colors
+color16 = #f29333
+color17 = #7a2d00
+color18 = #202020
+color19 = #303030
+color20 = #b0b0b0
+color21 = #e0e0e0
 
 vim: ft=dosini cms=#%s

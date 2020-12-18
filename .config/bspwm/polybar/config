@@ -28,14 +28,22 @@ format-offset =
 
 
 [colors]
+background = ${xrdb:color0:#222}
+foreground = ${xrdb:color7:#222}
+foreground-alt = ${xrdb:color7:#222}
+primary = ${xrdb:color1:#222}
+secondary = ${xrdb:color2:#222}
+alert = ${xrdb:color3:#222}
+
+
 
 ; Gotham theme ==========
-background = #44475a
-foreground = #ffffff
-alert = #d26937
-volume-min = #2aa889
-volume-med = #edb443
-volume-max = #c23127
+;background = #44475a
+;foreground = #ffffff
+;alert = #d26937
+;volume-min = #2aa889
+;volume-med = #edb443
+;volume-max = #c23127
 ; =======================
 
 
@@ -57,7 +65,7 @@ fixed-center = true
 bottom = false
 ;separator = |
 
-background = #44475a
+background = ${colors.background}
 foreground = ${colors.foreground}
 
 line-size = 2
@@ -84,10 +92,13 @@ module-margin-left = 3
 module-margin-right = 3
 
 ;https://github.com/jaagr/polybar/wiki/Fonts
-font-0 = "Noto Sans:size=10;2"
-font-1 = "FontAwesome:size=13;2"
-font-2 = "Noto Sans:size=10;2"
-font-3 = "Noto Sans Mono:size=10;2"
+font-0 = "Noto Mono Nerd Font:size=10;2"
+font-1 = "FontAwesome:size=10;1.5"
+font-2 = "Noto Sans:size=10;0"
+font-3 = "Noto Sans Mono:size=10;0"
+font-4 = "icomoon\-feather:size=10;2"
+font-f = "Noto Color Emoji:size=10;1.5"
+
 
 modules-left = bspwm xwindow
 modules-center = weather 
@@ -396,7 +407,7 @@ format-prefix-foreground = #50fa7b
 ;   <ramp-coreload>
 format = <label> 
 
-format-padding = 1 
+format-padding = 0 
 
 ; Available tokens:
 ;   %percentage% (default) - total cpu load
@@ -478,7 +489,7 @@ format-prefix-foreground = #ff79c6
 format-foreground = #ff79c6
 format-background = ${colors.background}
 label = %date% 
-format-padding = 1
+format-padding = 0
 
 [module/date2]
 ;https://github.com/jaagr/polybar/wiki/Module:-date
@@ -494,7 +505,7 @@ format-prefix-foreground = #f1fa8c
 format-foreground = #f1fa8c
 format-background = ${colors.background}
 label = %time%
-format-padding = 1
+format-padding = 0
 
 #################################################################
 
@@ -697,12 +708,12 @@ interval = 1
 label = %percentage_used%%
 
 format =  <label>
-format-prefix-foreground = #8be9fd
+format-prefix-foreground = ${colors.foreground-alt}
 format-prefix = "  "
 ;format-underline = #3384d0
-format-foreground = #8be9fd
+format-foreground = ${colors.foreground-alt}
 format-background = ${colors.background}
-format-padding = 1
+format-padding = 0
 ################################################################################
 
 [module/memory3]
@@ -829,7 +840,7 @@ scroll-up = ~/.config/polybar/scripts/pavolume.sh --up
 scroll-down = ~/.config/polybar/scripts/pavolume.sh --down
 format-foreground = #ffb86c
 format-background = ${colors.background}
-format-padding = 1 
+format-padding = 0 
 
 ################################################################################
 
@@ -991,9 +1002,9 @@ interval = 10
 format = <label>
 
 format-prefix = "  "
-format-prefix-foreground = #bd93f9
+format-prefix-foreground = ##
 ;format-underline = 
-format-foreground = #bd93f9
+format-foreground = ${colors.foreground}
 format-background = ${colors.background}
 exec = python -u ~/.config/polybar/scripts/weather.py
 tail = true
@@ -1163,3 +1174,6 @@ format = <label>
 format-underline = ${colors.foreground-alt}
 label = %output%
 label-maxlen = 50
+
+
+

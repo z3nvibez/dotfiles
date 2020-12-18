@@ -1,0 +1,1 @@
+{"type":"perf.frame_delta_time_ms.v1","msg":{"min":0,"max":90,"mean":3,"variance":9,"count":96595,"elapsed_time_ms":87346,"collector_perf_ns":147,"histogram":{"0":96236,"11":7,"142":2,"16":3,"8":347},"ts":1604101828410,"t_since_start":98039465}}

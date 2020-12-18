@@ -1,0 +1,15 @@
+2020/12/17-17:01:32.100 278ea1 Reusing MANIFEST /home/drmdub/.config/Notion/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2020/12/17-17:01:32.100 278ea1 Recovering log #629
+2020/12/17-17:01:32.100 278ea1 Reusing old log /home/drmdub/.config/Notion/Partitions/notion/Local Storage/leveldb/000629.log 
+2020/12/17-18:11:37.708 293a38 Level-0 table #633: started
+2020/12/17-18:11:37.710 293a38 Level-0 table #633: 21602 bytes OK
+2020/12/17-18:11:37.711 293a38 Delete type=0 #629
+2020/12/17-18:11:37.711 293a38 Compacting 4@0 + 1@1 files
+2020/12/17-18:11:37.713 293a38 Generated table #634@0: 492 keys, 41294 bytes
+2020/12/17-18:11:37.713 293a38 Compacted 4@0 + 1@1 files => 41294 bytes
+2020/12/17-18:11:37.713 293a38 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/17-18:11:37.714 293a38 Delete type=2 #630
+2020/12/17-18:11:37.714 293a38 Delete type=2 #633
+2020/12/17-18:11:37.714 293a38 Delete type=2 #623
+2020/12/17-18:11:37.714 293a38 Delete type=2 #625
+2020/12/17-18:11:37.714 293a38 Delete type=2 #627

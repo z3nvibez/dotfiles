@@ -1,0 +1,1958 @@
+7e747f9c12dea92db651108caf988e27|file:///tmp/crontab.YeTTxG|1|13|v|crontab
+	/home/drmdub/Documents/scripts/mu.sh
+e3ceb5881a0a1fdaad01296d7554868d|file:///home/drmdub/.config/dwm/config.h|11|41|v|cpp
+	222222
+6ab06a2a4e216436379a93be9e062069|file:///home/drmdub/.config/dwm/README|1|1|v|text
+	dwm - dynamic window manager
+	============================
+	dwm is an extremely fast, small, and dynamic window manager for X.
+	
+	
+	Requirements
+	------------
+	In order to build dwm you need the Xlib header files.
+	
+	
+	Installation
+	------------
+	Edit config.mk to match your local setup (dwm is installed into
+	the /usr/local namespace by default).
+	
+	Afterwards enter the following command to build and install dwm (if
+	necessary as root):
+	
+	    make clean install
+	
+	
+	Running dwm
+	-----------
+	Add the following line to your .xinitrc to start dwm using startx:
+	
+	    exec dwm
+	
+	In order to connect dwm to a specific display, make sure that
+	the DISPLAY environment variable is set correctly, e.g.:
+	
+	    DISPLAY=foo.bar:1 exec dwm
+	
+	(This will start dwm on display :1 of the host foo.bar.)
+	
+	In order to display status info in the bar, you can do something
+	like this in your .xinitrc:
+	
+	    while xsetroot -name "`date` `uptime | sed 's/.*,//'`"
+	    do
+	    	sleep 1
+	    done &
+	    exec dwm
+	
+	
+	Configuration
+	-------------
+	The configuration of dwm is done by creating a custom config.h
+	and (re)compiling the source code.
+507f4c075f2fea32ec199fd8fa5eef94|file:///home/drmdub/Documents/dotfiles/README.md|3|1|V|markdown
+	<a href="img.png"></a>
+89c2136e1ce092faf69df093cb5ea0f7|file:///home/drmdub/dwmblocks/blocks.h|8|1|V|cpp
+	  	{" Mem: ", "memory.sh",	        6,		            1},
+	
+58c8f609072440c20958dfcb3e91c80e|file:///home/drmdub/dwmblocks/blocks.h|10|10|v|cpp
+	memory.sh
+2310fe0960a30eb4e256042f55d7c1cb|file:///home/drmdub/.config/dwm/config.def.h.rej|7|1|v|diff
+	+/* commands spawned when clicking statusbar, the mouse button pressed is exported as BUTTON */
+	+static char *statuscmds[] = { "notify-send Mouse$BUTTON" };
+	+static char *statuscmd[] = { "/bin/sh", "-c", NULL, NULL };
+	+
+	 
+bc7f16b715f5290847e529ed38565ec8|file:///home/drmdub/.config/dwm/config.def.h.rej|7|1|v|diff
+	+/* commands spawned when clicking statusbar, the mouse button pressed is exported as BUTTON */
+	+static char *statuscmds[] = { "notify-send Mouse$BUTTON" };
+	+static char *statuscmd[] = { "/bin/sh", "-c", NULL, NULL };
+	+
+	
+8c20e7927e627b2f5f7aa875296e8f4c|file:///home/drmdub/.config/dwm/config.def.h|63|1|v|cpp
+	/* commands spawned when clicking statusbar, the mouse button pressed is exported as BUTTON */
+	static char *statuscmds[] = { "notify-send Mouse$BUTTON" };
+	static char *statuscmd[] = { "/bin/sh", "-c", NULL, NULL };
+	
+	
+	
+57e234f113821e29b38d7122101ed46e|file:///home/drmdub/dwmblocks/blocks.h|10|17|v|cpp
+	weather.sh
+64462dabfc8c99ca3043b137525713df|file:///home/drmdub/.config/termite/config|64|12|v|dosini
+	E95640
+b0da332157d81f5e3039096dad2800eb|file:///home/drmdub/.config/termite/config|68|12|v|dosini
+	7a9f60
+afb784c4edc78d68b0ea08d5db998ef4|file:///home/drmdub/.config/termite/config|75|11|v|dosini
+	61afef
+794e86cde36cfff4c1f692beba30aa7c|file:///home/drmdub/.config/termite/config|76|12|v|dosini
+	3b84c0
+3157e196b82d1650570383d4335bc2e8|file:///home/drmdub/.config/termite/config|83|12|v|dosini
+	25B2BC
+	
+b8286f3daaa38bf79631c3066b0c900f|file:///home/drmdub/.config/termite/config|79|11|v|dosini
+	#B877DB
+	
+d4e677bdb96f3e0b37b3beb2967d170f|file:///home/drmdub/dwmblocks/blocks.h|10|17|v|cpp
+	forecast
+367ccebdd1d9bff4b33fcdca170985a9|file:///home/drmdub/.config/mutt/muttrc|5|1|V|neomuttrc
+	source ~/.config/mutt/dracula.muttrc
+edb090a5897adaa0e606d6376af236c5|file:///home/drmdub/.config/bspwm/sxhkd/sxhkdrc|307|1|v|sxhkdrc
+	#Picom Toggle
+	ctrl + alt + o
+	    ~/.config/bspwm/scripts/picom-toggle.sh
+	
+	
+da36b86b8d43d821f935f7b65a1e3b40|file:///home/drmdub/.config/ranger/rc.conf|167|18|v|conf
+	seperators
+1a18f19535b3b1edd5de7f535141f476|file:///home/drmdub/.config/ranger/rc.conf|167|18|v|conf
+	outline
+f4c8bf6adf59e34ace3a4b31ab32ceff|file:///home/drmdub/dwmblocks/blocks.h|10|1|V|cpp
+	  	{"",        "mail.sh",	        180,		            12},
+b83a886a5c437ccd9ac15473fd6f1788|file:///home/drmdub/dwmblocks/blocks.h|12|17|v|cpp
+	mail
+0c3f8fef7ea7a36a9167c3f8cf7f8165|file:///home/drmdub/dwmblocks/blocks.h|8|4|V|cpp
+	  	{" Mem: ",  "memory.sh",	        6,		            1},
+e2723cc60185c5b40569d43eb14573c2|file:///home/drmdub/dwmblocks/blocks.h|6|1|V|cpp
+	/*	  {" AUR: ", "pacupdate.sh",		360,		        9}, */
+d4e66140ec3750ae2f07a9825cc4f5a4|file:///home/drmdub/.config/dwm/config.def.h|110|1|V|cpp
+		{ MODKEY|ControlMask|ShiftMask, XK_q,      quit,           {1} }, 
+e532547e59c7cadd5d1d45ef325f1c87|file:///home/drmdub/.config/dwm/config.h|11|1|V|cpp
+	/*static const char col_gray1[]       = "#2a2a2a";
+a708d6de8317eb49ce5505a214de91eb|file:///home/drmdub/.config/dwm/config.h|11|1|V|cpp
+	static const char col_gray2[]       = "#444444";
+56d8440ada278991a56d2d3973b6539e|file:///home/drmdub/.config/dwm/config.h|11|1|V|cpp
+	static const char col_gray3[]       = "#f8f8f2";
+812b522f23e880a0792df199f7357691|file:///home/drmdub/.config/dwm/config.h|11|1|V|cpp
+	static const char col_gray4[]       = "#eeeeee";
+07622e9c231b695550c7e73c9aec82b2|file:///home/drmdub/.config/dwm/config.h|11|1|V|cpp
+	static const char col_cyan[]        = "#00a5af";
+07deab94992ff290d738af04943f66d7|file:///home/drmdub/.config/dwm/config.h|11|1|V|cpp
+	static const char *colors[][3]      = {
+12db6ffa7b9679312233d151747fdd1c|file:///home/drmdub/.config/dwm/config.h|11|17|V|cpp
+		               fg         bg         border   */
+7ff5320ba8708d1651533b20284d8ba0|file:///home/drmdub/.config/dwm/config.h|11|1|V|cpp
+	/*	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
+bea8eccba972d687ad41d16d54083475|file:///home/drmdub/.config/dwm/config.h|11|2|V|cpp
+		[SchemeSel]  = { col_gray4, col_cyan,  col_cyan  },
+e5c00c5460be96422c1e883746c3c8aa|file:///home/drmdub/.config/dwm/config.h|11|1|V|cpp
+	};*/ 
+5a4510ae99df2e82f4035880eb2bb3f7|file:///home/drmdub/.config/dwm/config.h|22|1|V|cpp
+	#include "/home/drmdub/.cache/wal/colors-wal-dwm.h"
+afe6a2d6f7cf50b59a888fdc09f5a846|file:///home/drmdub/.config/polybar/config|1443|1|v|conf
+	[module/divider]
+	type = custom/text
+	content-background = ${colors.background}
+	content-foreground =  #ABB2BF 
+	content = "%{T3}  %{T-}"
+	content-overline = ${colors.background}
+	content-underline = ${colors.background}
+	
+	
+a64009f24310449d331d94a5816ee535|file:///home/drmdub/.config/polybar/config|81|1|v|conf
+	font-0 = "Noto Mono Nerd Font:size=10;2"
+	font-1 = "FontAwesome:size=10;1.5"
+	font-2 = "Noto Sans:size=10;0"
+	font-3 = "Noto Sans Mono:size=10;0"
+	font-4 = "icomoon\-feather:size=10;2"
+	font-f = "Noto Color Emoji:size=10;1.5"
+	
+	
+d00b0a539e8a2c6aea5cb885dbae59e7|file:///home/drmdub/.config/bspwm/polybar/config|87|1|V|conf
+	font-0 = "Noto Sans:size=10;2"
+6352bb7dbdb127eab57429bec62569ce|file:///home/drmdub/.config/bspwm/polybar/config|87|1|V|conf
+	font-1 = "FontAwesome:size=13;2"
+bdccaa792fd07c263457241fe40de6a8|file:///home/drmdub/.config/bspwm/polybar/config|87|1|V|conf
+	font-2 = "Noto Sans:size=10;2"
+5088466d5bf3b22b885e84f1058f9db8|file:///home/drmdub/.config/bspwm/polybar/config|87|1|V|conf
+	font-3 = "Noto Sans Mono:size=10;2"
+eb6f6166552ecb18c44e840321223049|file:///home/drmdub/.config/bspwm/polybar/config|1170|1|V|conf
+	[module/divider]
+580814f264222e49fdc3840b65fef23e|file:///home/drmdub/.config/bspwm/polybar/config|1170|1|V|conf
+	type = custom/text
+4a19295c91e5acecbd5d6ebefce67dd2|file:///home/drmdub/.config/bspwm/polybar/config|1170|1|V|conf
+	content-background = ${colors.background}
+c878c20a1cdb02dbf4d509d59f9f3493|file:///home/drmdub/.config/bspwm/polybar/config|1170|1|V|conf
+	content-foreground =  #ABB2BF 
+cd9e94907926c2be8cdfed757c467467|file:///home/drmdub/.config/bspwm/polybar/config|1170|1|V|conf
+	content = "%{T3}  %{T-}"
+f20f7da730a76a56dbbf1fe4516d7732|file:///home/drmdub/.config/bspwm/polybar/config|1170|1|V|conf
+	content-overline = ${colors.background}
+788e258424dadac1807c1e396edcd818|file:///home/drmdub/.config/bspwm/polybar/config|1170|1|V|conf
+	content-underline = ${colors.background}
+c58804260f0c056f2854d96ef4610bc3|file:///home/drmdub/.config/bspwm/polybar/config|68|14|v|conf
+	#44475a
+575c5e135d80e5f67d6a5c736f01c85d|file:///home/drmdub/.config/bspwm/polybar/config|69|14|v|conf
+	${colors.foreground}
+	
+d77a111383d047c11d518553e08cd68b|file:///home/drmdub/.config/bspwm/polybar/config|1005|28|v|conf
+	#bd93f9
+4056d6a60880301524b0c7ec4a36dabc|file:///home/drmdub/.config/bspwm/polybar/config|711|28|v|conf
+	#8be9fd
+9771e89b46a51ee8ce87bdbd0abc714f|file:///home/drmdub/.xmonad/xmonad.hs|116|11|V|haskell
+	          spawnOnce "xmobarrc1"
+5bd99a6f595e54318cf5efd0c71a6ce1|file:///home/drmdub/.xmonad/xmonad.hs|115|22|v|haskell
+	xmobarrc0
+f6cb3e816496528d4187db53bc66567f|file:///home/drmdub/.config/ranger/rc.conf|167|18|v|conf
+	both
+30f4d5844bf279f4a556855a77160731|file:///tmp/tmpsmeon17c|1|9|v|
+	-804e6c51.mp3
+c5284529dd758176a6645054cdd45ef5|file:///tmp/tmpsmeon17c|2|16|v|
+	-65e4e735.mp3
+387a0074e99817ae80729bf865a9c235|file:///tmp/tmpsmeon17c|3|27|v|
+	-64145da9.mp3
+4035745b1e643b4c145b454e515ae5e0|file:///tmp/tmpsmeon17c|4|23|v|
+	-21165bdb.mp3
+05f5c46d966fd553fd67d33cfa8b3f61|file:///tmp/tmpsmeon17c|5|11|v|
+	-d23582f8.mp3
+60cc88705fd0fee35f430c985b168570|file:///tmp/tmpsmeon17c|6|30|v|
+	-3e95c93b.mp3
+b3a7a4e64bcd8aabe4cabe0e55b57af5|file:///tmp/tmpsmeon17c|7|16|v|
+	.mp3
+de48172eb6e222810af3a35e1a910741|file:///tmp/tmpsmeon17c|8|15|v|
+	db89
+3864ad0f992b09959ca71be700a9977b|file:///tmp/tmpsmeon17c|8|10|v|
+	-2ebf.mp3
+4218bfc3e6b64bfc0f45eb7793216bde|file:///tmp/tmpsmeon17c|7|7|v|
+	-23c8ab1a
+cc55bdcde24b6bee41b631e31481c692|file:///tmp/tmpsmeon17c|9|11|v|
+	-ae7b9ec7.mp3
+c55ed8fad9b91ea6ce54779c8b5d7bc5|file:///tmp/tmpsmeon17c|10|20|v|
+	-a93d3a13.mp3
+	nowswesaresfree-bfce6860.mp3
+	rainsmanstheme-8af57575.mp3
+	schindlersslistsmainstheme-633f1f01.mp3
+7d305214cef7b609c3b93ebe2a2ebbf9|file:///tmp/tmpsmeon17c|10|20|v|
+	-a93d3a13.mp3
+53d4545a70c27767a33db4a6070ab829|file:///tmp/tmpsmeon17c|11|16|v|
+	-bfce6860.mp3
+890529494e29fe1e63f3497bb42f328f|file:///tmp/tmpsmeon17c|12|15|v|
+	-8af57575.mp3
+f5229988830f306fd9f9f6f67147670b|file:///tmp/tmpsmeon17c|13|27|v|
+	-633f1f01.mp3
+494ee0c59a84e70aa9b7531e028f780a|file:///tmp/tmpsmeon17c|14|29|v|
+	-69c3c888.mp3
+3deb9edbf7caffa28a49581041c6dd1e|file:///tmp/tmpsmeon17c|10|21|v|
+	mp3
+	
+f4e53d352820a91698abc2ea42ee6a7a|file:///tmp/tmpsmeon17c|10|20|v|
+	.mp3
+	
+46510572dff5f5798a017c7c30f12f81|file:///tmp/tmpk3knqxkz|1|1|v|
+	cavatina
+e3328920862556cc73b89bc04625e256|file:///tmp/tmpk3knqxkz|2|1|v|
+	cinemasparadiso
+fa77c6e8b0c23210d3ff9aa225d57c23|file:///tmp/tmpk3knqxkz|3|1|v|
+	forstheslovesofsasprincess
+3d312da882c6579dc67b7a8250b91a36|file:///tmp/tmpk3knqxkz|4|1|v|
+	gamesofsthronessmedley
+b754daf6bf589005b97d09d556055f37|file:///tmp/tmpk3knqxkz|5|1|v|
+	lovesstory
+d99a9fe5cbb7ea1796e2daa8ee200325|file:///tmp/tmpk3knqxkz|6|1|v|
+	lovesthemesfromsthesgodfather
+f9563d1aae6287458eb95850096ebbc1|file:///tmp/tmpk3knqxkz|7|1|v|
+	malena
+a475328d2b06fe2393a8db7bb927f569|file:///tmp/tmpk3knqxkz|8|1|v|
+	maysitsbe
+f75139c9c9f4ece80d22a6dae1bc42d1|file:///tmp/tmpk3knqxkz|9|1|v|
+	moonsriver
+8a3fd1f7804a5134ab5adc794011fcf4|file:///tmp/tmpk3knqxkz|10|1|v|
+	mysheartswillsgoson
+e03ed7e74fcb6eb94010c4363a07a914|file:///tmp/tmpk3knqxkz|11|1|v|
+	nowswesaresfree
+c994987cf6c2387ded044724fc631969|file:///tmp/tmpk3knqxkz|12|1|v|
+	rainsmanstheme
+926543a7479e22064be3d85d13e9a100|file:///tmp/tmpk3knqxkz|13|1|v|
+	schindlersslistsmainstheme
+44a04495bc6598049a2e86fb0a5a6e5b|file:///tmp/tmpk3knqxkz|14|1|v|
+	titlessfromschariotssofsfire
+ede8469a3931217a131884d16e3061c4|file:///home/drmdub/.config/suckless/slstatus/config.h|25|4|v|cpp
+	disk_perc 
+a41b85cb0b3a5866fac4b031b030b49e|file:///home/drmdub/.dwm/sxhkd/sxhkdrc|26|1|V|sxhkdrc
+	super + shift + b
+fe31ffc05a94d316515cbacedf8351d0|file:///home/drmdub/.dwm/sxhkd/sxhkdrc|26|5|V|sxhkdrc
+	    bluetoothctl connect FC:58:FA:CB:88:B5
+6239477250876ed40408d17e8c2e048f|file:///home/drmdub/.dwm/sxhkd/sxhkdrc|19|7|v|sxhkdrc
+	_dmenu
+4bad6bb150751d34e3811a5f2a9f7670|file:///tmp/buku-edit-py2du6t0|5|1|V|conf
+	castle, fanfiction, ao3
+646358354f7062cde47a507c50d2daa1|file:///tmp/buku-edit-v0rk3dd2|7|39|v|conf
+	ffent
+bcc01e3771551a4bdc3a06327487d998|file:///home/drmdub/.mozilla/firefox/yhr45kja.default-release/chrome/userChrome.css|1|1|v|css
+	/* Source file https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome/navbar_tabs_responsive_oneliner.css made available under Mozilla Public License v. 2.0
+	See the above repository for updates as well as full license text. */
+	
+	/* Make tabs and navbar appear side-by-side tabs on right */
+	
+	/* Use page_action_buttons_on_hover.css to hide page-action-buttons to save more space for the address */
+	
+	/* Toolbars will be shown normally if window width goes below the value below */
+	/* Modify it to suit your needs */
+	
+	@media screen and (min-width: 1100px) {
+	  /* Modify these to change relative widths or default height */
+	  #navigator-toolbox {
+	    --uc-navigationbar-width: 40vw;
+	    --uc-toolbar-height: 40px;
+	    --uc-urlbar-min-width: none; /* Can set minimum width for focused urlbar here eg. 550px */
+	  }
+	  /* prevent urlbar overflow on narrow windows */
+	  /* Dependent on how many items are in navigation toolbar ADJUST AS NEEDED */
+	  @media screen and (max-width: 1400px) {
+	    #urlbar-container {
+	      min-width: unset !important;
+	    }
+	  }
+	
+	  /* Override for other densities */
+	  :root[uidensity="compact"] #navigator-toolbox {
+	    --uc-toolbar-height: 32px;
+	  }
+	  :root[uidensity="touch"] #navigator-toolbox {
+	    --uc-toolbar-height: 40px;
+	  }
+	
+	  #TabsToolbar {
+	    margin-left: var(--uc-navigationbar-width);
+	    --tabs-navbar-shadow-size: 0px;
+	  }
+	  #tabbrowser-tabs {
+	    --tab-min-height: var(--uc-toolbar-height) !important;
+	  }
+	
+	  /* This isn't useful when tabs start in the middle of the window */
+	  .titlebar-spacer[type="pre-tabs"] {
+	    display: none;
+	  }
+	
+	  #navigator-toolbox > #nav-bar {
+	    margin-right: calc(100vw - var(--uc-navigationbar-width));
+	    margin-top: calc(0px - var(--uc-toolbar-height));
+	  }
+	
+	  /* Window drag space  */
+	  :root[tabsintitlebar="true"] #nav-bar {
+	    padding-left: 24px !important;
+	  }
+	
+	  /* Rules specific to window controls on right layout */
+	  @supports -moz-bool-pref("layout.css.osx-font-smoothing.enabled") {
+	    .titlebar-buttonbox-container {
+	      position: fixed;
+	      display: block;
+	      left: 0px;
+	      z-index: 3;
+	    }
+	    :root[tabsintitlebar="true"] #nav-bar {
+	      padding-left: 96px !important;
+	      padding-right: 0px !important;
+	    }
+	  }
+	
+	  /* 1px margin on touch density causes tabs to be too high */
+	  .tab-close-button {
+	    margin-top: 0 !important;
+	  }
+	
+	  /* Hide dropdown placeholder */
+	  #urlbar-container:not(:hover) .urlbar-history-dropmarker {
+	    margin-inline-start: -28px;
+	  }
+	
+	  #urlbar:focus-within {
+	    min-width: var(--uc-urlbar-min-width, none) !important;
+	  }
+	}
+	/* Fix customization view */
+	#customization-panelWrapper > .panel-arrowbox > .panel-arrow {
+	  margin-inline-end: initial !important;
+	}
+4671d586f0d21daa0bfd5988f97e0c95|file:///home/drmdub/.mozilla/firefox/yhr45kja.default-release/chrome/userChrome.css|1|1|v|css
+	/* Source file https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome/navbar_tabs_oneliner_tabs_on_left.css made available under Mozilla Public License v. 2.0
+	See the above repository for updates as well as full license text. */
+	
+	/*Make tabs and navbar appear side-by-side tabs on left */
+	
+	/* IMPORTANT */
+	/*
+	Get window_control_placeholder_support.css
+	Window controls will be all wrong without it
+	*/
+	
+	/* Modify these to change relative widths or default height */
+	#navigator-toolbox {
+	  --uc-navigationbar-width: 40vw;
+	  --uc-toolbar-height: 40px;
+	}
+	/* Override for other densities */
+	:root[uidensity="compact"] #navigator-toolbox {
+	  --uc-toolbar-height: 32px;
+	}
+	:root[uidensity="touch"] #navigator-toolbox {
+	  --uc-toolbar-height: 40px;
+	}
+	
+	:root[uidensity="compact"] #urlbar-container {
+	  --urlbar-container-height: var(--uc-toolbar-height) !important;
+	  padding-block: 0 !important;
+	}
+	:root[uidensity="compact"] #urlbar {
+	  --urlbar-toolbar-height: var(--uc-toolbar-height) !important;
+	}
+	
+	/* prevent urlbar overflow on narrow windows */
+	/* Dependent on how many items are in navigation toolbar and tabs-/nav-bar ratio - ADJUST AS NEEDED */
+	@media screen and (max-width: 1600px) {
+	  #urlbar-container {
+	    min-width: unset !important;
+	  }
+	}
+	
+	#toolbar-menubar {
+	  height: initial !important;
+	}
+	#toolbar-menubar[inactive] > :not(.titlebar-buttonbox-container) {
+	  opacity: 0;
+	  pointer-events: none;
+	}
+	#toolbar-menubar[inactive] {
+	  margin-bottom: calc(0px - var(--uc-toolbar-height));
+	}
+	
+	#TabsToolbar > .titlebar-buttonbox-container,
+	.titlebar-spacer[type="post-tabs"] {
+	  display: none;
+	}
+	#TabsToolbar {
+	  margin-right: var(--uc-navigationbar-width);
+	  --tabs-navbar-shadow-size: 0px;
+	}
+	#toolbar-menubar[autohide="true"] > .titlebar-buttonbox-container,
+	#tabbrowser-tabs,
+	.tabbrowser-tab[pinned] {
+	  height: var(--uc-toolbar-height) !important;
+	  min-height: var(--uc-toolbar-height) !important;
+	}
+	#nav-bar {
+	  margin-left: calc(100vw - var(--uc-navigationbar-width));
+	  margin-top: calc(0px - var(--uc-toolbar-height));
+	}
+	
+	/* Override style set in window_control_placeholder_support.css  */
+	#nav-bar {
+	  border-left-width: 0px !important;
+	}
+	#nav-bar::before {
+	  display: none !important;
+	}
+	
+	/* Rules specific to window controls on right layout */
+	@supports -moz-bool-pref("layout.css.osx-font-smoothing.enabled") {
+	  :root:not([inFullscreen])
+	    #TabsToolbar-customization-target
+	    > .titlebar-spacer[type="pre-tabs"] {
+	    width: var(--uc-window-drag-space-width) !important;
+	    display: -moz-box !important;
+	  }
+	  #TabsToolbar > .titlebar-buttonbox-container {
+	    display: -moz-box;
+	  }
+	}
+	
+	/* 1px margin on touch density causes tabs to be too high */
+	.tab-close-button {
+	  margin-top: 0 !important;
+	}
+	
+	/* Hide dropdown placeholder */
+	#urlbar-container:not(:hover) .urlbar-history-dropmarker {
+	  margin-inline-start: -28px;
+	}
+	/* Fix customization view */
+	#customization-panelWrapper > .panel-arrowbox > .panel-arrow {
+	  margin-inline-end: initial !important;
+	}
+e7b638b6e62b588726df015b1a84f4ba|file:///home/drmdub/.mozilla/firefox/yhr45kja.default-release/chrome/userChrome.css|189|1|v|css
+	/* Source file https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome/pinned_tabs_on_right.css made available under Mozilla Public License v. 2.0
+	See the above repository for updates as well as full license text. */
+	
+	/* Show pinned tabs on right side of normal tabs */
+	/* This is stupid hack that barely works and might lead to some very unexpected behavior */
+	
+	.tabbrowser-arrowscrollbox > spacer,
+	.scrollbutton-up[orient="horizontal"]~spacer{ display: none }
+	
+	.tabbrowser-arrowscrollbox > .arrowscrollbox-scrollbox,
+	.scrollbutton-up[orient="horizontal"]~scrollbox{ -moz-box-direction: inherit; -moz-box-pack: end }
+	
+	.tabbrowser-arrowscrollbox > .arrowscrollbox-scrollbox::after,
+	.scrollbutton-up[orient="horizontal"]~scrollbox::after{ display: -moz-box; content: ""; -moz-box-flex: 1; -moz-box-ordinal-group: 2 }
+	
+	#tabs-newtab-button{ -moz-box-ordinal-group: 2 }
+	.tabbrowser-tab[pinned]{ -moz-box-ordinal-group: 3 }
+	
+	#tabbrowser-tabs[positionpinnedtabs]{ direction: rtl }
+	#tabbrowser-tabs[positionpinnedtabs] > arrowscrollbox { -moz-box-direction: reverse }
+	.tab-content{ direction: ltr }
+800b58cfa2bcd9eedee1caed2ac560f3|file:///home/drmdub/.mozilla/firefox/yhr45kja.default-release/chrome/userChrome.css|189|1|V|css
+	/* Source file https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome/menubar_in_tabs_toolbar.css made available under Mozilla Public License v. 2.0
+	See the above repository for updates as well as full license text. */
+	
+	/* Makes menubar to appear in tabs toolbar pushing tabs to the side */
+	#toolbar-menubar:not([inactive]) ~ #TabsToolbar{
+	  margin-left:300px !important;
+	  margin-top: -26px !important;
+	}
+	:root[sizemode="maximized"] #toolbar-menubar:not([inactive]) ~ #TabsToolbar{
+	  margin-top: -28px !important;
+	}
+	
+	#toolbar-menubar >  .titlebar-buttonbox-container{ display: none }
+	#TabsToolbar > .titlebar-buttonbox-container{ display: -moz-box !important; visibility: visible !important; }
+302cc6b35f548b96cb7ac51752984c92|file:///home/drmdub/.mozilla/firefox/yhr45kja.default-release/chrome/userChrome.css|1|1|v|css
+	/* Source file https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome/autohide_menubar.css made available under Mozilla Public License v. 2.0
+	See the above repository for updates as well as full license text. */
+	
+	/* Makes menubar behave like on mac */
+	/* Menubar will be shown when cursor touches top of the spacers on both side of tabs. Window controls will be in menubar, so they are automatically hidden */
+	/* Make sure you have menubar enabled */
+	
+	#nav-bar-customization-target,
+	#PanelUI-button,
+	#nav-bar-overflow-button,
+	#TabsToolbar > .toolbar-items{ position: relative; z-index: 5; }
+	#toolbar-menubar > spacer{ flex-grow: 1 }
+	
+	#toolbar-menubar > spacer,
+	#toolbar-menubar > .titlebar-buttonbox-container{ order: 1000 }
+	
+	#TabsToolbar > .titlebar-spacer{ display: -moz-box !important; }
+	
+	#toolbar-menubar:not([customizing]){
+	  --uc-menubar-height: 34px;
+	  position: fixed;
+	  display: flex;
+	  width: 100vw; 
+	  height: var(--uc-menubar-height);
+	  margin-top: calc(8px - var(--uc-menubar-height));
+	  transition: margin-top 150ms linear !important;
+	  -moz-window-dragging: no-drag;
+	  z-index:4;
+	}
+	
+	#toolbar-menubar:hover{
+	  background-color: var(--toolbar-bgcolor) !important;
+	  margin-top: 0px;
+	  z-index: 6
+	}
+	
+	/* This exists only for compatibility reasons with some other styles */
+	#navigator-toolbox{ --uc-hide-window-control-space: 0 }
+	
+	
+	
+	
+	
+ac08a6d386ac05aaeaeb30d72d438b28|file:///home/drmdub/.mozilla/firefox/yhr45kja.default-release/chrome/userChrome.css|1|1|v|css
+	/* Source file https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome/multi-row_tabs_below_content.css made available under Mozilla Public License v. 2.0
+	See the above repository for updates as well as full license text. */
+	
+	/* Makes tabs to appear on multiple lines below the web content */
+	/* Tab reordering will not work and can't be made to work */
+	
+	/* !!!WARNING!!! */
+	/* This style completely breaks extension popups. As a workaround, you can pin the extension buttons to overflow menu which allows them to work. */
+	
+	/* Make menubar enabled for getting window controls in correct place. Menubar options will be shown as overlay when mouse is at top-left corner */
+	
+	/* It's recommended to move tabs new-tab-button outside tabs toolbar */
+	
+	/* Change the --multirow-n-rows to change maximum number of rows before the rows will start to scroll  */
+	/* Scrollbar can't be clicked but the rows can be scrolled with mouse */
+	/* This maximum visible rows won't work before Fx66 */
+	/* So this setting does nothing on Fx65 and all tab rows will be shown */
+	
+	@-moz-document url(chrome://browser/content/browser.xhtml){
+	
+	  :root{
+	    --multirow-toolbar-height: 40px;
+	    --multirow-top-padding: 0px;
+	    --multirow-n-rows: 3;
+	    --multirow-tab-min-width: 100px;
+	    --multirow-tab-dynamic-width: 1; /* Change to 0 for fixed-width tabs using the above width. */
+	  }
+	  @media (-moz-os-version: windows-win10){
+	    :root[sizemode="maximized"]{ --multirow-top-padding: 8px }
+	  }
+	  :root[uidensity="compact"]{--multirow-toolbar-height: 32px}
+	  :root{ border-top-width: 0px !important }
+	
+	  #main-window > body > box,
+	  #navigator-toolbox{ -moz-box-ordinal-group: 2; border-bottom: 0px !important }
+	
+	  #titlebar{-moz-appearance: none !important; } /* Try setting to "-moz-window-titlebar" if you face issues */
+	
+	  #nav-bar{
+	    position: fixed !important;
+	    display: flex;
+	    margin-left: 30px;
+	    width: calc(100vw - 30px);
+	    top: var(--multirow-top-padding);
+	  }
+	  :root[inFullscreen] #nav-bar,
+	  :root[tabsintitlebar] #nav-bar{
+	    margin-right: 138px;
+	    /* width == 100vw - margins */
+	    width: calc(100vw - 168px);
+	    top: var(--multirow-top-padding);
+	  }
+	
+	  :root[inFullscreen] #TabsToolbar > #window-controls{
+	    display: flex !important;
+	    justify-content: flex-end;
+	    position: fixed;
+	    right: 0;
+	    width: 138px;
+	    height: var(--multirow-toolbar-height);
+	    background:var(--toolbar-bgcolor);
+	  }
+	
+	  /* Fix incorrect vertical alignment with megabar */
+	  #urlbar[breakout]{ --urlbar-toolbar-height: var(--multirow-toolbar-height) !important; }
+	
+	  /* Fix customization view */
+	  #customization-panelWrapper > .panel-arrowbox > .panel-arrow{ margin-inline-end: initial !important; }
+	
+	  #customization-container,
+	  :root:not([inFullscreen]) #content-deck,
+	  :root:not([inFullscreen]) #browser{ margin-top: calc(var(--multirow-toolbar-height) + var(--multirow-top-padding))}
+	
+	  :root[inFullscreen] #TabsToolbar > #window-controls,
+	  :root[inFullscreen] #toolbar-menubar,
+	  :root[inFullscreen] #nav-bar{ top: calc(1px - (var(--multirow-toolbar-height) + var(--multirow-top-padding))) }
+	
+	  :root[inFullscreen] #navigator-toolbox:hover > #titlebar > #TabsToolbar > #window-controls,
+	  :root[inFullscreen] #navigator-toolbox:hover > #nav-bar,
+	  :root[inFullscreen] #navigator-toolbox:hover > #titlebar > #toolbar-menubar{ top: 0px }
+	
+	  /* Restyle nav-bar and menubar */
+	  #nav-bar-customization-target{ flex-grow: 1 }
+	
+	  #nav-bar-overflow-button,
+	  #PanelUI-menu-button{ height: var(--multirow-toolbar-height); }
+	
+	  #toolbar-menubar{
+	    height: var(--multirow-toolbar-height);
+	    position: fixed;
+	    display: flex;
+	    visibility: visible !important;
+	    top: var(--multirow-top-padding);
+	    width: 100vw;
+	    color: var(--lwt-text-color);
+	    background: linear-gradient(to right, var(--toolbar-bgcolor), var(--toolbar-bgcolor) 30px, transparent 30px) no-repeat;
+	  }
+	  #menubar-items + spacer{ flex-grow: 1 }
+	
+	  #toolbar-menubar > #menubar-items{
+	    -moz-box-pack: center;
+	    height: 100%;
+	    visibility: hidden;
+	  }
+	
+	  #toolbar-menubar:hover{ z-index: 2 }
+	  #oolbar-menubar:hover > #menubar-items{
+	    visibility: visible;
+	    background-image: linear-gradient( to left,transparent,var(--lwt-accent-color) 35px);
+	  }
+	
+	  #toolbar-menubar > .titlebar-buttonbox-container{ background: var(--toolbar-bgcolor); }
+	
+	  #toolbar-menubar > .titlebar-buttonbox-container > .titlebar-buttonbox{ height: 100% ;}
+	
+	  #main-menubar:last-child{ padding-inline-end: 40px }
+	  #toolbar-menubar > toolbarspring {
+	    background: url("chrome://global/skin/icons/settings.svg") no-repeat 10px;
+	    height: 100%;
+	    display: block;
+	    fill: currentColor;
+	    -moz-context-properties: fill;
+	    min-width: 28px !important;
+	    max-width: 28px !important;
+	  }
+	
+	  :root[tabsintitlebar] #PanelUI-button{ margin-right: 20px; }
+	
+	  #tabbrowser-tabs{
+	    min-height: unset !important;
+	    padding-inline-start: 0px !important
+	  }
+	
+	  #scrollbutton-up~spacer,
+	  #scrollbutton-up,
+	  #scrollbutton-down{ display: var(--scrollbutton-display-model,initial) }
+	
+	  scrollbox[part][orient="horizontal"]{
+	    display: flex;
+	    flex-wrap: wrap;
+	    overflow-y: auto;
+	    max-height: var(--uc-scrollbox-max-height,1px);
+	    scrollbar-color: currentColor transparent;
+	    scrollbar-width: thin;
+	  }
+	
+	  .scrollbox-clip[orient="horizontal"],
+	  #tabbrowser-arrowscrollbox{
+	    overflow: -moz-hidden-unscrollable;
+	    display: block;
+	    --scrollbutton-display-model: none;
+	    --uc-scrollbox-max-height: calc(var(--tab-min-height) * var(--multirow-n-rows));
+	  }
+	  
+	  :root[inFullscreen] .scrollbox-clip[orient="horizontal"]:not(:hover),
+	  :root[inFullscreen] #tabbrowser-arrowscrollbox:not(:hover){ --uc-scrollbox-max-height: 1px; min-height: 1px !important; }
+	
+	  .tabbrowser-tab{ height: var(--tab-min-height); }
+	
+	  .tabbrowser-tab[pinned]{
+	    position: static !important;
+	    margin-inline-start: 0px !important;
+	  }
+	
+	  .tabbrowser-tab[fadein]:not([pinned]){
+	    min-width: var(--multirow-tab-min-width) !important;
+	    flex-grow: var(--multirow-tab-dynamic-width);
+	    /*
+	    Uncomment to enable full-width tabs, also makes tab dragging a tiny bit more sensible
+	    Don't set to none or you'll see errors in console when closing tabs
+	    */
+	    /*max-width: 100vw !important;*/
+	  }
+	
+	  .tabbrowser-tab > stack{ width: 100%; height: 100%; }
+	
+	  /* This should fix potential flash that could occur when bottom border is hovered to show tabs in fullscreen mode */
+	  #tabbrowser-tabpanels{ background-color: var(--lwt-accent-color) !important; }
+	
+	  /* Hide some things that are unnecessary in multi-row below content mode */
+	
+	  #TabsToolbar > #window-controls,
+	  #alltabs-button,
+	  :root:not([customizing]) #TabsToolbar #new-tab-button,
+	  #tabbrowser-arrowscrollbox > spacer,
+	  .tabbrowser-tab::after{ display: none !important } /* Also disables tab separators since they mysteriously break tab-row scrolling */
+	
+	
+	
+b2e6655191aa0a205cf7aa2ec0c96fe1|file:///home/drmdub/.mozilla/firefox/yhr45kja.default-release/chrome/userChrome.css|20|1|v|css
+	/*start*/
+	
+	/* Source file https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome/tabs_below_content.css made available under Mozilla Public License v. 2.0
+	See the above repository for updates as well as full license text. */
+	
+	/* IMPORTANT */
+	/*
+	Get window_control_placeholder_support.css
+	Window controls will be all wrong without it.
+	Additionally on Linux, you may need to get:
+	linux_gtk_window_control_patch.css
+	*/
+	
+	.titlebar-buttonbox-container {
+	  position: fixed;
+	  display: block;
+	  top: 0;
+	  right: 0;
+	  height: 40px;
+	  z-index: 3;
+	  visibility: visible !important;
+	}
+	
+	:root[inFullscreen]
+	  #navigator-toolbox:not(:hover)
+	  .titlebar-buttonbox-container {
+	  display: none !important;
+	}
+	
+	:root[uidensity="compact"] .titlebar-buttonbox-container {
+	  height: 32px;
+	}
+	.titlebar-buttonbox-container > .titlebar-buttonbox {
+	  height: 100%;
+	}
+	
+	/* Re-adjust window cotrols if menubar is permanently enabled  */
+	:root[tabsintitlebar="true"]:not([inFullscreen])
+	  #toolbar-menubar[autohide="false"] {
+	  transform: translateX(0px);
+	}
+	:root[tabsintitlebar="true"]:not([inFullscreen])
+	  #toolbar-menubar[autohide="false"]
+	  .titlebar-buttonbox-container {
+	  height: 100%;
+	}
+	:root[tabsintitlebar="true"]:not([inFullscreen])
+	  #toolbar-menubar[autohide="false"]
+	  .titlebar-button {
+	  padding: 2px 17px !important;
+	}
+	
+	@media (-moz-os-version: windows-win10) {
+	  #titlebar {
+	    -moz-appearance: none !important;
+	  }
+	  /* Counteract -moz-appearance when maximized */
+	  :root[tabsintitlebar][sizemode="maximized"] #navigator-toolbox {
+	    padding-top: 8px !important;
+	  }
+	  :root[sizemode="maximized"]
+	    #toolbar-menubar:not([autohide="false"])
+	    .titlebar-buttonbox-container {
+	    top: 8px;
+	  }
+	}
+	/* Move tabs below content */
+	:root:not([inDOMFullscreen]) #browser-bottombox {
+	  margin-bottom: var(--tab-min-height);
+	}
+	:root[inFullscreen]:not([inDOMFullscreen]) #browser-bottombox {
+	  margin-bottom: 1px;
+	}
+	
+	#TabsToolbar {
+	  position: fixed;
+	  display: block;
+	  bottom: 0;
+	  width: 100vw;
+	  height: var(--tab-min-height);
+	  --tabs-navbar-shadow-size: 0px;
+	}
+	#TabsToolbar:hover {
+	  z-index: 1;
+	}
+	
+	:root[inFullscreen] #TabsToolbar {
+	  background-color: var(--lwt-accent-color);
+	}
+	#TabsToolbar-customization-target {
+	  width: 100vw;
+	}
+	:root[tabsintitlebar] #TabsToolbar {
+	  bottom: -1px;
+	}
+	.tab-background {
+	  border-top-style: none !important;
+	}
+	
+	/* Hide stuff that doesn't make sense with tabs below content */
+	#TabsToolbar > .titlebar-buttonbox-container,
+	#window-controls, /* Fullscreen window controls */
+	#TabsToolbar .titlebar-spacer {
+	  display: none !important;
+	}
+07a1f56f967e39a353f1c97b1732d71b|file:///home/drmdub/.mozilla/firefox/yhr45kja.default-release/chrome/userChrome.css|1|1|v|css
+	/* Source file https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome/menubar_in_tabs_toolbar_oneliner_compatible.css made available under Mozilla Public License v. 2.0
+	See the above repository for updates as well as full license text. */
+	
+	/* Use with navbar_tabs_oneliner.css */
+	
+	#toolbar-menubar:not([inactive]) ~ #TabsToolbar {
+	  margin-left: calc(var(--uc-navigationbar-width) + 300px) !important;
+	  margin-top: calc(0px - var(--uc-toolbar-height)) !important;
+	  padding-left: 0px !important;
+	}
+	#toolbar-menubar:not([inactive]) {
+	  margin-left: var(--uc-navigationbar-width);
+	  height: var(--uc-toolbar-height);
+	}
+	
+	#toolbar-menubar > .titlebar-buttonbox-container {
+	  display: none;
+	}
+19ce84b52e0d819716b7551d94498310|file:///home/drmdub/.mozilla/firefox/yhr45kja.default-release/chrome/userChrome.css|1|1|v|css
+	/* Source file https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome/tabs_below_content.css made available under Mozilla Public License v. 2.0
+	See the above repository for updates as well as full license text. */
+	
+	/* IMPORTANT */
+	/*
+	Get window_control_placeholder_support.css
+	Window controls will be all wrong without it.
+	Additionally on Linux, you may need to get:
+	linux_gtk_window_control_patch.css
+	*/
+	
+	.titlebar-buttonbox-container {
+	  position: fixed;
+	  display: block;
+	  top: 0;
+	  right: 0;
+	  height: 40px;
+	  z-index: 3;
+	  visibility: visible !important;
+	}
+	
+	:root[inFullscreen]
+	  #navigator-toolbox:not(:hover)
+	  .titlebar-buttonbox-container {
+	  display: none !important;
+	}
+	
+	:root[uidensity="compact"] .titlebar-buttonbox-container {
+	  height: 32px;
+	}
+	.titlebar-buttonbox-container > .titlebar-buttonbox {
+	  height: 100%;
+	}
+	
+	/* Re-adjust window cotrols if menubar is permanently enabled  */
+	:root[tabsintitlebar="true"]:not([inFullscreen])
+	  #toolbar-menubar[autohide="false"] {
+	  transform: translateX(0px);
+	}
+	:root[tabsintitlebar="true"]:not([inFullscreen])
+	  #toolbar-menubar[autohide="false"]
+	  .titlebar-buttonbox-container {
+	  height: 100%;
+	}
+	:root[tabsintitlebar="true"]:not([inFullscreen])
+	  #toolbar-menubar[autohide="false"]
+	  .titlebar-button {
+	  padding: 2px 17px !important;
+	}
+	
+	@media (-moz-os-version: windows-win10) {
+	  #titlebar {
+	    -moz-appearance: none !important;
+	  }
+	  /* Counteract -moz-appearance when maximized */
+	  :root[tabsintitlebar][sizemode="maximized"] #navigator-toolbox {
+	    padding-top: 8px !important;
+	  }
+	  :root[sizemode="maximized"]
+	    #toolbar-menubar:not([autohide="false"])
+	    .titlebar-buttonbox-container {
+	    top: 8px;
+	  }
+	}
+	/* Move tabs below content */
+	:root:not([inDOMFullscreen]) #browser-bottombox {
+	  margin-bottom: var(--tab-min-height);
+	}
+	:root[inFullscreen]:not([inDOMFullscreen]) #browser-bottombox {
+	  margin-bottom: 1px;
+	}
+	
+	#TabsToolbar {
+	  position: fixed;
+	  display: block;
+	  bottom: 0;
+	  width: 100vw;
+	  height: var(--tab-min-height);
+	  --tabs-navbar-shadow-size: 0px;
+	}
+	#TabsToolbar:hover {
+	  z-index: 1;
+	}
+	
+	:root[inFullscreen] #TabsToolbar {
+	  background-color: var(--lwt-accent-color);
+	}
+	#TabsToolbar-customization-target {
+	  width: 100vw;
+	}
+	:root[tabsintitlebar] #TabsToolbar {
+	  bottom: -1px;
+	}
+	.tab-background {
+	  border-top-style: none !important;
+	}
+	
+	/* Hide stuff that doesn't make sense with tabs below content */
+	#TabsToolbar > .titlebar-buttonbox-container,
+	#window-controls, /* Fullscreen window controls */
+	#TabsToolbar .titlebar-spacer {
+	  display: none !important;
+	}
+bfe1663b2dc39a1cde7c05df9950714d|file:///home/drmdub/.mozilla/firefox/yhr45kja.default-release/chrome/userChrome.css|1|1|v|css
+	/* Source file https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome/navbar_tabs_oneliner_menu_buttons_on_right.css made available under Mozilla Public License v. 2.0
+	See the above repository for updates as well as full license text. */
+	
+	/* Variation of oneliner where menubutton and overflow button are next to window controls (if window controls are on right side) */
+	
+	/* IMPORTANT */
+	/*
+	Get window_control_placeholder_support.css
+	Window controls will be all wrong without it
+	*/
+	
+	/* Modify these to change relative widths or default height */
+	
+	#navigator-toolbox {
+	  --uc-navigationbar-width: 50vw;
+	  --uc-toolbar-height: 40px;
+	}
+	/* reserved space for overflow + menu buttons */
+	#navigator-toolbox {
+	  --uc-buttons-width: calc(
+	    56px + 4 * var(--toolbarbutton-outer-padding) +
+	      var(--uc-menubutton-padding, 6px)
+	  );
+	}
+	#nav-bar:not([overflowing]) > #nav-bar-customization-target {
+	  --uc-buttons-width: calc(28px + 2 * var(--toolbarbutton-outer-padding) + 6px);
+	}
+	/* Override for other densities */
+	:root[uidensity="compact"] #navigator-toolbox {
+	  --uc-toolbar-height: 32px;
+	  --uc-menubutton-padding: 0px;
+	}
+	:root[uidensity="touch"] #navigator-toolbox {
+	  --uc-toolbar-height: 40px;
+	}
+	
+	:root[uidensity="compact"] #urlbar-container {
+	  --urlbar-container-height: var(--uc-toolbar-height) !important;
+	  padding-block: 0 !important;
+	}
+	:root[uidensity="compact"] #urlbar {
+	  --urlbar-toolbar-height: var(--uc-toolbar-height) !important;
+	}
+	
+	/* prevent urlbar overflow on narrow windows */
+	/* Dependent on how many items are in navigation toolbar ADJUST AS NEEDED */
+	@media screen and (max-width: 1000px) {
+	  #urlbar-container {
+	    min-width: unset !important;
+	  }
+	}
+	
+	#TabsToolbar {
+	  margin-left: var(--uc-navigationbar-width);
+	  --tabs-navbar-shadow-size: 0px;
+	}
+	#tabbrowser-tabs {
+	  --tab-min-height: var(--uc-toolbar-height) !important;
+	}
+	/* This isn't useful when tabs start in the middle of the window */
+	.titlebar-placeholder[type="pre-tabs"],
+	.titlebar-spacer[type="pre-tabs"] {
+	  width: 8px !important;
+	}
+	#nav-bar {
+	  margin-top: calc(0px - var(--uc-toolbar-height));
+	}
+	
+	#nav-bar-customization-target {
+	  margin-right: calc(
+	    100vw - (var(--uc-navigationbar-width)) - var(--uc-window-control-width) -
+	      var(--uc-buttons-width) - var(--uc-window-drag-space-width)
+	  );
+	}
+	
+	@supports -moz-bool-pref("layout.css.osx-font-smoothing.enabled") {
+	  .titlebar-buttonbox-container {
+	    position: fixed;
+	    display: blocK;
+	    left: 0px;
+	    z-index: 3;
+	  }
+	  #nav-bar-customization-target {
+	    margin-right: calc(
+	      100vw - (var(--uc-navigationbar-width)) - var(--uc-buttons-width) -
+	        var(--uc-window-drag-space-width)
+	    );
+	  }
+	}
+	
+	#TabsToolbar > .toolbar-items {
+	  position: relative !important;
+	  z-index: 2;
+	}
+	.titlebar-placeholder[type="post-tabs"],
+	.titlebar-spacer[type="post-tabs"] {
+	  width: calc(
+	    var(--uc-buttons-width) + var(--uc-window-drag-space-width)
+	  ) !important;
+	}
+	#PanelUI-button,
+	#nav-bar-overflow-button {
+	  margin: 0px !important;
+	  border: 0px !important;
+	  position: relative;
+	  z-index: 3;
+	}
+	/* 1px margin on touch density causes tabs to be too high */
+	.tab-close-button {
+	  margin-top: 0 !important;
+	}
+	
+	/* Hide dropdown placeholder */
+	#urlbar-container:not(:hover) .urlbar-history-dropmarker {
+	  margin-inline-start: -28px;
+	}
+d5d3db1765287eef77d7927cc956f50a|file:///home/drmdub/Documents/scripts/tagger|23|1|V|sh
+	title
+0441f9e2d94c39a70e21b83829259aa4|file:///home/drmdub/Documents/scripts/tagger|23|1|V|sh
+	artist
+a4b2d20f456833bcdac42e73edad64c0|file:///home/drmdub/Documents/scripts/tagger|23|1|V|sh
+	album
+368cc7b17925cc0f9c4b5a90db1e68c1|file:///home/drmdub/Documents/scripts/tagger|23|1|V|sh
+	track
+84cdc76cabf41bd7c961f6ab12f117d8|file:///home/drmdub/Documents/scripts/tagger|23|1|V|sh
+	year
+06d4cd63bde972fc66a0aed41d2f5c51|file:///home/drmdub/Documents/scripts/tagger|23|1|V|sh
+	comment
+1fe420178c5ff28acd3cc868983965b1|file:///home/drmdub/Documents/scripts/tagger|22|1|V|sh
+	#Variables
+c0c28cf91748a47f45ef809f58b5471f|file:///home/drmdub/Documents/scripts/music|3|1|V|sh
+	echo "What is the title and artist of the song? title - artist"
+372a37fd027df2aef5785829c0ef7a01|file:///home/drmdub/Documents/scripts/music|3|1|V|sh
+	read -e -p "Title and Artist: " $t 
+96f91e61d15b757c326a8fa2c02c90db|file:///home/drmdub/Documents/scripts/music|3|1|V|sh
+	echo "$t"
+ead5b635366c5cd52e5d0816d212787b|file:///home/drmdub/Documents/scripts/music|9|11|v|sh
+	Positional parameter 1 contains something
+d578c12640ae32e131c70a0efaf2bbdd|file:///home/drmdub/Documents/scripts/music|8|1|V|sh
+	if [ "$1" != "" ]; thenddd
+c40123920d1ba1623d8f2d535eee0e9e|file:///home/drmdub/Documents/scripts/music|8|5|V|sh
+	    echo "$1"
+2954e92a9b4d0e998fe4893f8141649a|file:///home/drmdub/Documents/scripts/music|8|1|V|sh
+	else
+77cb652b82c98a94dce2328448de3736|file:///home/drmdub/Documents/scripts/music|8|5|V|sh
+	    echo "Positional parameter 1 is empty"
+49d81b74464ddce631b5ca97006218f0|file:///home/drmdub/Documents/scripts/music|7|1|V|sh
+	#echo $0 $1
+f26c844ce03039ef8d35acf94226c490|file:///home/drmdub/Documents/scripts/music|7|1|V|sh
+	echo $title
+af87f1e3b9b77c5d72c46f7a9c50ade5|file:///home/drmdub/Documents/scripts/music|20|1|V|sh
+	echo $title $artist $album $year $comment
+71753b43631bd0daaef0547c5f1ac02d|file:///home/drmdub/Documents/scripts/music|23|1|V|sh
+	echo $path
+9889a4dd1df0aa9c20604dc08870fbc5|file:///home/drmdub/.dwm/autostart.sh|22|1|V|sh
+	exec slstatus
+dd5f2bbaf986173a44f4790a2177822b|file:///home/drmdub/.config/suckless/slstatus/config.h|67|9|V|cpp
+	        { wifi_perc,      "%s%% ",        "wlo1" },
+1413371409be023c6cf75ba2eae3d91e|file:///home/drmdub/.config/suckless/slstatus/config.h|66|1|V|cpp
+		{ wifi_essid,     "| WIFI %s ",     "wlo1" },
+2d8c066076b26e74dd68374d6cfd3967|file:///home/drmdub/.config/suckless/slstatus/config.h|69|9|V|cpp
+	        { battery_perc,   "| BAT %s%% " , "BAT1" },
+c0b0ea790cf0ffa74799dd80f7a8f5d9|file:///home/drmdub/.config/suckless/slstatus/config.h|69|9|V|cpp
+	        { battery_state,  "%s ",          "BAT1" },
+dcdef1226748c1165d582b5752a8ff9b|file:///home/drmdub/.config/suckless/slstatus/config.h|66|8|V|cpp
+	        { netspeed_rx,    "r:%s",        "wlo1" },
+d4a64e9618ef01809b72673ab78a5325|file:///home/drmdub/.config/suckless/slstatus/config.h|66|9|V|cpp
+	        { netspeed_tx,    "t:%s",        "wlo1" },
+1ef4e512e5d145d8ad21496165f3d18e|file:///home/drmdub/.config/suckless/slstatus/config.h|66|1|V|cpp
+	        { disk_perc,      "| DISK %s%% ", "/" },
+ddc635cbb5579763b355eca3c9206b40|file:///home/drmdub/.config/suckless/slstatus/config.h|68|1|V|cpp
+	        { uptime,         "| %s ",       "NULL" },
+997f59798eb1e475e9b75bf0f2302641|file:///home/drmdub/.config/suckless/slstatus/config.h|70|11|v|cpp
+	uptime
+273ac4b461e27cbbf1540738c19845b4|file:///home/drmdub/.config/suckless/slstatus/config.h|70|9|V|cpp
+	        { run_command,    "| %2s ",     "pavolume.sh" },
+2679d14f0e8f83e64414a50f72904ea4|file:///home/drmdub/.config/suckless/slstatus/config.h|70|9|V|cpp
+	        { datetime,       "| %s",         "%F %T" },
+84b5323ddac9e1a3017ba6410fcb96f1|file:///home/drmdub/.config/suckless/slstatus/config.h|71|42|v|cpp
+	pavolume.sh
+31d82213381b8090037e6e2a7e169b10|file:///home/drmdub/.config/dwm/config.h|11|1|v|cpp
+	static const char col_gray1[]       = "#2a2a2a";
+	static const char col_gray2[]       = "#444444";
+	static const char col_gray3[]       = "#f8f8f2";
+	static const char col_gray4[]       = "#eeeeee";
+	static const char col_cyan[]        = "#00a5af";
+	static const char *colors[][3]      = {
+	/*	               fg         bg         border   */
+		[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
+		[SchemeSel]  = { col_gray4, col_cyan,  col_cyan  },
+	};
+	
+cca1e458b028514e0ebec0a763bec5dc|file:///home/drmdub/.config/dwm/config.h|16|1|V|cpp
+	static const unsigned int baralpha = 0xd0;
+342a78a66a5efe6824343967c003c76a|file:///home/drmdub/.config/dwm/config.h|16|1|V|cpp
+	static const unsigned int borderalpha = OPAQUE;
+fcf65328e4615bfd1aea2395347b2cdd|file:///home/drmdub/.config/dwm/config.h|21|1|V|cpp
+	static const unsigned int alphas[][3]      = {
+68b59ea12041bf21895f6a697cc08f37|file:///home/drmdub/.config/dwm/config.h|21|2|V|cpp
+		/*               fg      bg        border     */
+349ce66b27ac645d98b8bb5e8653b26e|file:///home/drmdub/.config/dwm/config.h|21|2|V|cpp
+		[SchemeNorm] = { OPAQUE, baralpha, borderalpha },
+f3e54827ca7b67a1fff21a06bec3a73e|file:///home/drmdub/.config/dwm/config.h|21|2|V|cpp
+		[SchemeSel]  = { OPAQUE, baralpha, borderalpha },
+290d4b81f4e2b47d86fd1b0170e9aab7|file:///home/drmdub/.config/suckless/slstatus/config.h|66|30|v|cpp
+	DISK
+0cb8768808e8528f15d53b41c55634b9|file:///home/drmdub/.zshrc|62|1|v|zsh
+	
+	# Import colorscheme from 'wal' asynchronously
+	# &   # Run the process in the background.
+	# ( ) # Hide shell job control messages.
+	# Not supported in the "fish" shell.
+	(cat ~/.cache/wal/sequences &)
+	
+	# Alternative (blocks terminal for 0-3ms)
+	cat ~/.cache/wal/sequences
+	
+	# To add support for TTYs this line can be optionally added.
+	source ~/.cache/wal/colors-tty.sh
+	
+	
+ca2888d0b070c6324ed014b0f20e90b8|file:///home/drmdub/.config/termite/config|47|1|v|dosini
+	# one dark
+	[colors]
+	
+	# special
+	foreground      = #abb2bf
+	foreground_bold = #abb2bf
+	cursor          =
+	#background      = #282c34
+	background = rgba(40, 44, 52, 0.9)
+	
+	
+	# black
+	color0  = #282c34
+	color8  = #5c6370
+	
+	# red
+	color1  = #E95678
+	color9  = #EC6A88
+	
+	# green
+	color2  = #29D398
+	color10 = #3FDAA4
+	
+	# yellow
+	color3  = #FAC29A
+	color11 = #d19a66
+	
+	# blue
+	color4  = #26BBD9
+	color12 = #3FC6DE
+	
+	# magenta
+	color5  = #EE64AE
+	color13 = #F075B7
+	
+	# cyan
+	color6  = #59E3E3
+	color14 = #6BE6E6
+	
+	# white
+	color7  = #FDF0DD
+	color15 = #828997
+	
+	
+c1e10cced8b8a6b61e7be463b4ceef52|file:///home/drmdub/Downloads/gitthings/xresources/Xresources|1|1|v|xdefaults
+	! Dracula Xresources palette
+	*.foreground: #F8F8F2
+	*.background: #282A36
+	*.color0:     #000000
+	*.color8:     #4D4D4D
+	*.color1:     #FF5555
+	*.color9:     #FF6E67
+	*.color2:     #50FA7B
+	*.color10:    #5AF78E
+	*.color3:     #F1FA8C
+	*.color11:    #F4F99D
+	*.color4:     #BD93F9
+	*.color12:    #CAA9FA
+	*.color5:     #FF79C6
+	*.color13:    #FF92D0
+	*.color6:     #8BE9FD
+	*.color14:    #9AEDFE
+	*.color7:     #BFBFBF
+	*.color15:    #E6E6E6
+74328ef71fdf5f367275cbc771a5c1c0|file:///home/drmdub/.config/suckless/slstatus/config.h|71|9|V|cpp
+	        { run_command,    "|   %2s ",     "mpd.sh" },
+7bb0edd98f22430a03b67f853e83c2ca|file:///home/drmdub/.config/suckless/slstatus/config.h|66|8|V|cpp
+	        
+26bca600141dc652f67fcd28c676d8d9|file:///home/drmdub/.config/suckless/slstatus/config.h|74|49|v|cpp
+	%F %T
+19b7b8ed7edf4dd215f08998067e8708|file:///home/drmdub/.config/suckless/slstatus/config.h|69|9|V|cpp
+	        { run_command,    "| %2s ",     "mail.sh" },
+7fb713bde490ae37d4c1bdc4ae686d2e|file:///home/drmdub/.mozilla/firefox/yhr45kja.default-release/chrome/userChrome.css|104|1|V|css
+	#pageActionButton {
+e032a66947c5ae652fe0df1b6d7d4050|file:///home/drmdub/.mozilla/firefox/yhr45kja.default-release/chrome/userChrome.css|104|3|V|css
+	  display: none !important;
+e93028bdc1aacdfb3687181f2031765d|file:///home/drmdub/.config/suckless/slstatus/config.h|4|31|v|cpp
+	3000
+2228d412d44da1363e014f803a538e2b|file:///home/drmdub/.config/termite/config|52|19|v|dosini
+	rgba(40, 42, 54, 0.8)
+b1801bfdcb599d448d0a3d62af6e77e9|file:///home/drmdub/.dwm/sxhkd/sxhkdrc|34|1|V|sxhkdrc
+	alt + b
+7e473826d59f034d527b9a79cc388271|file:///home/drmdub/.dwm/sxhkd/sxhkdrc|34|2|V|sxhkdrc
+	 ~/Documents/scripts/bukuadd
+58339126ed40a187f1003db4f31f93ba|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|159|11|v|html
+	<a id="link" href="https://boards.4channel.org/wsg/">
+ab2d887baec83b145c012605ad671935|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|159|30|v|html
+	https://boards.4channel.org/wsg/
+7fbba453e92444f55c4d44e04f43fc68|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|160|11|v|html
+	<a id="link" href="https://boards.4channel.org/lit/">
+5bdee0bd27051bd74f507b8d4cbdaf33|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|160|30|v|html
+	https://boards.4channel.org/lit/
+b94b0611573370790f3a91f965f6808c|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|161|11|v|html
+	<a id="link" href="https://boards.4channel.org/g/">
+628c410458b47e3c67ccb205dbc2d057|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|161|30|v|html
+	https://boards.4channel.org/g/
+a6f87fa79b8a14372837a6d7202057b4|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|161|1|V|html
+	          <a id="link" href="https://archiveofourown.org/tags/Daphne%20Greengrass*s*Harry%20Potter/works">Haphne AO3</a>
+41b394758330c83757856aa482c79977|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|161|10|V|html
+	          
+96f726bfb3033737c7cb4d1cc091fb52|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|161|11|v|html
+	<a id="link" href="https://archiveofourown.org/tags/Daphne%20Greengrass*s*Harry%20Potter/works">
+8e260b69559376d2e15af2a440a2343a|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|161|30|v|html
+	https://archiveofourown.org/tags/Daphne%20Greengrass*s*Harry%20Potter/works
+8669235eb7b6a46621893e818f031a15|file:///home/drmdub/.dwm/sxhkd/sxhkdrc|74|12|v|sxhkdrc
+	picom-toggle.sh
+5a4255d800af5a106af4aea96817531c|file:///home/drmdub/.xmonad/xmonad.hs|85|15|v|haskell
+	alacritty
+788b5dbe28b849781aa3bae4f66963e9|file:///home/drmdub/.xmonad/xmonad.hs|20|20|v|haskell
+	xterm
+93035ca575d8d8d4070be4a8f3e62c61|file:///home/drmdub/.xmonad/xmonad.hs|246|17|v|haskell
+	return ()
+1101ce7a0787182ef98d5281c0bd9531|file:///home/drmdub/.xmonad/xmonad.hs|246|1|V|haskell
+	myStartupHook :: X ()
+eaef96cbeda65d05a0b31b8079062d82|file:///home/drmdub/.dwm/sxhkd/sxhkdrc|1|1|v|sxhkdrc
+	super + Escape
+	    pkill -USR1 -x sxhkd
+	
+	super + Return
+	   termite
+	
+	super + shift + Return
+	    thunar
+	
+	#Rofi & dmenu
+	
+	super + shift + d 
+	   dmenu run
+	
+	super + d
+	    rofi -show run -font "Noto Sans 13"
+	
+	super + b
+	  buku-dmenu
+	
+	super + c
+	  clipmenu
+	
+	super + e
+	    rofi -show emoji -modi emoji
+	
+	
+	alt + p
+	    rofi -show
+	
+	alt + c
+	    rofi -show calc -modi calc -no-show-match -no-short > /dev/null
+	
+	# Application Keybindings
+	
+	super + w
+	    firefox
+	
+	super + s
+	   simplescreenrecorder
+	
+	super + o 
+	   obs & audacity
+	
+	ctrl + alt + k
+	  termite -e bpytop
+	
+	alt + s
+	    todoist
+	
+	alt + z
+	    zim
+	
+	alt + g
+	    evolution
+	
+	alt + n 
+	    discord
+	
+	alt + t 
+	    telegram-desktop
+	
+	ctrl + alt + s
+	    xfce4-screenshooter
+	
+	alt + shift + l
+	  lotion
+	
+	ctrl + alt + n
+	    termite 'ncmpcpp' -e ncmpcpp
+	
+	#Picom Toggle
+	ctrl + alt + o
+	    ~/.dwm/ptoggle.sh
+	
+	ctrl + alt + p
+	    ~/.dwm/ptoggleon.sh
+	    
+	
+	
+	#Audio Keybindings
+	
+	XF86AudioRaiseVolume
+	        amixer -c 1 -- sset Master 2db+
+	
+	XF86AudioLowerVolume
+	        amixer -c 1 -- sset Master 2db-
+	
+	XF86AudioMute
+	        amixer -c 1 -- sset Master toggle
+	
+	alt + d
+	        amixer -c 1 -- sset Master 2db+
+	
+	alt + a
+	        amixer -c 1 -- sset Master 2db-
+	
+	XF86AudioPlay
+	    playerctl play-pause
+	
+	ctrl + alt + p
+	    playerctl play-pause
+	
+	XF86AudioNext
+	    playerctl next
+	
+	XF86AudioPrev
+	    playerctl previous
+	
+	ctrl + shift + period
+	    playerctl next
+	
+	ctrl + shift + comma
+	    playerctl previous
+	
+	XF86AudioStop
+	    playerctl stop
+	
+	alt + {h,j,k,l}
+	   mpc {prev,next,play,pause}
+	
+	alt + m
+	  termite 'neomutt' -e neomutt
+	
+	#alt + ctrl + p
+	 # wal -i
+723e9107a0cba8423f8f8cf898b8a60f|file:///home/drmdub/.dwm/sxhkd/sxhkdrc|1|1|V|sxhkdrc
+	super + Escape
+	    pkill -USR1 -x sxhkd
+b0e7eabe3d5ee7c01b8403d8f2420f15|file:///home/drmdub/.dwm/sxhkd/sxhkdrc|1|1|v|sxhkdrc
+	super + Escape
+	    pkill -USR1 -x sxhkd
+	
+	super + Return
+	   termite
+	
+	super + shift + Return
+	    thunar
+	
+	#Rofi & dmenu
+	
+	super + shift + d 
+	   dmenu run
+	
+	super + d
+	    rofi -show run -font "Noto Sans 13"
+	
+	super + b
+	  buku-dmenu
+	
+	super + c
+	  clipmenu
+	
+	super + e
+	    rofi -show emoji -modi emoji
+	
+	
+	alt + p
+	    rofi -show
+	
+	alt + c
+	    rofi -show calc -modi calc -no-show-match -no-short > /dev/null
+	
+	# Application Keybindings
+	
+	super + w
+	    firefox
+	
+	super + s
+	   simplescreenrecorder
+	
+	super + o 
+	   obs & audacity
+	
+	ctrl + alt + k
+	  termite -e bpytop
+	
+	alt + s
+	    todoist
+	
+	alt + z
+	    zim
+	
+	alt + g
+	    evolution
+	
+	alt + n 
+	    discord
+	
+	alt + t 
+	    telegram-desktop
+	
+	ctrl + alt + s
+	    xfce4-screenshooter
+	
+	alt + shift + l
+	  lotion
+	
+	ctrl + alt + n
+	    termite 'ncmpcpp' -e ncmpcpp
+	
+	#Picom Toggle
+	ctrl + alt + o
+	    ~/.dwm/ptoggle.sh
+	
+	ctrl + alt + p
+	    ~/.dwm/ptoggleon.sh
+	    
+	
+	
+	#Audio Keybindings
+	
+	XF86AudioRaiseVolume
+	        amixer -c 1 -- sset Master 2db+
+	
+	XF86AudioLowerVolume
+	        amixer -c 1 -- sset Master 2db-
+	
+	XF86AudioMute
+	        amixer -c 1 -- sset Master toggle
+	
+	alt + d
+	        amixer -c 1 -- sset Master 2db+
+	
+	alt + a
+	        amixer -c 1 -- sset Master 2db-
+	
+	XF86AudioPlay
+	    playerctl play-pause
+	
+	ctrl + alt + p
+	    playerctl play-pause
+	
+	XF86AudioNext
+	    playerctl next
+	
+	XF86AudioPrev
+	    playerctl previous
+	
+	ctrl + shift + period
+	    playerctl next
+	
+	ctrl + shift + comma
+	    playerctl previous
+	
+	XF86AudioStop
+	    playerctl stop
+	
+	alt + {h,j,k,l}
+	   mpc {prev,next,play,pause}
+	
+	alt + m
+	  termite 'neomutt' -e neomutt
+	
+	#alt + ctrl + p
+	 #
+63f99356382e8c020c13d9ac2eed662a|file:///home/drmdub/.xmonad/xmonad.hs|64|4|V|haskell
+	    , ((modm,               xK_Return), spawn "termite")
+580087d10f17ca714a93f5452b307937|file:///home/drmdub/.xmonad/xmonad.hs|65|5|V|haskell
+	    , ((modm,               xK_p     ), spawn "dmenu_run")
+28c9f855bb1a2df238bae5897ddf7672|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|195|12|v|html
+	 <a
+	              id="link"
+	              href="https://archiveofourown.org/tags/Daphne%20Greengrass*s*Harry%20Potter/works"
+	              >Haphne AO3</a
+	            >
+	
+e35a7d9fb075e9c70617b9fe244a06ec|file:///home/drmdub/.config/dwm/dwm.c|807|2|V|c
+			sw = m->ww - drawstatusbar(m, bh, stext);
+aaf81d6f0ab85077b3c13528f0a24f31|file:///home/drmdub/.config/dwm/dwm.c.rej|17|4|v|diff
+	drw_setscheme(drw, scheme[SchemeNorm]);
+	+		sw = TEXTW(stext) - lrpad + 2; /* 2px right padding */
+	+		drw_text(drw, m->ww - sw, 0, sw, bh, 0, stext, 0);
+	
+0b92644b2beb41167295665654b76590|file:///home/drmdub/.config/dwm/dwm.c|810|1|V|c
+	sw = m->ww - drawstatusbar(m, bh, stext);
+60ddc2d2bbbf0a1a6f30188b36206240|file:///home/drmdub/.config/dwm/dwm.c|800|1|V|c
+	<<<<<<<
+a3a0273090a7209348e8b95f80d06b64|file:///home/drmdub/.config/dwm/dwm.c|809|1|V|c
+	>>>>>>>
+554cc4ba6119b0924b1d9e0c42e211b1|file:///home/drmdub/.config/dwm/dwm.c|903|3|V|c
+			drw_setscheme(drw, scheme[SchemeNorm]);
+1e8714a23ae1649d071f8061a9a6cb7b|file:///home/drmdub/.config/dwm/dwm.c|903|3|V|c
+			tw = TEXTW(stext) - lrpad + 2; /* 2px right padding */
+ff32b20213e421e49d50da4f20d266f9|file:///home/drmdub/.config/dwm/dwm.c|903|3|V|c
+			drw_text(drw, m->ww - tw, 0, tw, bh, 0, stext, 0);
+5c979eb7a3b93d5bb574a81b9f135686|file:///home/drmdub/.config/dwm/dwm.c.rej|19|1|V|diff
+	+		sw = m->ww - drawstatusbar(m, bh, stext);
+58199c2036b9f62d81458cd9f385715a|file:///home/drmdub/.xmonad/xmonad.hs|245|12|V|haskell
+	            spawn "nitrogen --restore"
+7ffb9870ae61780a1bc948ae45d044a3|file:///home/drmdub/.xmonad/xmonad.hs|245|13|V|haskell
+	            spawn "picom"
+736e6dd9139e770d35307c395862a764|file:///home/drmdub/.xmonad/xmonad.hs|245|20|v|haskell
+	sxhkd -c ~/.xmonad/sxhkd/sxhkdrc
+1a13e8b32e56ba1d2594f0539b699bcd|file:///home/drmdub/.xmonad/xmonad.hs|246|4|V|haskell
+	            setWMName "LG3D"
+5777645907436433683010285df56229|file:///home/drmdub/.xmonad/xmonad.hs|246|10|V|haskell
+	         --   spawm "~/.config/polybar/launch.sh"
+2245023265ae4cf87d02c8b6ba991139|file:///home/drmdub/.xmonad/scripts/autostart.sh|20|22|v|sh
+	config
+956e877177566450dd45495cfd310bc2|file:///home/drmdub/.config/dwm/dwm.c|256|1|V|c
+	static char stext[256];
+da884ef6bee5ec816af6ed03d65a1393|file:///home/drmdub/.config/dwm/dwm.c|547|2|V|c
+		for (i = 0; i < LENGTH(colors); i++)
+a6a4ed8735f2ce5b0743567aa7cdbf0a|file:///home/drmdub/.config/dwm/dwm.c|1861|2|V|c
+		scheme = ecalloc(LENGTH(colors), sizeof(Clr *));
+297920c8b870d0a3e43f269213724b92|file:///home/drmdub/.dwm/sxhkd/sxhkdrc|55|5|v|sxhkdrc
+	evolution
+308065b5078a49f986fc3c9f9b66e5d3|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|7|1|V|html
+	</html>
+7cbe445d6440646efcc3e18aba228af1|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|8|1|V|html
+	    <h1>Social</h1>
+f431e17ea0081a3c9e51fc240221ee21|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|9|9|v|html
+	Social
+babd0daf38a8ba8a6c33c4d1d354eb56|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|4|3|v|html
+	<head>
+dc93675f357a2b070a8ecea289fe4cce|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|11|4|v|html
+	 <h1>Social</h1>
+	    <h1>Fanfic</h1>
+	    <h1>Media</h1>
+	    <h1>Tools</h1>
+	
+6fa0b329ca2249d80ad86ad016f3a337|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|10|4|V|html
+	    </body>
+	     </head>
+1979dced8adc6d6f6480a3f42a96da57|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|9|5|V|html
+	    </body>
+185bdb68b8df6c053533abcc40b264f9|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|15|1|V|html
+	  </head>
+1baae82469ac851d1c28a81e050109e9|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|7|12|v|html
+	http://github.com/mtwb47/mtwb47.github.io/docs/style.css
+e62c529bfd0983fcbd2c7a85dd1e9a96|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|13|1|V|css
+	  width: 60%;
+fd71f953f907a08426d316d058f07b9e|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|12|2|V|css
+	  margin-right: auto;
+73ab3db533f00a139d259d74d95798eb|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|12|3|V|css
+	  margin-left: auto;
+e5bdce32dcecf5b3c8b9b5b1d9988800|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|12|3|V|css
+	  margin-top: auto;
+d39c36822acdf09cb0ebece67acd4432|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|12|3|V|css
+	  margin-bottom: auto;
+26fdaad75c69692db4b7406ceaa4e5d9|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|12|3|V|css
+	  width: 30%;
+a28a35387d0fd15999d7517261da83b1|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|12|2|v|css
+	 padding: 70px 0;
+	  border: 3px solid green;
+	  text-align: center;
+	}
+f701c49f578b5d443b92dfd9b346c6b4|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|12|2|V|css
+	  display: flex;
+79811f67b2897fd35d4da02624f4df1c|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|12|3|V|css
+	  justify-content: center;
+d6cd320da7764d282a65284d6d9c5f76|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|12|3|V|css
+	  align-items: center;
+09f563e97f1185250ab40dd5474c3681|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|12|3|V|css
+	  height: 940px;
+2e7c2f1e9b306c9b5a07e39dd5b3c516|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|12|3|V|css
+	  border: 3px solid green;
+2e746abd05227a0d59728b8d8a901057|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|9|7|v|html
+	<h1 class="header">
+47e7a8090f7571187d3a707ada90f136|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|10|7|v|html
+	<a href="https://facebook.com">
+fab97a1ef34a377d112adbbba3c02b2d|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|10|7|V|html
+	      <a class="link" href="https://facebook.com">Facebook</a></a>
+94b9ae2436566ef32fcd19d5dc161ed3|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|14|5|v|html
+	<div class="link">
+3ac3f596470997b75b3843398e7f9525|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|14|5|V|html
+	    <div class="section2">  
+56e14068523f02a6a01f5019ca7657fb|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|15|5|V|html
+	    </div>  
+9b8ef933ae99a7a75847b70ab912acd3|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|16|1|V|css
+	.section2 {
+ee8669da01122fad7c697a690682d7ae|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|16|3|V|css
+	  padding: 580px 0;
+e2e1e078be05ece348e37c6a10b846c6|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|16|3|V|css
+	  text-align: center;
+06f42ffee164d8df5f68aed4f4e1e8cd|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|14|5|V|html
+	    <a href="https://facebook.com">Facebook</a></a>
+a668394bc97909c548dc6598df923c93|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|17|18|v|css
+	150px
+69d959f4bdd7cf157468137572e54a3f|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|14|7|v|html
+	<div class="ls">
+1d284ea6189fb1ff3da12af3375afb7a|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|18|3|V|css
+	  color: #e5c07b;
+88e9926137834893092151f72f8634b8|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|16|1|v|css
+	#social {
+	  color: #e5c07b;
+	}
+	
+36fa3a193d737e5ad86441e422ed5a78|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|23|2|v|css
+	social
+5993e42b3ed82dfce02bec731dc62350|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|12|1|V|css
+	.link {
+6c725cabd22ab27192a6623bb81a02ba|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|15|1|v|css
+	.social {
+	  padding-right: 310px;
+	}
+	
+	
+7c4f29407893c334a6cb7a87bf045c0d|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|26|11|v|css
+	right
+118b583f5522dc3db746ae9b49085025|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|14|7|v|html
+	<div class="social">
+fcc3c75380c124cbb812678e1c50900b|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|16|7|V|html
+	      </div>
+0c8db01139b5731aacc314a8537ccd66|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|16|7|V|html
+	      <div class="fanfic">
+7c97c6e24f93342021ce157d528bbe4d|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|17|7|V|html
+	      <div class="media">
+db5f54b5c58927053a880b3bba66c9f5|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|19|1|V|html
+	      <div class ="tools">
+219e91cd80f87601e8c88dda86832265|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|16|1|v|css
+	
+	.social {
+	  padding-right: 310px;
+	}
+	.fanfic {
+	  padding-right: 90px;
+	}
+	.media {
+	  padding-left: 130px;
+	}
+	.tools {
+	  padding-left: 300px;
+	}
+	
+	
+f38d00fd15439b66f3e6bbe007a90c71|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css|13|3|V|css
+	  social
+ade0f47827844543c89ed21bfed3a6f2|file:///home/drmdub/.xmonad/scripts/autostart.sh|31|1|V|sh
+	run dex $HOME/.config/autostart/arcolinux-welcome-app.desktop
+feff3202eb72095f50d6564c882539c8|file:///home/drmdub/.xmonad/scripts/autostart.sh|30|1|V|sh
+	#start ArcoLinux Welcome App
+d3e77ae791ed13ef60fcae6211e42e32|file:///home/drmdub/.xmonad/scripts/autostart.sh|31|1|V|sh
+	#Some ways to set your wallpaper besides variety or nitrogen
+4c035c23354205a8e8195314ab58f339|file:///home/drmdub/.xmonad/scripts/autostart.sh|31|1|V|sh
+	feh --bg-fill /usr/share/backgrounds/arcolinux/arco-wallpaper.jpg &
+06a7f17bf040838f76768d73cfb4353a|file:///home/drmdub/.xmonad/scripts/autostart.sh|31|1|V|sh
+	#start the conky to learn the shortcuts
+47b7ca2b60df853111e89b7d00d0c938|file:///home/drmdub/.xmonad/scripts/autostart.sh|31|1|V|sh
+	(conky -c $HOME/.xmonad/scripts/system-overview) &
+3d5c6667816e8bf6fe3855e2be74f225|file:///home/drmdub/.xmonad/scripts/autostart.sh|32|1|V|sh
+	run variety &
+93783ccf944f3dec0da098507a9009c5|file:///home/drmdub/.config/termite/config|52|19|v|dosini
+	rgba(63, 63, 63, 0.8)
+63c6598e9ddd2961e7dfa4d4eb8144a1|file:///home/drmdub/.config/suckless/slstatus/config.h|4|31|v|cpp
+	3800
+e863270127ca6116fd30e708cdc582fc|file:///home/drmdub/.zshrc|63|1|v|zsh
+	neofetch
+c8665137e8961272c82e49f353c4239e|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|21|33|v|html
+	<a href="https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=78bf890f-0b5c-4cf4-a80a-a4400ccc6641&protectedtoken=true&domain_hint=gamca.sk&nonce=637094247029805070.17ea6557-27d5-4316-a030-99ab8b69723a&state=Dcs7EoAgDEVR0NqlRMInPLKcoI6F41hYuH0pzu2ud87NwzR4HnGoGawlFXDSxsLgNeKwKgJK2IVKjpWMM5Oq9darImXz413C81k47d5sfa8f" id="link-2">
+435261a7f15611db4af3db873f923eac|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|21|42|v|html
+	https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=78bf890f-0b5c-4cf4-a80a-a4400ccc6641&protectedtoken=true&domain_hint=gamca.sk&nonce=637094247029805070.17ea6557-27d5-4316-a030-99ab8b69723a&state=Dcs7EoAgDEVR0NqlRMInPLKcoI6F41hYuH0pzu2ud87NwzR4HnGoGawlFXDSxsLgNeKwKgJK2IVKjpWMM5Oq9darImXz413C81k47d5sfa8f
+67674b26c6d6264a760a94a306a6190f|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|25|33|v|html
+	<a href="https://github.com/" id="link-6">
+567cc89dc7f4bb408a3d5fe94fd3b4a1|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|26|33|v|html
+	<a href="https://" id="link-7">
+05abf60a958d9bdac63f82e9a8feacbd|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|27|33|v|html
+	<a href="https://yee.how/item-list/" id="link-8">
+869068fdc537703f3a43505ee2ca5e1e|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|27|42|v|html
+	https://yee.how/item-list/
+980fec4912ad1ba5d86bd88cbf2aa25d|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|32|33|v|html
+	<a href="https://github.com/" id="link-9">
+008ec4453ff31513f43893cba7aa31c8|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|32|42|v|html
+	https://github.com/
+f468bb87fce361e7e18b71ff11186486|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|33|33|v|html
+	<a href="https://forum.vivaldi.net/category/52/modifications" id="link-10">
+1eefe14320d3ca0d73fb395b8fcfa374|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|33|42|v|html
+	https://forum.vivaldi.net/category/52/modifications
+2ae1f7ec3c3d44c67c20e8db8988ea1e|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|34|33|v|html
+	<a href="https://" id="link-11">
+40e2bbdcb17f2700499ad5b824c2081a|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|35|33|v|html
+	<a href="https://" id="link-12">
+80677691c2c17086d9c999e1a5285c4c|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|35|106|v|html
+	pcmskin3d
+26c731a0933b64d3f5a37f053885157a|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|99|25|v|html
+	https://mega.nz/folder/PpohCIpT#tII4Q60AFpgfnEYFywwlow
+28ad0661af479859a3ef582ccf6519d9|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|92|25|v|html
+	https://services.planningcenteronline.com/dashboard/0
+98ded198ba3a0a30e7cc64e4a6a93f45|file:///home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html|94|49|v|html
+	planning
+48ca2628a85917039e29eacda913772b|file:///home/drmdub/.zshrc|63|1|v|zsh
+	bfetch
+32494028fe867341d7f77ee7b99e7a45|file:///home/drmdub/.config/suckless/slstatus/config.h|72|47|v|cpp
+	weather.py
+cecf8bbe5efd4b34ba00356895553ca4|file:///home/drmdub/.config/dwm/config.h|15|41|v|cpp
+	6272A4
+4d0c162d637cf5aad8ee43c85ac64766|file:///home/drmdub/.config/dwm/config.h|11|41|v|cpp
+	282a36
+effa8656d3f2f6ea83aaea0ee7a68c75|file:///home/drmdub/.config/dwm/config.h|14|41|v|cpp
+	f8f8f2
+1a100d2c0dab19c4430e7d73762b3423|file:///home/drmdub/.config/termite/config|52|20|v|dosini
+	333333
+df4510bb3838cac6bd73e75a1d96d3cb|file:///home/drmdub/.config/termite/config|67|12|v|dosini
+	f1fa8c
+f5019fd9c3754e035d956ea007841c42|file:///home/drmdub/.config/termite/config|68|12|v|dosini
+	f4f99d
+ad1a3909092a2dbe346964f8f8617f93|file:///home/drmdub/.config/termite/config|79|12|v|dosini
+	8be9fd
+ef15921c84293001ab544fb6f3ff2ba7|file:///home/drmdub/.config/termite/config|80|12|v|dosini
+	9aedfe
+7747d4c4593922acd5215ed408043521|file:///home/drmdub/.config/termite/config|63|12|v|dosini
+	50fa7b
+a31fa9d21b316235621b4c5bcfba1b3c|file:///home/drmdub/.config/termite/config|64|12|v|dosini
+	5af78e
+8972f1e2f7196785625eb2fe778c4af4|file:///home/drmdub/.config/termite/config|59|12|v|dosini
+	ff5555
+79c3e8f81175ffacb6c79cf484bbb524|file:///home/drmdub/.config/termite/config|60|12|v|dosini
+	ff6e67
+52f7d6eb653d1f97c07ecedd44af4592|file:///home/drmdub/.config/termite/config|71|12|v|dosini
+	bd93f9
+b0cef4a4722a1334b8ebbcd7dc5af2ec|file:///home/drmdub/.config/termite/config|72|12|v|dosini
+	caa9fa
+69e815580f9e84e4443398e252d43d3e|file:///home/drmdub/.config/termite/config|53|1|v|dosini
+	
+	# black
+	color0  = #000000
+	color8  = #4d4d4d
+	
+	# red
+	color1  = #CC0000
+	color9  = #F15D22
+	
+	# green
+	color2  = #4E9A06
+	color10 = #73C48F
+	
+	# yellow
+	color3  = #FBD308
+	color11 = #EFDC77
+	
+	# blue
+	color4  = #75507B
+	color12 = #AD7FA8
+	
+	# magenta
+	color5  = #ff79c6
+	color13 = #ff92d0
+	
+	# cyan
+	color6  = #31C4F0
+	color14 = #7FD1EA
+	
+	# white
+	color7  = #bfbfbf
+	color15 = #e6e6e6
+	
+7483a70fb8b09b4fcca2ae4690930e77|file:///home/drmdub/.config/termite/config|70|1|V|dosini
+	14: #34E2E2 
+dc6d80a6bbb72feb8ac66f5d5b931d38|file:///home/drmdub/.config/termite/config|64|1|V|dosini
+	color8 = #88807C 
+272ea759876abd5a11235e7742e0a3d4|file:///home/drmdub/.config/termite/config|68|1|V|dosini
+	9: #F15D22 
+3d323122276894967458106190e55c83|file:///home/drmdub/.config/termite/config|72|1|V|dosini
+	10: #73C48F 
+2b9680713f9726e80ca5fe9121b5810f|file:///home/drmdub/.config/termite/config|75|1|V|dosini
+	11: #FFCE51 
+68694e954c1528a5d0bc28b6a92b7ab1|file:///home/drmdub/.config/termite/config|78|1|V|dosini
+	12: #48B9C7 
+ead4a0ff20af1e02e41d648c62076dee|file:///home/drmdub/.config/termite/config|83|1|V|dosini
+	13: #AD7FA8 
+c1c2f719cc90b7381c0bb892928821b9|file:///home/drmdub/.config/termite/config|85|1|V|dosini
+	15: #EEEEEC
+bf3848b222cb7ef94d34adacedfd1ab8|file:///home/drmdub/.config/termite/themes/arcolinux-pop.config|4|1|v|conf
+	
+	foreground      = #d0d0d0
+	foreground_bold = #e0e0e0
+	cursor          = #e0e0e0
+	background = rgba(40, 42, 54, 0.8)
+	
+	# 16 color space
+	
+	# Black, Gray, Silver, White
+	color0  = #000000
+	color8  = #505050
+	color7  = #d0d0d0
+	color15 = #ffffff
+	
+	# Red
+	color1  = #eb008a
+	color9  = #eb008a
+	
+	# Green
+	color2  = #37b349
+	color10 = #37b349
+	
+	# Yellow
+	color3  = #f8ca12
+	color11 = #f8ca12
+	
+	# Blue
+	color4  = #0e5a94
+	color12 = #0e5a94
+	
+	# Purple
+	color5  = #b31e8d
+	color13 = #b31e8d
+	
+	# Teal
+	color6  = #00aabb
+	color14 = #00aabb
+	
+	# Extra colors
+	color16 = #f29333
+	color17 = #7a2d00
+	color18 = #202020
+	color19 = #303030
+	color20 = #b0b0b0
+	color21 = #e0e0e0
+4e7b9705b45199f9b3d2adb794586035|file:///home/drmdub/.config/termite/config|92|1|v|dosini
+	# special
+	foreground      = #f8f8f2
+	foreground_bold = #f8f8f2
+	cursor          = #f8f8f2
+	background      = #343136
+	
+	
+	color0 = #333333 
+	color8 = #88807C 
+	
+	color1 = #CC0000 
+	color9 = #F15D22 
+	
+	color2 = #4E9A06 
+	color10 = #73C48F 
+	
+	color3 = #C4A000 
+	color11 = #FFCE51 
+	
+	color4 = #3465A4 
+	color12 = #48B9C7 
+	
+	color5 = #75507B 
+	color13 = #AD7FA8 
+	
+	color6 = #06989A 
+	color14 = #34E2E2 
+	
+	color7 = #D3D7CF
+	color15 = #EEEEEC
+	
+	
+67e5ba2111d48da3bc612b5a07d9cc31|file:///home/drmdub/.config/termite/config|51|14|v|dosini
+	rgba(40, 42, 54, 1)
+73e2dee155a9df419ff24da23ae1855c|file:///home/drmdub/.config/dwm/config.h|15|41|v|cpp
+	FFCE51

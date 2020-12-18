@@ -1,0 +1,5 @@
+2020/12/12-23:31:37.127 1244fd Reusing MANIFEST /home/drmdub/.config/vivaldi/Default/IndexedDB/https_anchor.fm_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/12-23:31:45.349 123b3d Level-0 table #5: started
+2020/12/12-23:31:45.350 123b3d Level-0 table #5: 1250 bytes OK
+2020/12/12-23:31:45.351 123b3d Delete type=0 #3
+2020/12/12-23:31:45.351 123b3d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

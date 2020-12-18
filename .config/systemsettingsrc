@@ -1,0 +1,13 @@
+[MainWindow]
+DisplayPort-1 HDMI-A-1 Height 1080=792
+DisplayPort-1 HDMI-A-1 Width 1920=1428
+DisplayPort-1 HDMI-A-1 XPosition=2175
+DisplayPort-1 HDMI-A-1 YPosition=121
+Height 1080=703
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABZQAAAMYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1024
+
+[Notification Messages]
+shortcuts_saved_info=false

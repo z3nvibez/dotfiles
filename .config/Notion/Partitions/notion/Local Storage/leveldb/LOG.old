@@ -1,0 +1,6 @@
+2020/12/17-15:59:34.885 25ea31 Reusing MANIFEST /home/drmdub/.config/Notion/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2020/12/17-15:59:34.885 25ea31 Recovering log #626
+2020/12/17-15:59:34.886 25ea31 Reusing old log /home/drmdub/.config/Notion/Partitions/notion/Local Storage/leveldb/000626.log 
+2020/12/17-16:09:40.503 263dc9 Level-0 table #630: started
+2020/12/17-16:09:40.505 263dc9 Level-0 table #630: 21104 bytes OK
+2020/12/17-16:09:40.505 263dc9 Delete type=0 #626

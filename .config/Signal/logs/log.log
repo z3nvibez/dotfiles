@@ -1,0 +1,390 @@
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:00:10.300Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:00:39.340Z","msg":"SQL channel job 542 (getNextAttachmentDownloadJobs) succeeded in 17ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:01:05.346Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:01:39.338Z","msg":"SQL channel job 543 (getNextAttachmentDownloadJobs) succeeded in 15ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:02:00.391Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:02:39.339Z","msg":"SQL channel job 544 (getNextAttachmentDownloadJobs) succeeded in 16ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:02:55.438Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:03:39.337Z","msg":"SQL channel job 545 (getNextAttachmentDownloadJobs) succeeded in 14ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:03:50.486Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:04:39.339Z","msg":"SQL channel job 546 (getNextAttachmentDownloadJobs) succeeded in 16ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:04:45.532Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:05:39.338Z","msg":"SQL channel job 547 (getNextAttachmentDownloadJobs) succeeded in 15ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:05:40.580Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:06:35.625Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:06:39.338Z","msg":"SQL channel job 548 (getNextAttachmentDownloadJobs) succeeded in 14ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:07:30.670Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:07:39.338Z","msg":"SQL channel job 549 (getNextAttachmentDownloadJobs) succeeded in 14ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:08:25.715Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:08:39.338Z","msg":"SQL channel job 550 (getNextAttachmentDownloadJobs) succeeded in 14ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:09:20.760Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:09:39.337Z","msg":"SQL channel job 551 (getNextAttachmentDownloadJobs) succeeded in 13ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:10:15.807Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:10:39.342Z","msg":"SQL channel job 552 (getNextAttachmentDownloadJobs) succeeded in 18ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:11:10.852Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:11:39.341Z","msg":"SQL channel job 553 (getNextAttachmentDownloadJobs) succeeded in 17ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:12:05.900Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:13:00.947Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:13:39.339Z","msg":"SQL channel job 555 (getNextAttachmentDownloadJobs) succeeded in 14ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:13:55.991Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:14:39.336Z","msg":"SQL channel job 556 (getNextAttachmentDownloadJobs) succeeded in 11ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:14:51.046Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:15:39.340Z","msg":"SQL channel job 557 (getNextAttachmentDownloadJobs) succeeded in 15ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:15:46.090Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:16:39.339Z","msg":"SQL channel job 558 (getNextAttachmentDownloadJobs) succeeded in 14ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:16:41.136Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:17:36.181Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:17:39.340Z","msg":"SQL channel job 559 (getNextAttachmentDownloadJobs) succeeded in 15ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:18:31.228Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:18:39.341Z","msg":"SQL channel job 560 (getNextAttachmentDownloadJobs) succeeded in 16ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:19:26.276Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:19:39.342Z","msg":"SQL channel job 561 (getNextAttachmentDownloadJobs) succeeded in 17ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:20:21.323Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:20:39.340Z","msg":"SQL channel job 562 (getNextAttachmentDownloadJobs) succeeded in 14ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:21:16.368Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:21:39.340Z","msg":"SQL channel job 563 (getNextAttachmentDownloadJobs) succeeded in 14ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:22:11.414Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:22:39.344Z","msg":"SQL channel job 564 (getNextAttachmentDownloadJobs) succeeded in 18ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:23:06.468Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:23:39.360Z","msg":"SQL channel job 565 (getNextAttachmentDownloadJobs) succeeded in 34ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:24:01.514Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:24:39.363Z","msg":"SQL channel job 566 (getNextAttachmentDownloadJobs) succeeded in 36ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:24:56.565Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:25:39.358Z","msg":"SQL channel job 567 (getNextAttachmentDownloadJobs) succeeded in 30ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:25:51.613Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:26:39.365Z","msg":"SQL channel job 568 (getNextAttachmentDownloadJobs) succeeded in 37ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:26:46.671Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:27:39.367Z","msg":"SQL channel job 569 (getNextAttachmentDownloadJobs) succeeded in 38ms","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:27:41.718Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:28:36.767Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:29:31.812Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:30:26.858Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:31:21.903Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:32:16.951Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:33:11.996Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:34:07.042Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:35:02.087Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:35:57.137Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:36:52.189Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:37:47.233Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:38:42.278Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:39:37.324Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:40:32.371Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:41:27.416Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:42:22.461Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:43:17.506Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:44:12.595Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:45:07.643Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:46:02.692Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:46:57.760Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:47:52.827Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:48:47.897Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:49:42.965Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:50:38.036Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:51:33.115Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:52:28.190Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:53:23.260Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:54:18.608Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:55:13.684Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:56:08.754Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:57:03.831Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:57:58.910Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:58:53.982Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T00:59:49.048Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:00:44.134Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:01:39.215Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:02:34.292Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:03:29.367Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:04:24.446Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:05:19.515Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:06:14.594Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:07:09.961Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:08:05.039Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:09:00.115Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:09:55.187Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:10:50.260Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:11:45.327Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:12:40.402Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:13:35.486Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:14:30.571Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:15:25.936Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:16:21.014Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:17:16.092Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:18:11.158Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:19:06.539Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:20:01.617Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:20:56.693Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:21:51.767Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:22:46.843Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:23:41.918Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:24:36.996Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:25:32.067Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:26:27.137Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:27:22.208Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:28:17.284Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:29:12.360Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:30:07.729Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:31:02.799Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:31:57.873Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:32:52.949Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:33:48.019Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:34:43.090Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:35:38.448Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:36:33.523Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:37:28.595Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:38:23.661Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:39:18.730Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:40:13.802Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:41:08.879Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:42:03.957Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:42:59.034Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:43:54.105Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:44:49.191Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:45:44.268Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:46:39.336Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:47:34.414Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:48:29.490Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:49:24.573Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:50:19.649Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:51:14.727Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:52:09.804Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:53:04.881Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:53:59.966Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:54:55.052Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:55:50.127Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:56:45.489Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:57:40.565Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:58:35.636Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T01:59:30.707Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:00:25.784Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:01:20.862Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:02:15.941Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:03:11.027Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:04:06.103Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:05:01.182Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:05:56.256Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:06:51.332Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:07:46.705Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:08:41.782Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:09:36.853Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:10:31.921Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:11:26.994Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:12:22.062Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:13:17.132Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:14:12.206Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:15:07.277Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:16:02.354Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:16:57.428Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:17:52.505Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:18:47.573Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:19:42.655Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:20:37.732Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:21:32.810Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:22:27.886Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:23:22.965Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:24:18.039Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:25:13.107Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:26:08.178Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:27:03.256Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"msg":"Updating BrowserWindow config: {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1894,\"height\":1028,\"x\":1933,\"y\":39}","time":"2020-11-16T02:27:17.798Z","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"msg":"config/set: Saving ephemeral config to disk","time":"2020-11-16T02:27:17.798Z","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:27:58.328Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:28:53.403Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:29:48.479Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:30:43.556Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:31:38.916Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:32:34.001Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:33:29.073Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:34:24.119Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:35:19.171Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:36:14.218Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:37:09.264Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:38:04.309Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:38:59.359Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:39:54.404Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:40:49.450Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:41:44.497Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:42:39.544Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:43:34.590Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:44:29.636Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:45:24.681Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:46:19.726Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:47:14.774Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:48:09.819Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:49:04.865Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:49:59.916Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:50:54.960Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:51:50.004Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:52:45.048Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:53:40.093Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:54:35.137Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:55:30.183Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:56:25.227Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:57:20.279Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:58:15.325Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T02:59:10.369Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:00:05.414Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:01:00.458Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:01:55.502Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:02:50.549Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:03:45.600Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:04:40.646Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:05:35.690Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:06:30.735Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:07:25.779Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:08:20.826Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:09:15.871Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:10:10.916Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:11:05.961Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:12:01.009Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:12:56.054Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:13:51.099Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:14:46.144Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:15:41.190Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:16:36.236Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:17:31.281Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:18:26.327Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:19:21.377Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:20:16.422Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:21:11.466Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:22:06.510Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:23:01.555Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:23:56.604Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:24:51.649Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:25:46.702Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"msg":"Updating BrowserWindow config: {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1894,\"height\":1028,\"x\":1933,\"y\":39}","time":"2020-11-16T03:26:32.203Z","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"msg":"config/set: Saving ephemeral config to disk","time":"2020-11-16T03:26:32.203Z","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:26:41.751Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:27:36.796Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:28:31.840Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:29:26.884Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:30:21.927Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:31:16.979Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:32:12.024Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:33:07.070Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:34:02.114Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:34:57.158Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:35:52.202Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:36:47.247Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:37:42.292Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:38:37.336Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:39:32.379Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:40:27.429Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:41:22.473Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:42:17.518Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:43:12.562Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:44:07.606Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:45:02.660Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:45:57.705Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:46:52.749Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:47:47.803Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:48:42.856Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:49:37.900Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:50:32.943Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:51:27.987Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:52:23.038Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:53:18.083Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:54:13.130Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:55:08.175Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:56:03.220Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:56:58.263Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:57:53.306Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:58:48.349Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:58:49.606Z","msg":"websocket closed 1006 Connection dropped by remote peer. calledClose: ","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:58:49.607Z","msg":"GET https://textsecure-service.whispersystems.org/v1/devices","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:58:49.607Z","msg":"Cycling agent for type -auth","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:58:49.908Z","msg":"GET https://textsecure-service.whispersystems.org/v1/devices 200 Success","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:58:49.908Z","msg":"getAllFromCache","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:58:49.912Z","msg":"opening message socket https://textsecure-service.whispersystems.org","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:58:49.914Z","msg":"getAllFromCache loaded 0 saved envelopes","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:58:50.185Z","msg":"websocket open","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:58:50.194Z","msg":"got request PUT /api/v1/queue/empty","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:58:50.194Z","msg":"MessageReceiver: finished processing messages after 'empty', now waiting for application","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:58:50.195Z","msg":"MessageReceiver: emitting 'empty' event","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:58:50.195Z","msg":"onEmpty: All outstanding database requests complete","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:58:50.195Z","msg":"Rotate signed prekey listener: Already initialized","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T03:59:45.195Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:00:40.238Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:00:50.196Z","msg":"getAllFromCache","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:00:50.197Z","msg":"getAllFromCache loaded 0 saved envelopes","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:01:35.282Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:02:30.327Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:03:25.373Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:04:20.417Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:05:15.460Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:06:10.504Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:07:05.549Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:08:00.594Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:08:55.644Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:09:50.687Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:10:45.733Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:11:40.776Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:12:35.821Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"msg":"Updating BrowserWindow config: {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1894,\"height\":1028,\"x\":1933,\"y\":39}","time":"2020-11-16T04:13:06.976Z","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"msg":"config/set: Saving ephemeral config to disk","time":"2020-11-16T04:13:06.976Z","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"msg":"Updating BrowserWindow config: {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1894,\"height\":1028,\"x\":1933,\"y\":39}","time":"2020-11-16T04:13:08.033Z","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"msg":"config/set: Saving ephemeral config to disk","time":"2020-11-16T04:13:08.033Z","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:13:30.864Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:14:25.908Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:15:20.953Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:16:15.998Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:17:11.042Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:18:06.086Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:19:01.129Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:19:56.172Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:20:51.219Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:21:46.264Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:22:41.307Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:23:36.352Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:24:31.400Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:25:26.445Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:26:21.490Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:27:16.534Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:28:11.581Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:29:06.625Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:30:01.669Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:30:56.714Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:31:51.757Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:32:46.801Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:33:41.845Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:34:36.890Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:35:31.933Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:36:26.979Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:37:22.023Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:38:17.068Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:39:12.114Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:40:07.162Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:41:02.211Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:41:57.256Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:42:52.300Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:43:47.347Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:44:42.394Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:45:37.438Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:46:32.485Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:47:27.531Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:48:22.578Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:49:17.624Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:50:12.669Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:51:07.714Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:52:02.759Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:52:57.806Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:53:52.851Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:54:47.906Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:55:42.950Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:56:37.994Z","msg":"Sending a keepalive message","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:56:47.163Z","msg":"Removing notification","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:56:47.164Z","msg":"GET https://textsecure-service.whispersystems.org/v1/config","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:56:47.164Z","msg":"Cycling agent for type -auth","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:56:47.444Z","msg":"GET https://textsecure-service.whispersystems.org/v1/config 200 Success","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"msg":"close event {\"shouldQuit\":false}","time":"2020-11-16T04:56:49.790Z","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"msg":"requestShutdown: Requesting close of mainWindow...","time":"2020-11-16T04:56:49.790Z","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:56:49.792Z","msg":"background/shutdown","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:56:49.792Z","msg":"attachment_downloads/stop: disabling","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:56:49.793Z","msg":"MessageReceiver: stopProcessing requested","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:56:49.793Z","msg":"MessageReceiver.close()","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:56:49.793Z","msg":"WebSocketResource.close()","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:56:49.793Z","msg":"drained","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"time":"2020-11-16T04:56:49.794Z","msg":"MessageReceiver: unregister batchers","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"msg":"requestShutdown: Response received","time":"2020-11-16T04:56:49.796Z","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"msg":"before-quit event {\"readyForShutdown\":true,\"shouldQuit\":false}","time":"2020-11-16T04:56:49.796Z","v":0}
+{"name":"log","hostname":"athena","pid":16810,"level":30,"msg":"close event {\"readyForShutdown\":true,\"shouldQuit\":true}","time":"2020-11-16T04:56:49.796Z","v":0}

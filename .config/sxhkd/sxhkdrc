@@ -18,8 +18,11 @@ super + d
 super + c
   CM_LAUNCHER=rofi  clipmenu
 
-super + b
+super + e 
     rofi -show emoji -modi emoji
+
+super + b
+  buku-dmenu
 
 super + shift + b
     bluetoothctl connect FC:58:FA:CB:88:B5
@@ -61,6 +64,9 @@ alt + t
 
 ctrl + alt + s
     xfce4-screenshooter
+
+alt + l
+  lotion
 
 ctrl + alt + n
     termite 'ncmpcpp' -e ncmpcpp
