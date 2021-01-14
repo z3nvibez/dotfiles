@@ -1,3 +1,63 @@
-2020/12/16-13:52:44.922 ab0 Reusing MANIFEST /home/drmdub/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
-2020/12/16-13:52:44.923 ab0 Recovering log #92
-2020/12/16-13:52:44.923 ab0 Reusing old log /home/drmdub/.config/skypeforlinux/Local Storage/leveldb/000092.log 
+2021/01/12-10:37:48.794 3bb6f2 Reusing MANIFEST /home/drmdub/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/01/12-10:37:48.794 3bb6f2 Recovering log #110
+2021/01/12-10:37:48.794 3bb6f2 Level-0 table #113: started
+2021/01/12-10:37:48.796 3bb6f2 Level-0 table #113: 68812 bytes OK
+2021/01/12-10:37:48.796 3bb6f2 Recovering log #112
+2021/01/12-10:37:48.796 3bb6f2 Reusing old log /home/drmdub/.config/skypeforlinux/Local Storage/leveldb/000112.log 
+2021/01/12-10:37:48.797 3bb6f2 Delete type=0 #110
+2021/01/12-10:37:48.797 3bb73b Compacting 4@0 + 1@1 files
+2021/01/12-10:37:48.800 3bb73b Generated table #114@0: 13 keys, 69096 bytes
+2021/01/12-10:37:48.800 3bb73b Compacted 4@0 + 1@1 files => 69096 bytes
+2021/01/12-10:37:48.801 3bb73b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/12-10:37:48.801 3bb73b Delete type=2 #109
+2021/01/12-10:37:48.801 3bb73b Delete type=2 #105
+2021/01/12-10:37:48.801 3bb73b Delete type=2 #107
+2021/01/12-10:37:48.801 3bb73b Delete type=2 #111
+2021/01/12-10:37:48.801 3bb73b Delete type=2 #113
+2021/01/12-10:38:55.408 3bb73b Level-0 table #116: started
+2021/01/12-10:38:55.410 3bb73b Level-0 table #116: 69148 bytes OK
+2021/01/12-10:38:55.411 3bb73b Delete type=0 #112
+2021/01/12-11:48:37.432 3bb73b Level-0 table #118: started
+2021/01/12-11:48:37.434 3bb73b Level-0 table #118: 69185 bytes OK
+2021/01/12-11:48:37.434 3bb73b Delete type=0 #115
+2021/01/12-12:45:03.487 3bb73b Level-0 table #120: started
+2021/01/12-12:45:03.491 3bb73b Level-0 table #120: 252279 bytes OK
+2021/01/12-12:45:03.491 3bb73b Delete type=0 #117
+2021/01/12-14:37:59.143 3bb73b Level-0 table #122: started
+2021/01/12-14:37:59.144 3bb73b Level-0 table #122: 69229 bytes OK
+2021/01/12-14:37:59.145 3bb73b Delete type=0 #119
+2021/01/12-14:37:59.145 3bb73b Compacting 4@0 + 1@1 files
+2021/01/12-14:37:59.148 3bb73b Generated table #123@0: 13 keys, 69237 bytes
+2021/01/12-14:37:59.148 3bb73b Compacted 4@0 + 1@1 files => 69237 bytes
+2021/01/12-14:37:59.149 3bb73b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/12-14:37:59.149 3bb73b Delete type=2 #118
+2021/01/12-14:37:59.149 3bb73b Delete type=2 #114
+2021/01/12-14:37:59.149 3bb73b Delete type=2 #122
+2021/01/12-14:37:59.149 3bb73b Delete type=2 #116
+2021/01/12-14:37:59.149 3bb73b Delete type=2 #120
+2021/01/12-15:38:00.415 3bb73b Level-0 table #125: started
+2021/01/12-15:38:00.417 3bb73b Level-0 table #125: 68778 bytes OK
+2021/01/12-15:38:00.418 3bb73b Delete type=0 #121
+2021/01/12-16:09:46.421 3bb73b Level-0 table #127: started
+2021/01/12-16:09:46.422 3bb73b Level-0 table #127: 68760 bytes OK
+2021/01/12-16:09:46.423 3bb73b Delete type=0 #124
+2021/01/12-16:53:52.285 3bb73b Level-0 table #129: started
+2021/01/12-16:53:52.287 3bb73b Level-0 table #129: 69131 bytes OK
+2021/01/12-16:53:52.288 3bb73b Delete type=0 #126
+2021/01/12-18:38:02.667 3bb73b Level-0 table #131: started
+2021/01/12-18:38:02.669 3bb73b Level-0 table #131: 69019 bytes OK
+2021/01/12-18:38:02.670 3bb73b Delete type=0 #128
+2021/01/12-18:38:02.670 3bb73b Compacting 4@0 + 1@1 files
+2021/01/12-18:38:02.673 3bb73b Generated table #132@0: 13 keys, 69105 bytes
+2021/01/12-18:38:02.673 3bb73b Compacted 4@0 + 1@1 files => 69105 bytes
+2021/01/12-18:38:02.674 3bb73b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/12-18:38:02.674 3bb73b Delete type=2 #131
+2021/01/12-18:38:02.674 3bb73b Delete type=2 #129
+2021/01/12-18:38:02.674 3bb73b Delete type=2 #127
+2021/01/12-18:38:02.674 3bb73b Delete type=2 #123
+2021/01/12-18:38:02.674 3bb73b Delete type=2 #125
+2021/01/12-19:38:03.886 3bb73b Level-0 table #134: started
+2021/01/12-19:38:03.888 3bb73b Level-0 table #134: 68755 bytes OK
+2021/01/12-19:38:03.890 3bb73b Delete type=0 #130
+2021/01/12-20:01:25.831 3bb73b Level-0 table #136: started
+2021/01/12-20:01:25.832 3bb73b Level-0 table #136: 68680 bytes OK

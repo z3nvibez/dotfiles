@@ -1,3 +1,12 @@
-2020/12/13-15:44:40.562 23429 Reusing MANIFEST /home/drmdub/.config/whatsdesk/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/13-15:44:40.562 23429 Recovering log #3
-2020/12/13-15:44:40.598 23429 Reusing old log /home/drmdub/.config/whatsdesk/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
+2021/01/08-20:59:31.001 bdfc2 Reusing MANIFEST /home/drmdub/.config/whatsdesk/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/08-20:59:31.001 bdfc2 Recovering log #11
+2021/01/08-20:59:31.044 bdfc2 Reusing old log /home/drmdub/.config/whatsdesk/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000011.log 
+2021/01/09-01:09:52.505 e3559 Level-0 table #16: started
+2021/01/09-01:09:52.520 e3559 Level-0 table #16: 1129846 bytes OK
+2021/01/09-01:09:52.522 e3559 Delete type=0 #11
+2021/01/09-01:46:37.220 e3559 Compacting 1@1 + 1@2 files
+2021/01/09-01:46:37.250 e3559 Generated table #17@1: 18239 keys, 762417 bytes
+2021/01/09-01:46:37.250 e3559 Compacted 1@1 + 1@2 files => 762417 bytes
+2021/01/09-01:46:37.251 e3559 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/09-01:46:37.251 e3559 Delete type=2 #13
+2021/01/09-01:46:37.251 e3559 Delete type=2 #16

@@ -1,7 +1,20 @@
-/home/drmdub/.dwm/autostart.sh
+/home/drmdub/.config/nvim/vim-plug/plugins.vim
+/etc/spectrwm.conf
+/home/drmdub/.spectrwm.conf
+/home/drmdub/.xmonad/xmonad.hs
+/home/drmdub/.config/qtile/config.py
+/home/drmdub/Downloads/gitthings/distrotube/dotfiles/.spectrwm.conf
 /home/drmdub/.config/dwm/config.h
+/home/drmdub/.config/dwm/config.def.h
 /home/drmdub/.config/suckless/slstatus/config.h
+/home/drmdub/.dwm/autostart.sh
+/home/drmdub/.config/ranger/rc.conf
 /home/drmdub/.config/mutt/muttrc
+/home/drmdub/.config/bspwm/autostart.sh
+/home/drmdub/.config/dwm/dwm.c
+/home/drmdub/.config/dwm/dwm-activetagindicatorbar-6.2.diff
+/home/drmdub/.config/dwm/drw.c
+/home/drmdub/.config/nvim/general/settings.vim
 /home/drmdub/.config/termite/config
 /home/drmdub/.config/termite/themes/arcolinux-pop.config
 /home/drmdub/.config/termite/themes/arcolinux-onedark.config
@@ -9,7 +22,6 @@
 /home/drmdub/.config/nvim/wiki/diary/Castle.md
 /home/drmdub/.config/nvim/wiki/diary/Fanfiction.md
 /home/drmdub/.config/nvim/wiki/diary/diary.md
-/home/drmdub/.config/dwm/dwm.c
 /home/drmdub/.config/dwm/dwm-monitortags-6.2.diff
 /home/drmdub/.config/dwm/dwm-autostart-20200610-cb3f58a.diff
 /home/drmdub/.dwm/sxhkd/sxhkdrc
@@ -17,10 +29,8 @@
 /home/drmdub/weather
 /home/drmdub/Documents/Pages/mtwb47.github.io/docs/index.html
 /home/drmdub/Documents/Pages/mtwb47.github.io/docs/img/index.html
-/home/drmdub/.config/qtile/config.py
 /home/drmdub/.config/qtile/autostart.sh
 /home/drmdub/.xmonad/scripts/autostart.sh
-/home/drmdub/.xmonad/xmonad.hs
 /home/drmdub/.config/rofi/config.rasi
 /home/drmdub/.config/rofi/config
 /home/drmdub/Documents/Pages/mtwb47.github.io/docs/style.css
@@ -35,7 +45,6 @@
 /home/drmdub/.xmonad/scripts/xmonad.hs
 /etc/skel/.xmonad/xmonad.hs
 /home/drmdub/.xmonad/scripts/autostartmonad.sh
-/home/drmdub/.config/bspwm/autostart.sh
 /home/drmdub/.config/suckless/slstatus/config.def.h
 /home/drmdub/.config/dwm/dwm.c.rej
 /usr/local/bin/buku-dmenu
@@ -55,7 +64,6 @@
 /home/drmdub/.config/bspwm/scripts/picom-toggle.sh
 /home/drmdub/.dwm/picom.conf
 /home/drmdub/.config/nvim/init.vim
-/home/drmdub/.config/nvim/vim-plug/plugins.vim
 /home/drmdub/.mozilla/firefox/yhr45kja.default-release/chrome/userChrome.css
 /usr/bin/thunar-settings
 /usr/local/bin/mail.sh
@@ -88,7 +96,6 @@
 /usr/local/bin/mpd.sh
 /home/drmdub/dwmblocks/blocks.
 /usr/local/bin/forecast
-/home/drmdub/.config/ranger/rc.conf
 /home/drmdub/Music/2 CELLOS/album.nfo
 /home/drmdub/.config/xmobar/xmobarrc1
 /home/drmdub/.config/xmobar/xmobarrc
@@ -96,7 +103,6 @@
 /home/drmdub/.config/bspwm/polybar/config
 /home/drmdub/.config/bspwm/bspwmrc
 /home/drmdub/.config/dwm/config.old
-/home/drmdub/.config/dwm/config.def.h
 /usr/local/bin/upt.sh
 /usr/local/bin/pacupdate.sh
 /usr/local/bin/time.sh
@@ -132,7 +138,6 @@
 /home/drmdub/profile.txt
 /home/drmdub/.wpm.csv
 /home/drmdub/Documents/wpm/stats
-/home/drmdub/.config/nvim/general/settings.vim
 /home/drmdub/.config/nvim/themes/nvcode.vim
 /home/drmdub/.config/nvim/themes/onedark.vim
 /home/drmdub/.config/nvim/lua/plug-colorizer.lua

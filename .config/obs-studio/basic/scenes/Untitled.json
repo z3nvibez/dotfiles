@@ -16,7 +16,7 @@
         "monitoring_type": 0,
         "muted": true,
         "name": "Desktop Audio",
-        "prev_ver": 436207618,
+        "prev_ver": 436273152,
         "private_settings": {},
         "push-to-mute": false,
         "push-to-mute-delay": 0,
@@ -29,8 +29,8 @@
         "versioned_id": "pulse_output_capture",
         "volume": 1.0
     },
-    "current_program_scene": "Scene 2",
-    "current_scene": "Scene 2",
+    "current_program_scene": "Opening",
+    "current_scene": "Opening",
     "current_transition": "Fade",
     "groups": [],
     "modules": {
@@ -40,6 +40,9 @@
             "non_matching_scene": "",
             "switch_if_not_matching": false,
             "switches": []
+        },
+        "decklink_captions": {
+            "source": ""
         },
         "output-timer": {
             "autoStartRecordTimer": false,
@@ -86,19 +89,227 @@
     "scaling_off_y": 0.0,
     "scene_order": [
         {
+            "name": "Opening"
+        },
+        {
             "name": "Main"
+        },
+        {
+            "name": "Browser"
         },
         {
             "name": "supernoob"
         },
         {
             "name": "LC"
-        },
-        {
-            "name": "Scene 2"
         }
     ],
     "sources": [
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "xcomposite_input",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Window Capture (Xcomposite)",
+            "prev_ver": 436273152,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "capture_window": "23068940\r\nComplete List | Hugo Themes — Mozilla Firefox\r\nNavigator",
+                "lock_x": false
+            },
+            "sync": 0,
+            "versioned_id": "xcomposite_input",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "image_source",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "browser bg",
+            "prev_ver": 436273152,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "file": "/run/media/drmdub/SmSSD/Linux Videos/browser.png"
+            },
+            "sync": 0,
+            "versioned_id": "image_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Audio Input Capture (PulseAudio)": [],
+                "libobs.hide_scene_item.Video Capture Device (V4L2)": [],
+                "libobs.hide_scene_item.Window Capture (Xcomposite)": [],
+                "libobs.hide_scene_item.browser bg": [],
+                "libobs.show_scene_item.Audio Input Capture (PulseAudio)": [],
+                "libobs.show_scene_item.Video Capture Device (V4L2)": [],
+                "libobs.show_scene_item.Window Capture (Xcomposite)": [],
+                "libobs.show_scene_item.browser bg": []
+            },
+            "id": "scene",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Browser",
+            "prev_ver": 436273152,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "custom_size": false,
+                "id_counter": 8,
+                "items": [
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 5,
+                        "locked": false,
+                        "name": "browser bg",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 2,
+                        "locked": false,
+                        "name": "Video Capture Device (V4L2)",
+                        "pos": {
+                            "x": 988.0,
+                            "y": 224.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.4093749523162842,
+                            "y": 1.4083333015441895
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 4,
+                        "locked": false,
+                        "name": "Audio Input Capture (PulseAudio)",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 8,
+                        "locked": false,
+                        "name": "Window Capture (Xcomposite)",
+                        "pos": {
+                            "x": 24.0,
+                            "y": 32.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.96146047115325928,
+                            "y": 0.96124762296676636
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    }
+                ]
+            },
+            "sync": 0,
+            "versioned_id": "scene",
+            "volume": 1.0
+        },
         {
             "balance": 0.5,
             "deinterlace_field_order": 0,
@@ -111,7 +322,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Text (FreeType 2)",
-            "prev_ver": 436207618,
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -124,7 +335,7 @@
                     "size": 48,
                     "style": "Bold"
                 },
-                "text": "The \nBrowser\nWars are\nOver"
+                "text": "Suckless\nSoftware\nsucks"
             },
             "sync": 0,
             "versioned_id": "text_ft2_source_v2",
@@ -142,7 +353,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Video Capture Device (V4L2)",
-            "prev_ver": 436207618,
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -169,7 +380,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Image 3",
-            "prev_ver": 436207618,
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -190,9 +401,11 @@
             "flags": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Audio Input Capture (PulseAudio)": [],
                 "libobs.hide_scene_item.Image 3": [],
                 "libobs.hide_scene_item.Text (FreeType 2)": [],
                 "libobs.hide_scene_item.Video Capture Device (V4L2)": [],
+                "libobs.show_scene_item.Audio Input Capture (PulseAudio)": [],
                 "libobs.show_scene_item.Image 3": [],
                 "libobs.show_scene_item.Text (FreeType 2)": [],
                 "libobs.show_scene_item.Video Capture Device (V4L2)": []
@@ -201,8 +414,8 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Scene 2",
-            "prev_ver": 436207618,
+            "name": "Opening",
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -210,7 +423,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 6,
+                "id_counter": 7,
                 "items": [
                     {
                         "align": 5,
@@ -258,14 +471,14 @@
                         "locked": false,
                         "name": "Video Capture Device (V4L2)",
                         "pos": {
-                            "x": 39.0,
-                            "y": 191.0
+                            "x": 987.0,
+                            "y": 225.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 1.5499999523162842,
-                            "y": 1.5499999523162842
+                            "x": 1.4109375476837158,
+                            "y": 1.4111111164093018
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -287,14 +500,43 @@
                         "locked": false,
                         "name": "Text (FreeType 2)",
                         "pos": {
-                            "x": 1049.0,
-                            "y": 227.0
+                            "x": 46.0,
+                            "y": 255.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 3.0597610473632812,
-                            "y": 3.0559005737304688
+                            "x": 3.7000000476837158,
+                            "y": 3.7000000476837158
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 7,
+                        "locked": false,
+                        "name": "Audio Input Capture (PulseAudio)",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -317,7 +559,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Image 2",
-            "prev_ver": 436207618,
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -346,7 +588,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "LC",
-            "prev_ver": 436207618,
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -403,7 +645,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Image",
-            "prev_ver": 436207618,
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -428,7 +670,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Screen Capture (XSHM)",
-            "prev_ver": 436207618,
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -449,10 +691,12 @@
             "flags": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
+                "libobs.hide_scene_item.Audio Input Capture (PulseAudio) 2": [],
                 "libobs.hide_scene_item.Audio Output Capture (PulseAudio)": [],
                 "libobs.hide_scene_item.Image 4": [],
                 "libobs.hide_scene_item.Screen Capture (XSHM)": [],
                 "libobs.hide_scene_item.Video Capture Device (V4L2)": [],
+                "libobs.show_scene_item.Audio Input Capture (PulseAudio) 2": [],
                 "libobs.show_scene_item.Audio Output Capture (PulseAudio)": [],
                 "libobs.show_scene_item.Image 4": [],
                 "libobs.show_scene_item.Screen Capture (XSHM)": [],
@@ -463,7 +707,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Main",
-            "prev_ver": 436207618,
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -471,7 +715,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 14,
+                "id_counter": 15,
                 "items": [
                     {
                         "align": 5,
@@ -588,6 +832,35 @@
                         },
                         "scale_filter": "disable",
                         "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 15,
+                        "locked": false,
+                        "name": "Audio Input Capture (PulseAudio) 2",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
                     }
                 ]
             },
@@ -611,7 +884,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "supernoob",
-            "prev_ver": 436207618,
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -673,7 +946,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Audio Output Capture (PulseAudio)",
-            "prev_ver": 436207618,
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -696,7 +969,7 @@
             "monitoring_type": 0,
             "muted": false,
             "name": "Image 4",
-            "prev_ver": 436207618,
+            "prev_ver": 436273152,
             "private_settings": {},
             "push-to-mute": false,
             "push-to-mute-delay": 0,
@@ -707,6 +980,66 @@
             },
             "sync": 0,
             "versioned_id": "image_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "pulse_input_capture",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Audio Input Capture (PulseAudio)",
+            "prev_ver": 436273152,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "device_id": "alsa_input.usb-Focusrite_Scarlett_Solo_USB_Y79353409A5A53-00.iec958-stereo"
+            },
+            "sync": 0,
+            "versioned_id": "pulse_input_capture",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "libobs.unmute": []
+            },
+            "id": "pulse_input_capture",
+            "mixers": 255,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "Audio Input Capture (PulseAudio) 2",
+            "prev_ver": 436273152,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "device_id": "alsa_input.usb-Focusrite_Scarlett_Solo_USB_Y79353409A5A53-00.iec958-stereo"
+            },
+            "sync": 0,
+            "versioned_id": "pulse_input_capture",
             "volume": 1.0
         }
     ],

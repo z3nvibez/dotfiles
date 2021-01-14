@@ -1,0 +1,683 @@
+02:47:35 PM.355: CPU Name: AMD Ryzen 7 3800X 8-Core Processor
+02:47:35 PM.355: CPU Speed: 2901.291MHz
+02:47:35 PM.356: Physical Cores: 8, Logical Cores: 16
+02:47:35 PM.356: Physical Memory: 64327MB Total, 55490MB Free
+02:47:35 PM.356: Kernel Version: Linux 5.10.6-arch1-1
+02:47:35 PM.356: Distribution: ArcoLinux Unknown
+02:47:35 PM.356: Session Type: x11
+02:47:35 PM.356: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.10
+02:47:35 PM.357: Portable mode: false
+02:47:35 PM.413: OBS 26.1.0-2 (linux)
+02:47:35 PM.413: ---------------------------------
+02:47:35 PM.414: ---------------------------------
+02:47:35 PM.414: audio settings reset:
+02:47:35 PM.414: 	samples per sec: 48000
+02:47:35 PM.414: 	speakers:        2
+02:47:35 PM.416: ---------------------------------
+02:47:35 PM.416: Initializing OpenGL...
+02:47:35 PM.478: Loading up OpenGL on adapter AMD Radeon RX 580 Series (POLARIS10, DRM 3.40.0, 5.10.6-arch1-1, LLVM 11.0.0)
+02:47:35 PM.478: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 20.3.2, shading language 4.60
+02:47:35 PM.506: ---------------------------------
+02:47:35 PM.506: video settings reset:
+02:47:35 PM.506: 	base resolution:   1920x1080
+02:47:35 PM.506: 	output resolution: 1920x1080
+02:47:35 PM.506: 	downscale filter:  Bicubic
+02:47:35 PM.506: 	fps:               60/1
+02:47:35 PM.506: 	format:            NV12
+02:47:35 PM.506: 	YUV mode:          709/Partial
+02:47:35 PM.507: NV12 texture support not available
+02:47:35 PM.513: Audio monitoring device:
+02:47:35 PM.513: 	name: Default
+02:47:35 PM.513: 	id: default
+02:47:35 PM.513: ---------------------------------
+02:47:35 PM.515: Failed to load 'en-US' text for module: 'decklink-captions.so'
+02:47:35 PM.517: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+02:47:35 PM.583: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+02:47:35 PM.583: No blackmagic support
+02:47:35 PM.589: v4l2loopback not installed, virtual camera disabled
+02:47:35 PM.593: NVENC supported
+02:47:35 PM.593: FFMPEG VAAPI supported
+02:47:35 PM.605: VLC found, VLC video source enabled
+02:47:35 PM.605: ---------------------------------
+02:47:35 PM.605:   Loaded Modules:
+02:47:35 PM.605:     vlc-video.so
+02:47:35 PM.605:     text-freetype2.so
+02:47:35 PM.605:     rtmp-services.so
+02:47:35 PM.605:     obs-x264.so
+02:47:35 PM.605:     obs-transitions.so
+02:47:35 PM.605:     obs-outputs.so
+02:47:35 PM.605:     obs-libfdk.so
+02:47:35 PM.605:     obs-filters.so
+02:47:35 PM.605:     obs-ffmpeg.so
+02:47:35 PM.605:     linux-v4l2.so
+02:47:35 PM.605:     linux-pulseaudio.so
+02:47:35 PM.605:     linux-jack.so
+02:47:35 PM.605:     linux-decklink.so
+02:47:35 PM.605:     linux-capture.so
+02:47:35 PM.605:     linux-alsa.so
+02:47:35 PM.605:     image-source.so
+02:47:35 PM.605:     frontend-tools.so
+02:47:35 PM.605:     decklink-ouput-ui.so
+02:47:35 PM.605:     decklink-captions.so
+02:47:35 PM.605: ---------------------------------
+02:47:35 PM.605: ==== Startup complete ===============================================
+02:47:35 PM.609: All scene data cleared
+02:47:35 PM.609: ------------------------------------------------
+02:47:35 PM.614: pulse-input: Server name: 'pulseaudio 14.1'
+02:47:35 PM.614: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+02:47:35 PM.614: pulse-input: Started recording from 'alsa_output.pci-0000_0b_00.4.analog-stereo.monitor'
+02:47:35 PM.614: [Loaded global audio device]: 'Desktop Audio'
+02:47:35 PM.632: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:35 PM.632: 	title: Channel content - YouTube Studio — Mozilla Firefox
+02:47:35 PM.632: 	class: Navigator
+02:47:35 PM.632: 	Bit depth: 24
+02:47:35 PM.632: 	Found proper GLXFBConfig (in 368): yes
+02:47:35 PM.632: 
+02:47:35 PM.689: v4l2-input: Start capture from /dev/video0
+02:47:35 PM.691: v4l2-input: Input: 0
+02:47:35 PM.695: v4l2-input: Resolution: 640x360
+02:47:35 PM.695: v4l2-input: Pixelformat: YUYV
+02:47:35 PM.695: v4l2-input: Linesize: 1280 Bytes
+02:47:35 PM.695: v4l2-input: Framerate: 30.00 fps
+02:47:35 PM.811: xshm-input: Geometry 1920x1080 @ 0,0
+02:47:35 PM.842: pulse-input: Server name: 'pulseaudio 14.1'
+02:47:35 PM.843: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+02:47:35 PM.843: pulse-input: Started recording from 'alsa_output.pci-0000_0b_00.4.analog-stereo.monitor'
+02:47:35 PM.880: pulse-input: Server name: 'pulseaudio 14.1'
+02:47:35 PM.880: pulse-input: Audio format: s32le, 44100 Hz, 2 channels
+02:47:35 PM.880: pulse-input: Started recording from 'alsa_input.usb-Focusrite_Scarlett_Solo_USB_Y79353409A5A53-00.iec958-stereo'
+02:47:35 PM.898: pulse-input: Server name: 'pulseaudio 14.1'
+02:47:35 PM.898: pulse-input: Audio format: s32le, 44100 Hz, 2 channels
+02:47:35 PM.898: pulse-input: Started recording from 'alsa_input.usb-Focusrite_Scarlett_Solo_USB_Y79353409A5A53-00.iec958-stereo'
+02:47:35 PM.898: Switched to scene 'Opening'
+02:47:35 PM.898: ------------------------------------------------
+02:47:35 PM.898: Loaded scenes:
+02:47:35 PM.898: - scene 'Opening':
+02:47:35 PM.901:     - source: 'Image 3' (image_source)
+02:47:35 PM.901:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+02:47:35 PM.902:     - source: 'Text (FreeType 2)' (text_ft2_source_v2)
+02:47:35 PM.902:     - source: 'Audio Input Capture (PulseAudio)' (pulse_input_capture)
+02:47:35 PM.902: - scene 'Main':
+02:47:35 PM.902:     - source: 'Image 4' (image_source)
+02:47:35 PM.902:     - source: 'Screen Capture (XSHM)' (xshm_input)
+02:47:35 PM.902:     - source: 'Audio Output Capture (PulseAudio)' (pulse_output_capture)
+02:47:35 PM.902:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+02:47:35 PM.902:     - source: 'Audio Input Capture (PulseAudio) 2' (pulse_input_capture)
+02:47:35 PM.902: - scene 'Browser':
+02:47:35 PM.902:     - source: 'browser bg' (image_source)
+02:47:35 PM.902:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+02:47:35 PM.902:     - source: 'Audio Input Capture (PulseAudio)' (pulse_input_capture)
+02:47:35 PM.902:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+02:47:35 PM.902: - scene 'supernoob':
+02:47:35 PM.902:     - source: 'Image' (image_source)
+02:47:35 PM.902: - scene 'LC':
+02:47:35 PM.902:     - source: 'Image 2' (image_source)
+02:47:35 PM.902: ------------------------------------------------
+02:47:36 PM.446: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Audio Input Capture (PulseAudio))
+02:47:36 PM.446: 
+02:47:37 PM.987: User switched to scene 'Browser'
+02:47:43 PM.163: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:43 PM.163: 	title: Channel content - YouTube Studio — Mozilla Firefox
+02:47:43 PM.163: 	class: Navigator
+02:47:43 PM.163: 	Bit depth: 24
+02:47:43 PM.163: 	Found proper GLXFBConfig (in 368): yes
+02:47:43 PM.163: 
+02:47:49 PM.463: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:49 PM.463: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:49 PM.463: 	class: Navigator
+02:47:49 PM.463: 	Bit depth: 24
+02:47:49 PM.463: 	Found proper GLXFBConfig (in 368): yes
+02:47:49 PM.463: 
+02:47:52 PM.812: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:52 PM.812: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:52 PM.812: 	class: Navigator
+02:47:52 PM.812: 	Bit depth: 24
+02:47:52 PM.812: 	Found proper GLXFBConfig (in 368): yes
+02:47:52 PM.812: 
+02:47:54 PM.829: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:54 PM.829: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:54 PM.829: 	class: Navigator
+02:47:54 PM.829: 	Bit depth: 24
+02:47:54 PM.829: 	Found proper GLXFBConfig (in 368): yes
+02:47:54 PM.829: 
+02:47:54 PM.845: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:54 PM.845: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:54 PM.845: 	class: Navigator
+02:47:54 PM.845: 	Bit depth: 24
+02:47:54 PM.845: 	Found proper GLXFBConfig (in 368): yes
+02:47:54 PM.845: 
+02:47:54 PM.878: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:54 PM.878: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:54 PM.878: 	class: Navigator
+02:47:54 PM.878: 	Bit depth: 24
+02:47:54 PM.878: 	Found proper GLXFBConfig (in 368): yes
+02:47:54 PM.878: 
+02:47:54 PM.895: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:54 PM.895: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:54 PM.895: 	class: Navigator
+02:47:54 PM.895: 	Bit depth: 24
+02:47:54 PM.895: 	Found proper GLXFBConfig (in 368): yes
+02:47:54 PM.895: 
+02:47:54 PM.912: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:54 PM.912: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:54 PM.912: 	class: Navigator
+02:47:54 PM.912: 	Bit depth: 24
+02:47:54 PM.912: 	Found proper GLXFBConfig (in 368): yes
+02:47:54 PM.912: 
+02:47:54 PM.945: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:54 PM.945: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:54 PM.945: 	class: Navigator
+02:47:54 PM.945: 	Bit depth: 24
+02:47:54 PM.945: 	Found proper GLXFBConfig (in 368): yes
+02:47:54 PM.945: 
+02:47:54 PM.962: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:54 PM.962: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:54 PM.962: 	class: Navigator
+02:47:54 PM.962: 	Bit depth: 24
+02:47:54 PM.962: 	Found proper GLXFBConfig (in 368): yes
+02:47:54 PM.962: 
+02:47:54 PM.995: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:54 PM.995: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:54 PM.995: 	class: Navigator
+02:47:54 PM.995: 	Bit depth: 24
+02:47:54 PM.995: 	Found proper GLXFBConfig (in 368): yes
+02:47:54 PM.995: 
+02:47:55 PM.012: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.012: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.012: 	class: Navigator
+02:47:55 PM.012: 	Bit depth: 24
+02:47:55 PM.012: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.012: 
+02:47:55 PM.228: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.228: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.228: 	class: Navigator
+02:47:55 PM.228: 	Bit depth: 24
+02:47:55 PM.228: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.228: 
+02:47:55 PM.245: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.245: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.245: 	class: Navigator
+02:47:55 PM.245: 	Bit depth: 24
+02:47:55 PM.245: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.245: 
+02:47:55 PM.278: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.278: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.278: 	class: Navigator
+02:47:55 PM.278: 	Bit depth: 24
+02:47:55 PM.278: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.278: 
+02:47:55 PM.295: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.295: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.295: 	class: Navigator
+02:47:55 PM.295: 	Bit depth: 24
+02:47:55 PM.295: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.295: 
+02:47:55 PM.328: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.328: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.328: 	class: Navigator
+02:47:55 PM.328: 	Bit depth: 24
+02:47:55 PM.328: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.328: 
+02:47:55 PM.345: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.345: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.345: 	class: Navigator
+02:47:55 PM.345: 	Bit depth: 24
+02:47:55 PM.345: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.345: 
+02:47:55 PM.378: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.378: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.378: 	class: Navigator
+02:47:55 PM.378: 	Bit depth: 24
+02:47:55 PM.378: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.378: 
+02:47:55 PM.395: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.395: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.395: 	class: Navigator
+02:47:55 PM.395: 	Bit depth: 24
+02:47:55 PM.395: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.395: 
+02:47:55 PM.411: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.411: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.411: 	class: Navigator
+02:47:55 PM.411: 	Bit depth: 24
+02:47:55 PM.411: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.411: 
+02:47:55 PM.445: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.445: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.445: 	class: Navigator
+02:47:55 PM.445: 	Bit depth: 24
+02:47:55 PM.445: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.445: 
+02:47:55 PM.528: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.528: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.528: 	class: Navigator
+02:47:55 PM.528: 	Bit depth: 24
+02:47:55 PM.528: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.528: 
+02:47:55 PM.561: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.561: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.561: 	class: Navigator
+02:47:55 PM.561: 	Bit depth: 24
+02:47:55 PM.561: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.561: 
+02:47:55 PM.811: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.811: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.811: 	class: Navigator
+02:47:55 PM.811: 	Bit depth: 24
+02:47:55 PM.811: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.811: 
+02:47:55 PM.828: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.828: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.828: 	class: Navigator
+02:47:55 PM.828: 	Bit depth: 24
+02:47:55 PM.828: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.828: 
+02:47:55 PM.861: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.861: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.861: 	class: Navigator
+02:47:55 PM.861: 	Bit depth: 24
+02:47:55 PM.861: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.861: 
+02:47:55 PM.878: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.878: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.878: 	class: Navigator
+02:47:55 PM.878: 	Bit depth: 24
+02:47:55 PM.878: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.878: 
+02:47:55 PM.911: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.911: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.911: 	class: Navigator
+02:47:55 PM.911: 	Bit depth: 24
+02:47:55 PM.911: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.911: 
+02:47:55 PM.928: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.928: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.928: 	class: Navigator
+02:47:55 PM.928: 	Bit depth: 24
+02:47:55 PM.928: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.928: 
+02:47:55 PM.945: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:47:55 PM.945: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:47:55 PM.945: 	class: Navigator
+02:47:55 PM.945: 	Bit depth: 24
+02:47:55 PM.945: 	Found proper GLXFBConfig (in 368): yes
+02:47:55 PM.945: 
+02:52:38 PM.955: Last log entry repeated for 125 more lines
+02:52:38 PM.956: User switched to scene 'Main'
+02:52:40 PM.821: User switched to scene 'Opening'
+02:53:09 PM.597: User switched to scene 'Browser'
+02:53:10 PM.907: User switched to scene 'Opening'
+02:53:15 PM.445: ---------------------------------
+02:53:15 PM.445: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+02:53:15 PM.445: [x264 encoder: 'simple_h264_recording'] profile: high
+02:53:15 PM.445: [x264 encoder: 'simple_h264_recording'] settings:
+02:53:15 PM.445: 	rate_control: CRF
+02:53:15 PM.445: 	bitrate:      0
+02:53:15 PM.445: 	buffer size:  0
+02:53:15 PM.445: 	crf:          23
+02:53:15 PM.445: 	fps_num:      60
+02:53:15 PM.445: 	fps_den:      1
+02:53:15 PM.445: 	width:        1920
+02:53:15 PM.445: 	height:       1080
+02:53:15 PM.445: 	keyint:       250
+02:53:15 PM.445: 
+02:53:15 PM.452: libfdk_aac encoder created
+02:53:15 PM.452: libfdk_aac bitrate: 192, channels: 2
+02:53:15 PM.453: ==== Recording Start ===============================================
+02:53:15 PM.453: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/drmdub/Videos/2021-01-13 14-53-15.mkv'...
+02:54:19 PM.054: User switched to scene 'Main'
+02:54:56 PM.866: User switched to scene 'Browser'
+02:54:58 PM.612: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:54:58 PM.612: 	title: Arch Linux - hugo 0.80.0-1 (x86_64) — Mozilla Firefox
+02:54:58 PM.612: 	class: Navigator
+02:54:58 PM.612: 	Bit depth: 24
+02:54:58 PM.612: 	Found proper GLXFBConfig (in 368): yes
+02:54:58 PM.612: 
+02:55:10 PM.112: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:55:10 PM.112: 	title: Channel content - YouTube Studio — Mozilla Firefox
+02:55:10 PM.112: 	class: Navigator
+02:55:10 PM.112: 	Bit depth: 24
+02:55:10 PM.112: 	Found proper GLXFBConfig (in 368): yes
+02:55:10 PM.112: 
+02:55:18 PM.630: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:55:18 PM.630: 	title: Channel content - YouTube Studio — Mozilla Firefox
+02:55:18 PM.630: 	class: Navigator
+02:55:18 PM.630: 	Bit depth: 24
+02:55:18 PM.630: 	Found proper GLXFBConfig (in 368): yes
+02:55:18 PM.630: 
+02:55:22 PM.545: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:55:22 PM.545: 	title: Quick Start | Hugo — Mozilla Firefox
+02:55:22 PM.545: 	class: Navigator
+02:55:22 PM.545: 	Bit depth: 24
+02:55:22 PM.545: 	Found proper GLXFBConfig (in 368): yes
+02:55:22 PM.545: 
+02:55:37 PM.112: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:55:37 PM.112: 	title: Quick Start | Hugo — Mozilla Firefox
+02:55:37 PM.112: 	class: Navigator
+02:55:37 PM.112: 	Bit depth: 24
+02:55:37 PM.112: 	Found proper GLXFBConfig (in 368): yes
+02:55:37 PM.112: 
+02:57:00 PM.779: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:00 PM.779: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:00 PM.779: 	class: Navigator
+02:57:00 PM.779: 	Bit depth: 24
+02:57:00 PM.779: 	Found proper GLXFBConfig (in 368): yes
+02:57:00 PM.779: 
+02:57:14 PM.031: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:14 PM.031: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:14 PM.031: 	class: Navigator
+02:57:14 PM.031: 	Bit depth: 24
+02:57:14 PM.031: 	Found proper GLXFBConfig (in 368): yes
+02:57:14 PM.031: 
+02:57:16 PM.075: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:16 PM.075: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:16 PM.075: 	class: Navigator
+02:57:16 PM.075: 	Bit depth: 24
+02:57:16 PM.075: 	Found proper GLXFBConfig (in 368): yes
+02:57:16 PM.075: 
+02:57:19 PM.445: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.445: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.445: 	class: Navigator
+02:57:19 PM.445: 	Bit depth: 24
+02:57:19 PM.445: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.445: 
+02:57:19 PM.462: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.462: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.462: 	class: Navigator
+02:57:19 PM.462: 	Bit depth: 24
+02:57:19 PM.462: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.462: 
+02:57:19 PM.478: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.478: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.478: 	class: Navigator
+02:57:19 PM.478: 	Bit depth: 24
+02:57:19 PM.478: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.478: 
+02:57:19 PM.511: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.511: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.511: 	class: Navigator
+02:57:19 PM.511: 	Bit depth: 24
+02:57:19 PM.511: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.511: 
+02:57:19 PM.528: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.528: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.528: 	class: Navigator
+02:57:19 PM.528: 	Bit depth: 24
+02:57:19 PM.528: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.528: 
+02:57:19 PM.545: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.545: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.545: 	class: Navigator
+02:57:19 PM.545: 	Bit depth: 24
+02:57:19 PM.545: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.545: 
+02:57:19 PM.561: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.561: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.561: 	class: Navigator
+02:57:19 PM.561: 	Bit depth: 24
+02:57:19 PM.561: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.561: 
+02:57:19 PM.712: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.712: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.712: 	class: Navigator
+02:57:19 PM.712: 	Bit depth: 24
+02:57:19 PM.712: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.712: 
+02:57:19 PM.728: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.728: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.728: 	class: Navigator
+02:57:19 PM.728: 	Bit depth: 24
+02:57:19 PM.728: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.728: 
+02:57:19 PM.745: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.745: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.745: 	class: Navigator
+02:57:19 PM.745: 	Bit depth: 24
+02:57:19 PM.745: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.745: 
+02:57:19 PM.762: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.762: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.762: 	class: Navigator
+02:57:19 PM.762: 	Bit depth: 24
+02:57:19 PM.762: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.762: 
+02:57:19 PM.795: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.795: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.795: 	class: Navigator
+02:57:19 PM.795: 	Bit depth: 24
+02:57:19 PM.795: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.795: 
+02:57:19 PM.811: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.811: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.811: 	class: Navigator
+02:57:19 PM.811: 	Bit depth: 24
+02:57:19 PM.811: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.811: 
+02:57:19 PM.828: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.828: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.828: 	class: Navigator
+02:57:19 PM.828: 	Bit depth: 24
+02:57:19 PM.828: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.828: 
+02:57:19 PM.862: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.862: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.862: 	class: Navigator
+02:57:19 PM.862: 	Bit depth: 24
+02:57:19 PM.862: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.862: 
+02:57:19 PM.878: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.878: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.878: 	class: Navigator
+02:57:19 PM.878: 	Bit depth: 24
+02:57:19 PM.878: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.878: 
+02:57:19 PM.911: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.911: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.911: 	class: Navigator
+02:57:19 PM.911: 	Bit depth: 24
+02:57:19 PM.911: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.911: 
+02:57:19 PM.928: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.928: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.928: 	class: Navigator
+02:57:19 PM.928: 	Bit depth: 24
+02:57:19 PM.928: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.928: 
+02:57:19 PM.962: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.962: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.962: 	class: Navigator
+02:57:19 PM.962: 	Bit depth: 24
+02:57:19 PM.962: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.962: 
+02:57:19 PM.979: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:19 PM.979: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:19 PM.979: 	class: Navigator
+02:57:19 PM.979: 	Bit depth: 24
+02:57:19 PM.979: 	Found proper GLXFBConfig (in 368): yes
+02:57:19 PM.979: 
+02:57:20 PM.012: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:20 PM.012: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:20 PM.012: 	class: Navigator
+02:57:20 PM.012: 	Bit depth: 24
+02:57:20 PM.012: 	Found proper GLXFBConfig (in 368): yes
+02:57:20 PM.012: 
+02:57:20 PM.028: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:20 PM.028: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:20 PM.028: 	class: Navigator
+02:57:20 PM.028: 	Bit depth: 24
+02:57:20 PM.028: 	Found proper GLXFBConfig (in 368): yes
+02:57:20 PM.028: 
+02:57:20 PM.045: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:20 PM.045: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:20 PM.045: 	class: Navigator
+02:57:20 PM.045: 	Bit depth: 24
+02:57:20 PM.045: 	Found proper GLXFBConfig (in 368): yes
+02:57:20 PM.045: 
+02:57:20 PM.061: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:20 PM.061: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:20 PM.061: 	class: Navigator
+02:57:20 PM.061: 	Bit depth: 24
+02:57:20 PM.061: 	Found proper GLXFBConfig (in 368): yes
+02:57:20 PM.061: 
+02:57:20 PM.078: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:20 PM.078: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:20 PM.078: 	class: Navigator
+02:57:20 PM.078: 	Bit depth: 24
+02:57:20 PM.078: 	Found proper GLXFBConfig (in 368): yes
+02:57:20 PM.078: 
+02:57:20 PM.512: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:57:20 PM.512: 	title: Quick Start | Hugo — Mozilla Firefox
+02:57:20 PM.512: 	class: Navigator
+02:57:20 PM.512: 	Bit depth: 24
+02:57:20 PM.512: 	Found proper GLXFBConfig (in 368): yes
+02:57:20 PM.512: 
+02:57:31 PM.222: Last log entry repeated for 1 more lines
+02:57:31 PM.222: User switched to scene 'Main'
+02:58:26 PM.738: User switched to scene 'Browser'
+02:58:26 PM.749: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:58:26 PM.749: 	title: Channel content - YouTube Studio — Mozilla Firefox
+02:58:26 PM.749: 	class: Navigator
+02:58:26 PM.749: 	Bit depth: 24
+02:58:26 PM.749: 	Found proper GLXFBConfig (in 368): yes
+02:58:26 PM.749: 
+02:58:35 PM.812: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:58:35 PM.812: 	title: Channel content - YouTube Studio — Mozilla Firefox
+02:58:35 PM.812: 	class: Navigator
+02:58:35 PM.812: 	Bit depth: 24
+02:58:35 PM.812: 	Found proper GLXFBConfig (in 368): yes
+02:58:35 PM.812: 
+02:58:44 PM.395: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:58:44 PM.395: 	title: Complete List | Hugo Themes — Mozilla Firefox
+02:58:44 PM.395: 	class: Navigator
+02:58:44 PM.395: 	Bit depth: 24
+02:58:44 PM.395: 	Found proper GLXFBConfig (in 368): yes
+02:58:44 PM.395: 
+02:58:55 PM.095: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:58:55 PM.095: 	title: Complete List | Hugo Themes — Mozilla Firefox
+02:58:55 PM.095: 	class: Navigator
+02:58:55 PM.095: 	Bit depth: 24
+02:58:55 PM.095: 	Found proper GLXFBConfig (in 368): yes
+02:58:55 PM.095: 
+02:58:59 PM.962: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:58:59 PM.962: 	title: Complete List | Hugo Themes — Mozilla Firefox
+02:58:59 PM.962: 	class: Navigator
+02:58:59 PM.962: 	Bit depth: 24
+02:58:59 PM.962: 	Found proper GLXFBConfig (in 368): yes
+02:58:59 PM.962: 
+02:59:18 PM.429: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:59:18 PM.429: 	title: Complete List | Hugo Themes — Mozilla Firefox
+02:59:18 PM.429: 	class: Navigator
+02:59:18 PM.429: 	Bit depth: 24
+02:59:18 PM.429: 	Found proper GLXFBConfig (in 368): yes
+02:59:18 PM.429: 
+02:59:19 PM.712: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+02:59:19 PM.712: 	title: Complete List | Hugo Themes — Mozilla Firefox
+02:59:19 PM.712: 	class: Navigator
+02:59:19 PM.712: 	Bit depth: 24
+02:59:19 PM.712: 	Found proper GLXFBConfig (in 368): yes
+02:59:19 PM.712: 
+03:00:01 PM.295: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+03:00:01 PM.295: 	title: Complete List | Hugo Themes — Mozilla Firefox
+03:00:01 PM.295: 	class: Navigator
+03:00:01 PM.295: 	Bit depth: 24
+03:00:01 PM.295: 	Found proper GLXFBConfig (in 368): yes
+03:00:01 PM.295: 
+03:00:03 PM.179: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+03:00:03 PM.179: 	title: Complete List | Hugo Themes — Mozilla Firefox
+03:00:03 PM.179: 	class: Navigator
+03:00:03 PM.179: 	Bit depth: 24
+03:00:03 PM.179: 	Found proper GLXFBConfig (in 368): yes
+03:00:03 PM.179: 
+03:00:35 PM.697: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+03:00:35 PM.697: 	title: Complete List | Hugo Themes — Mozilla Firefox
+03:00:35 PM.697: 	class: Navigator
+03:00:35 PM.697: 	Bit depth: 24
+03:00:35 PM.697: 	Found proper GLXFBConfig (in 368): yes
+03:00:35 PM.697: 
+03:00:37 PM.849: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/drmdub/Videos/2021-01-13 14-53-15.mkv' stopped
+03:00:37 PM.850: Output 'simple_file_output': stopping
+03:00:37 PM.850: Output 'simple_file_output': Total frames output: 26504
+03:00:37 PM.850: Output 'simple_file_output': Total drawn frames: 26543 (26544 attempted)
+03:00:37 PM.850: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+03:00:37 PM.850: ==== Recording Stop ================================================
+03:00:37 PM.861: libfdk_aac encoder destroyed
+03:00:48 PM.702: ==== Shutting down ==================================================
+03:00:48 PM.704: pulse-input: Stopped recording from 'alsa_output.pci-0000_0b_00.4.analog-stereo.monitor'
+03:00:48 PM.704: pulse-input: Got 148184 packets with 34960712 frames
+03:00:48 PM.704: pulse-input: Stopped recording from 'alsa_input.usb-Focusrite_Scarlett_Solo_USB_Y79353409A5A53-00.iec958-stereo'
+03:00:48 PM.704: pulse-input: Got 53586 packets with 34962202 frames
+03:00:48 PM.708: v4l2-input: Stopped capture after 23671 frames
+03:00:48 PM.798: pulse-input: Stopped recording from 'alsa_input.usb-Focusrite_Scarlett_Solo_USB_Y79353409A5A53-00.iec958-stereo'
+03:00:48 PM.798: pulse-input: Got 53592 packets with 34966171 frames
+03:00:48 PM.798: pulse-input: Stopped recording from 'alsa_output.pci-0000_0b_00.4.analog-stereo.monitor'
+03:00:48 PM.798: pulse-input: Got 143533 packets with 34964413 frames
+03:00:48 PM.799: All scene data cleared
+03:00:48 PM.799: ------------------------------------------------
+03:00:48 PM.831: [Scripting] Total detached callbacks: 0
+03:00:48 PM.835: Freeing OBS context data
+03:00:48 PM.845: == Profiler Results =============================
+03:00:48 PM.845: run_program_init: 659.079 ms
+03:00:48 PM.845:  ┣OBSApp::AppInit: 2.476 ms
+03:00:48 PM.845:  ┃ ┗OBSApp::InitLocale: 1.436 ms
+03:00:48 PM.845:  ┗OBSApp::OBSInit: 630.577 ms
+03:00:48 PM.845:    ┣obs_startup: 15.119 ms
+03:00:48 PM.845:    ┗OBSBasic::OBSInit: 559.012 ms
+03:00:48 PM.845:      ┣OBSBasic::InitBasicConfig: 0.059 ms
+03:00:48 PM.845:      ┣OBSBasic::ResetAudio: 0.064 ms
+03:00:48 PM.845:      ┣OBSBasic::ResetVideo: 99.076 ms
+03:00:48 PM.845:      ┣OBSBasic::InitOBSCallbacks: 0.004 ms
+03:00:48 PM.845:      ┣OBSBasic::InitHotkeys: 0.048 ms
+03:00:48 PM.845:      ┣obs_load_all_modules: 91.933 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(decklink-captions.so): 0.021 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.307 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(frontend-tools.so): 58.909 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(image-source.so): 0.004 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(linux-alsa.so): 0.001 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(linux-capture.so): 0.216 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(linux-decklink.so): 0.072 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(linux-jack.so): 0.001 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.001 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(linux-v4l2.so): 2.68 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(obs-ffmpeg.so): 1.766 ms
+03:00:48 PM.845:      ┃ ┃ ┗nvenc_check: 1.748 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(obs-filters.so): 0.009 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(obs-libfdk.so): 0.001 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(obs-outputs.so): 0.001 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(obs-transitions.so): 0.003 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(obs-x264.so): 0 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(rtmp-services.so): 0.608 ms
+03:00:48 PM.845:      ┃ ┣obs_init_module(text-freetype2.so): 0.005 ms
+03:00:48 PM.845:      ┃ ┗obs_init_module(vlc-video.so): 1.543 ms
+03:00:48 PM.845:      ┣OBSBasic::ResetOutputs: 0.273 ms
+03:00:48 PM.845:      ┣OBSBasic::CreateHotkeys: 0.153 ms
+03:00:48 PM.845:      ┣OBSBasic::InitService: 1.073 ms
+03:00:48 PM.845:      ┣OBSBasic::InitPrimitives: 0.055 ms
+03:00:48 PM.845:      ┗OBSBasic::Load: 301.451 ms
+03:00:48 PM.845: obs_hotkey_thread(25 ms): min=0.029 ms, median=0.078 ms, max=23.516 ms, 99th percentile=0.665 ms, 100% below 25 ms
+03:00:48 PM.845: audio_thread(Audio): min=0 ms, median=0.299 ms, max=1.996 ms, 99th percentile=0.9 ms
+03:00:48 PM.845:  ┗receive_audio: min=0.002 ms, median=0.441 ms, max=1.109 ms, 99th percentile=0.756 ms, 0.558648 calls per parent call
+03:00:48 PM.845:    ┣buffer_audio: min=0 ms, median=0 ms, max=0.027 ms, 99th percentile=0.001 ms
+03:00:48 PM.845:    ┗do_encode: min=0.157 ms, median=0.439 ms, max=1.106 ms, 99th percentile=0.754 ms
+03:00:48 PM.845:      ┗encode(simple_aac_recording): min=0.155 ms, median=0.434 ms, max=1.092 ms, 99th percentile=0.748 ms
+03:00:48 PM.845: obs_graphics_thread(16.6667 ms): min=0.046 ms, median=2.169 ms, max=287.543 ms, 99th percentile=6.183 ms, 99.9517% below 16.667 ms
+03:00:48 PM.845:  ┣tick_sources: min=0 ms, median=0.171 ms, max=265.582 ms, 99th percentile=3.366 ms
+03:00:48 PM.845:  ┣output_frame: min=0.039 ms, median=1.608 ms, max=16.276 ms, 99th percentile=2.41 ms
+03:00:48 PM.845:  ┃ ┣gs_context(video->graphics): min=0.039 ms, median=1.25 ms, max=16.276 ms, 99th percentile=1.981 ms
+03:00:48 PM.845:  ┃ ┃ ┣render_video: min=0.006 ms, median=1.238 ms, max=9.868 ms, 99th percentile=1.959 ms
+03:00:48 PM.845:  ┃ ┃ ┃ ┣render_main_texture: min=0.005 ms, median=0.102 ms, max=9.866 ms, 99th percentile=0.262 ms
+03:00:48 PM.845:  ┃ ┃ ┃ ┣render_convert_texture: min=0.008 ms, median=0.022 ms, max=2.576 ms, 99th percentile=0.036 ms, 0.55786 calls per parent call
+03:00:48 PM.845:  ┃ ┃ ┃ ┗stage_output_texture: min=0.922 ms, median=1.221 ms, max=7.082 ms, 99th percentile=1.831 ms, 0.55786 calls per parent call
+03:00:48 PM.845:  ┃ ┃ ┣gs_flush: min=0 ms, median=0.001 ms, max=12.93 ms, 99th percentile=0.069 ms
+03:00:48 PM.845:  ┃ ┃ ┗download_frame: min=0 ms, median=0.003 ms, max=0.087 ms, 99th percentile=0.006 ms, 0.55786 calls per parent call
+03:00:48 PM.845:  ┃ ┗output_video_data: min=0.265 ms, median=0.376 ms, max=1.261 ms, 99th percentile=0.524 ms, 0.557839 calls per parent call
+03:00:48 PM.845:  ┗render_displays: min=0.001 ms, median=0.356 ms, max=18.191 ms, 99th percentile=1.35 ms
+03:00:48 PM.845: video_thread(video): min=0.819 ms, median=1.205 ms, max=3.874 ms, 99th percentile=1.672 ms
+03:00:48 PM.846:  ┗receive_video: min=0.819 ms, median=1.204 ms, max=3.873 ms, 99th percentile=1.667 ms
+03:00:48 PM.846:    ┗do_encode: min=0.818 ms, median=1.203 ms, max=3.871 ms, 99th percentile=1.665 ms
+03:00:48 PM.846:      ┗encode(simple_h264_recording): min=0.812 ms, median=1.197 ms, max=2.552 ms, 99th percentile=1.655 ms
+03:00:48 PM.846: =================================================
+03:00:48 PM.846: == Profiler Time Between Calls ==================
+03:00:48 PM.846: obs_hotkey_thread(25 ms): min=25.047 ms, median=25.139 ms, max=48.575 ms, 98.5913% within ±2% of 25 ms (0% lower, 1.40872% higher)
+03:00:48 PM.846: obs_graphics_thread(16.6667 ms): min=3.68 ms, median=16.667 ms, max=287.546 ms, 99.8718% within ±2% of 16.667 ms (0.0672566% lower, 0.0609513% higher)
+03:00:48 PM.846: =================================================
+03:00:48 PM.895: Number of memory leaks: 0

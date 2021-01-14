@@ -1,16 +1,15 @@
 # GIMP user context
 
-(tool "gimp-crop-tool")
+(tool "gimp-bucket-fill-tool")
 (paint-info "gimp-paintbrush")
-(foreground (color-rgb 1 1 1))
-(background (color-rgb 0.15686274509803921 0.17254901960784313 0.20000000000000001))
+(foreground (color-rgb 0.8784313725490196 0.41960784313725491 0.45490196078431372))
 (brush "2. Hardness 100")
 (dynamics "Dynamics Off")
 (mybrush "100% Opaque")
 (pattern "Pine")
 (gradient "Custom")
 (palette "Color History")
-(font "Monthella")
+(font "The Bold Font Bold")
 (tool-preset "Core Pointer")
 
 # end of user context

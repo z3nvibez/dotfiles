@@ -1,11 +1,11 @@
 [MainWindow]
-DisplayPort-1 HDMI-A-1 Height 1080=1045
-DisplayPort-1 HDMI-A-1 Width 1920=1902
-DisplayPort-1 HDMI-A-1 XPosition=9
-DisplayPort-1 HDMI-A-1 YPosition=26
+DisplayPort-1 HDMI-A-1 Height 1080=1039
+DisplayPort-1 HDMI-A-1 Width 1920=1858
+DisplayPort-1 HDMI-A-1 XPosition=31
+DisplayPort-1 HDMI-A-1 YPosition=30
 Height 1080=1029
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAQAAAAIAAAduAAACa/wBAAAAD/sAAAAYAG4AbwB0AGUAcwBfAHcAaQBkAGcAZQB0AAAAAAD/////AAAAZAD////7AAAADgBsAGkAYgByAGEAcgB5AAAAAAAAAADnAAAAZAD////7AAAAFABzAGMAcgBlAGUAbgBnAHIAYQBiAAAAAAD/////AAAAgQD////7AAAAGgBhAHUAZABpAG8AcwBwAGUAYwB0AHIAdQBtAAAAAAD/////AAAAXAD////7AAAAFgBwAHIAbwBqAGUAYwB0AF8AYgBpAG4BAAAAAAAAARwAAABcAP////wAAAEjAAAA/gAAAGUA////+gAAAAABAAAAAvsAAAAYAGUAZgBmAGUAYwB0AF8AcwB0AGEAYwBrAQAAAAD/////AAAAZQD////7AAAAHgBjAGwAaQBwAF8AcAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAFYA/////AAAAigAAADBAAAAgwD////6AAAAAQEAAAAC+wAAAB4AdAByAGEAbgBzAGkAdABpAG8AbgBfAGwAaQBzAHQBAAAAAP////8AAAAAAP////sAAAAWAGUAZgBmAGUAYwB0AF8AbABpAHMAdAEAAAAA/////wAAAAAA/////AAAAvAAAAM3AAABQAD////6AAAAAQEAAAAC+wAAABgAYwBsAGkAcABfAG0AbwBuAGkAdABvAHIBAAAAAP////8AAAFAAP////sAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAAD/////AAABQAD////7AAAAGAB1AG4AZABvAF8AaABpAHMAdABvAHIAeQAAAAAA/////wAAAFwA////+wAAAAoAbQBpAHgAZQByAQAABi4AAAFAAAABQAD////7AAAAFgB2AGUAYwB0AG8AcgBzAGMAbwBwAGUAAAAAAP////8AAAELAP////sAAAAQAHcAYQB2AGUAZgBvAHIAbQAAAAAA/////wAAAJgA////+wAAABQAcgBnAGIAXwBwAGEAcgBhAGQAZQAAAAAA/////wAAAJUA////+wAAABIAaABpAHMAdABvAGcAcgBhAG0AAAAAAP////8AAAEwAP////sAAAASAFMAdQBiAHQAaQB0AGwAZQBzAAAAAAD/////AAAA1AD///8AAAduAAABXgAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABgAZQB4AHQAcgBhAFQAbwBvAGwAQgBhAHIBAAACOP////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAQAAAAIAAAdCAAACVvwBAAAADfsAAAAYAG4AbwB0AGUAcwBfAHcAaQBkAGcAZQB0AAAAAAD/////AAAAZAD////7AAAADgBsAGkAYgByAGEAcgB5AAAAAAAAAADnAAAAZAD////7AAAAFABzAGMAcgBlAGUAbgBnAHIAYQBiAAAAAAD/////AAAAgQD////7AAAAGgBhAHUAZABpAG8AcwBwAGUAYwB0AHIAdQBtAAAAAAD/////AAAAXAD////8AAAAAAAAAUAAAAFAAP////oAAAABAgAAAAT7AAAAFgBwAHIAbwBqAGUAYwB0AF8AYgBpAG4BAAAAKAAAAiwAAAB9AP///vsAAAAYAGUAZgBmAGUAYwB0AF8AcwB0AGEAYwBrAQAAAAD/////AAAAhgD///77AAAACgBtAGkAeABlAHIBAAAAAP////8AAACUAP///vsAAAAeAGMAbABpAHAAXwBwAHIAbwBwAGUAcgB0AGkAZQBzAAAAAAD/////AAAAbQD////8AAABRwAAAQAAAACDAP////oAAAABAQAAAAL7AAAAHgB0AHIAYQBuAHMAaQB0AGkAbwBuAF8AbABpAHMAdAEAAAAA/////wAAAAAA////+wAAABYAZQBmAGYAZQBjAHQAXwBsAGkAcwB0AQAAAAD/////AAAAAAD////8AAACTgAABPQAAAFAAP////oAAAABAQAAAAL7AAAAGABjAGwAaQBwAF8AbQBvAG4AaQB0AG8AcgEAAAAA/////wAAAUAA////+wAAAB4AcAByAG8AagBlAGMAdABfAG0AbwBuAGkAdABvAHIBAAAAAP////8AAAFAAP////sAAAAYAHUAbgBkAG8AXwBoAGkAcwB0AG8AcgB5AAAAAAD/////AAAAXAD////7AAAAFgB2AGUAYwB0AG8AcgBzAGMAbwBwAGUAAAAAAP////8AAAELAP////sAAAAQAHcAYQB2AGUAZgBvAHIAbQAAAAAA/////wAAAJgA////+wAAABQAcgBnAGIAXwBwAGEAcgBhAGQAZQAAAAAA/////wAAAJUA////+wAAABIAaABpAHMAdABvAGcAcgBhAG0AAAAAAP////8AAAEwAP////sAAAASAFMAdQBiAHQAaQB0AGwAZQBzAAAAAAD/////AAAA1AD///8AAAdCAAABbQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABgAZQB4AHQAcgBhAFQAbwBvAGwAQgBhAHIBAAACOP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 Width 1920=1894
 
@@ -17,29 +17,11 @@ confirm_removable_device=false
 
 [Recent Dirs]
 KdenliveClipFolder[$e]=$HOME/Videos,$HOME/Documents
-KdenliveProjectsFolder[$e]=/run/media/drmdub/SmSSD/Linux Videos/Rants/Linux Mint is Useless,/run/media/drmdub/SmSSD/Linux Videos/Distro Reviews/Manjaro 20.02 Gnome,/run/media/drmdub/SmSSD/Podcast Files/The 3 Cast/Season 11/s11e14 - Frozen
+KdenliveProjectsFolder[$e]=/run/media/drmdub/SmSSD/Linux Videos/Apps/Termite,/run/media/drmdub/SmSSD/Podcast Files/The Linux Cast,/run/media/drmdub/SmSSD/Podcast Files/The Linux Cast/
 
 [Recent Files]
-File1[$e]=/run/media/drmdub/SmSSD/Linux Videos/Apps/Top 5 Note Apps for Linux/proj.kdenlive
-File10[$e]=/run/media/drmdub/SmSSD/Linux Videos/Rants/Linux Mint is Useless/proj.kdenlive
-File2[$e]=/run/media/drmdub/SmSSD/Linux Videos/Apps/tg - telegram client/proj.kdenlive
-File3[$e]=/run/media/drmdub/SmSSD/Linux Videos/Window Managers/xmonad/part 1/proj.kdenlive
-File4[$e]=/run/media/drmdub/SmSSD/Linux Videos/Window Managers/xmonad/part 2/proj.kdenlive
-File5[$e]=/run/media/drmdub/SmSSD/Linux Videos/HTML & CSS/Firefox Startpage/proj part1.kdenlive
-File6[$e]=/run/media/drmdub/SmSSD/Podcast Files/The Linux Cast/yt.kdenlive
-File7[$e]=/run/media/drmdub/SmSSD/Linux Videos/HTML & CSS/Firefox Startpage/proj part 2.kdenlive
-File8[$e]=/run/media/drmdub/SmSSD/Podcast Files/The 3 Cast/Season 11/s11e14 - Frozen/vid project.kdenlive
-File9[$e]=/run/media/drmdub/SmSSD/Linux Videos/Distro Reviews/Manjaro 20.02 Gnome/proj.kdenlive
+File1[$e]=/run/media/drmdub/SmSSD/Linux Videos/Apps/Termite/proj.kdenlive
 Name1[$e]=proj.kdenlive
-Name10[$e]=proj.kdenlive
-Name2[$e]=proj.kdenlive
-Name3[$e]=proj.kdenlive
-Name4[$e]=proj.kdenlive
-Name5[$e]=proj part1.kdenlive
-Name6[$e]=yt.kdenlive
-Name7[$e]=proj part 2.kdenlive
-Name8[$e]=vid project.kdenlive
-Name9[$e]=proj.kdenlive
 
 [Scope_Histogram]
 autoRefresh=true
@@ -99,7 +81,7 @@ use_grid=false
 ColorScheme=Breeze Dark
 
 [bin]
-treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAI/gAAAAcAAAAHAAAAMAAAAAYAAAAwAAAABQAAAGMAAAAEAAAAOgAAAAMAAABEAAAAAgAAAHcAAAABAAAARAAAARgAAAAIAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAIAAABGAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAABN
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAI/gAAAAcAAAAHAAAAMAAAAAYAAAAwAAAABQAAAGMAAAAEAAAAOgAAAAMAAABEAAAAAgAAAHcAAAABAAAARAAAAFYAAAAIAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAIAAAAVgAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAABN
 
 [capture]
 decklink_extension=mov
@@ -125,7 +107,7 @@ trackheight=67
 default_profile=atsc_1080p_2997
 defaultrescaleheight=540
 defaultrescalewidth=960
-favorite_effects=volume,lift_gamma_gain,qtblend,audiowave
+favorite_effects=volume,lift_gamma_gain,qtblend,audiowave,chroma
 force_breeze=true
 monitor_audio=false
 previewScaling=0
@@ -135,4 +117,4 @@ use_dark_breeze=true
 widgetstyle=Default
 
 [version]
-version=20.12.0
+version=20.12.1

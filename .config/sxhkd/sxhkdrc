@@ -54,7 +54,7 @@ alt + z
     zim
 
 alt + g
-    evolution
+    termite 'neomutt' -e neomutt
 
 alt + m
     discord

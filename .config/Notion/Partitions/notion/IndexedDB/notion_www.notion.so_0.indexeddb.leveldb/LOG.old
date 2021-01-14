@@ -1,3 +1,18 @@
-2020/12/17-15:59:35.416 25ea30 Reusing MANIFEST /home/drmdub/.config/Notion/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/17-15:59:35.416 25ea30 Recovering log #214
-2020/12/17-15:59:35.423 25ea30 Reusing old log /home/drmdub/.config/Notion/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/000214.log 
+2021/01/10-18:33:54.618 24ff7a Reusing MANIFEST /home/drmdub/.config/Notion/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/10-18:33:54.618 24ff7a Recovering log #330
+2021/01/10-18:33:54.629 24ff7a Reusing old log /home/drmdub/.config/Notion/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/000330.log 
+2021/01/12-16:53:05.235 3f4588 Level-0 table #338: started
+2021/01/12-16:53:05.248 3f4588 Level-0 table #338: 1184732 bytes OK
+2021/01/12-16:53:05.249 3f4588 Delete type=0 #330
+2021/01/12-18:32:23.064 3f4588 Compacting 1@1 + 4@2 files
+2021/01/12-18:32:23.108 3f4588 Generated table #339@1: 17635 keys, 2217692 bytes
+2021/01/12-18:32:23.139 3f4588 Generated table #340@1: 55289 keys, 2251071 bytes
+2021/01/12-18:32:23.164 3f4588 Generated table #341@1: 33096 keys, 2193860 bytes
+2021/01/12-18:32:23.183 3f4588 Generated table #342@1: 40540 keys, 777118 bytes
+2021/01/12-18:32:23.183 3f4588 Compacted 1@1 + 4@2 files => 7439741 bytes
+2021/01/12-18:32:23.184 3f4588 compacted to: files[ 0 0 4 0 0 0 0 ]
+2021/01/12-18:32:23.184 3f4588 Delete type=2 #333
+2021/01/12-18:32:23.184 3f4588 Delete type=2 #335
+2021/01/12-18:32:23.184 3f4588 Delete type=2 #332
+2021/01/12-18:32:23.184 3f4588 Delete type=2 #338
+2021/01/12-18:32:23.184 3f4588 Delete type=2 #334

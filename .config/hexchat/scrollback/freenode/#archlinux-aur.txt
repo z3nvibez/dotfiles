@@ -1,0 +1,4 @@
+T 1608336032 19*	Now talking on 22#archlinux-aur
+T 1608336032 22*	Topic for 22#archlinux-aur is: Welcome to Arch User Repository general discussion | Guidelines: https://wiki.archlinux.org/index.php/Arch_User_Repository | Devel: #archlinux-aurweb | AUR helpers are NOT supported
+T 1608336032 22*	Topic for 22#archlinux-aur set by 26alad (24Sat Mar 16 20:13:53 2019)
+T 1608336032 22*	Channel 22#archlinux-aur url: 24https://aur.archlinux.org

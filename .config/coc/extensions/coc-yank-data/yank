@@ -1,120 +1,3 @@
-7e747f9c12dea92db651108caf988e27|file:///tmp/crontab.YeTTxG|1|13|v|crontab
-	/home/drmdub/Documents/scripts/mu.sh
-e3ceb5881a0a1fdaad01296d7554868d|file:///home/drmdub/.config/dwm/config.h|11|41|v|cpp
-	222222
-6ab06a2a4e216436379a93be9e062069|file:///home/drmdub/.config/dwm/README|1|1|v|text
-	dwm - dynamic window manager
-	============================
-	dwm is an extremely fast, small, and dynamic window manager for X.
-	
-	
-	Requirements
-	------------
-	In order to build dwm you need the Xlib header files.
-	
-	
-	Installation
-	------------
-	Edit config.mk to match your local setup (dwm is installed into
-	the /usr/local namespace by default).
-	
-	Afterwards enter the following command to build and install dwm (if
-	necessary as root):
-	
-	    make clean install
-	
-	
-	Running dwm
-	-----------
-	Add the following line to your .xinitrc to start dwm using startx:
-	
-	    exec dwm
-	
-	In order to connect dwm to a specific display, make sure that
-	the DISPLAY environment variable is set correctly, e.g.:
-	
-	    DISPLAY=foo.bar:1 exec dwm
-	
-	(This will start dwm on display :1 of the host foo.bar.)
-	
-	In order to display status info in the bar, you can do something
-	like this in your .xinitrc:
-	
-	    while xsetroot -name "`date` `uptime | sed 's/.*,//'`"
-	    do
-	    	sleep 1
-	    done &
-	    exec dwm
-	
-	
-	Configuration
-	-------------
-	The configuration of dwm is done by creating a custom config.h
-	and (re)compiling the source code.
-507f4c075f2fea32ec199fd8fa5eef94|file:///home/drmdub/Documents/dotfiles/README.md|3|1|V|markdown
-	<a href="img.png"></a>
-89c2136e1ce092faf69df093cb5ea0f7|file:///home/drmdub/dwmblocks/blocks.h|8|1|V|cpp
-	  	{" Mem: ", "memory.sh",	        6,		            1},
-	
-58c8f609072440c20958dfcb3e91c80e|file:///home/drmdub/dwmblocks/blocks.h|10|10|v|cpp
-	memory.sh
-2310fe0960a30eb4e256042f55d7c1cb|file:///home/drmdub/.config/dwm/config.def.h.rej|7|1|v|diff
-	+/* commands spawned when clicking statusbar, the mouse button pressed is exported as BUTTON */
-	+static char *statuscmds[] = { "notify-send Mouse$BUTTON" };
-	+static char *statuscmd[] = { "/bin/sh", "-c", NULL, NULL };
-	+
-	 
-bc7f16b715f5290847e529ed38565ec8|file:///home/drmdub/.config/dwm/config.def.h.rej|7|1|v|diff
-	+/* commands spawned when clicking statusbar, the mouse button pressed is exported as BUTTON */
-	+static char *statuscmds[] = { "notify-send Mouse$BUTTON" };
-	+static char *statuscmd[] = { "/bin/sh", "-c", NULL, NULL };
-	+
-	
-8c20e7927e627b2f5f7aa875296e8f4c|file:///home/drmdub/.config/dwm/config.def.h|63|1|v|cpp
-	/* commands spawned when clicking statusbar, the mouse button pressed is exported as BUTTON */
-	static char *statuscmds[] = { "notify-send Mouse$BUTTON" };
-	static char *statuscmd[] = { "/bin/sh", "-c", NULL, NULL };
-	
-	
-	
-57e234f113821e29b38d7122101ed46e|file:///home/drmdub/dwmblocks/blocks.h|10|17|v|cpp
-	weather.sh
-64462dabfc8c99ca3043b137525713df|file:///home/drmdub/.config/termite/config|64|12|v|dosini
-	E95640
-b0da332157d81f5e3039096dad2800eb|file:///home/drmdub/.config/termite/config|68|12|v|dosini
-	7a9f60
-afb784c4edc78d68b0ea08d5db998ef4|file:///home/drmdub/.config/termite/config|75|11|v|dosini
-	61afef
-794e86cde36cfff4c1f692beba30aa7c|file:///home/drmdub/.config/termite/config|76|12|v|dosini
-	3b84c0
-3157e196b82d1650570383d4335bc2e8|file:///home/drmdub/.config/termite/config|83|12|v|dosini
-	25B2BC
-	
-b8286f3daaa38bf79631c3066b0c900f|file:///home/drmdub/.config/termite/config|79|11|v|dosini
-	#B877DB
-	
-d4e677bdb96f3e0b37b3beb2967d170f|file:///home/drmdub/dwmblocks/blocks.h|10|17|v|cpp
-	forecast
-367ccebdd1d9bff4b33fcdca170985a9|file:///home/drmdub/.config/mutt/muttrc|5|1|V|neomuttrc
-	source ~/.config/mutt/dracula.muttrc
-edb090a5897adaa0e606d6376af236c5|file:///home/drmdub/.config/bspwm/sxhkd/sxhkdrc|307|1|v|sxhkdrc
-	#Picom Toggle
-	ctrl + alt + o
-	    ~/.config/bspwm/scripts/picom-toggle.sh
-	
-	
-da36b86b8d43d821f935f7b65a1e3b40|file:///home/drmdub/.config/ranger/rc.conf|167|18|v|conf
-	seperators
-1a18f19535b3b1edd5de7f535141f476|file:///home/drmdub/.config/ranger/rc.conf|167|18|v|conf
-	outline
-f4c8bf6adf59e34ace3a4b31ab32ceff|file:///home/drmdub/dwmblocks/blocks.h|10|1|V|cpp
-	  	{"",        "mail.sh",	        180,		            12},
-b83a886a5c437ccd9ac15473fd6f1788|file:///home/drmdub/dwmblocks/blocks.h|12|17|v|cpp
-	mail
-0c3f8fef7ea7a36a9167c3f8cf7f8165|file:///home/drmdub/dwmblocks/blocks.h|8|4|V|cpp
-	  	{" Mem: ",  "memory.sh",	        6,		            1},
-e2723cc60185c5b40569d43eb14573c2|file:///home/drmdub/dwmblocks/blocks.h|6|1|V|cpp
-	/*	  {" AUR: ", "pacupdate.sh",		360,		        9}, */
 d4e66140ec3750ae2f07a9825cc4f5a4|file:///home/drmdub/.config/dwm/config.def.h|110|1|V|cpp
 		{ MODKEY|ControlMask|ShiftMask, XK_q,      quit,           {1} }, 
 e532547e59c7cadd5d1d45ef325f1c87|file:///home/drmdub/.config/dwm/config.h|11|1|V|cpp
@@ -1956,3 +1839,60 @@ bf3848b222cb7ef94d34adacedfd1ab8|file:///home/drmdub/.config/termite/themes/arco
 	rgba(40, 42, 54, 1)
 73e2dee155a9df419ff24da23ae1855c|file:///home/drmdub/.config/dwm/config.h|15|41|v|cpp
 	FFCE51
+525b6220f1659886784ed67439311012|file:///home/drmdub/.config/dwm/dwm.c|809|4|v|c
+	drw_rect(drw, x + boxw, 0, w - ( 2 * boxw + 1), boxw,
+				    m == selmon && selmon->sel && selmon->sel->tags & 1 << i,
+				    urg & 1 << i);
+	
+	
+f5b090a2c1b36dd80a29a3766c838ba0|file:///home/drmdub/.config/dwm/dwm-activetagindicatorbar-6.2.diff|8|1|v|diff
+	-			drw_rect(drw, x + boxs, boxs, boxw, boxw,
+	-				m == selmon && selmon->sel && selmon->sel->tags & 1 << i,
+	-				urg & 1 << i);
+	
+811956efe2b65ba70a9123a115167d79|file:///home/drmdub/.dwm/autostart.sh|14|1|V|sh
+	lxsession &
+e70fc35af4e20e129f3d01392da9702e|file:///home/drmdub/.config/qtile/config.py|42|2|V|python
+	    ### The essentials
+ec005918b4efd494fcf6d242979b9a8b|file:///home/drmdub/.config/qtile/config.py|42|5|V|python
+	    Key(
+537864deed9f74e9fa31cd6a6c304da3|file:///home/drmdub/.config/qtile/config.py|42|9|V|python
+	        [mod], "Return", lazy.spawn(myTerm), desc="Launches My Terminal With Fish Shell"
+5e7815d3b18ea6383cf1bd0f4bc1347e|file:///home/drmdub/.config/qtile/config.py|42|5|V|python
+	    ),
+38e092994518861118df59e19a89f712|file:///home/drmdub/.config/qtile/config.py|42|5|V|python
+	    #     Key(
+ca10a1c4f883d4c7597f787ef4e6e4cc|file:///home/drmdub/.config/qtile/config.py|42|5|V|python
+	    #       [mod, "shift"], "Return",
+007cecfb3ea2294b4458b0f2cbac85a9|file:///home/drmdub/.config/qtile/config.py|42|5|V|python
+	    #      lazy.spawn("dmenu_run -p 'Run: '"),
+4f89b883a090af19ff5acdab519e5ef6|file:///home/drmdub/.config/qtile/config.py|42|5|V|python
+	    #     desc='Dmenu Run Launcher'
+46a9de765a344006c90cd25ea29e3930|file:///home/drmdub/.config/qtile/config.py|42|5|V|python
+	    #    ),
+40e783df855b4f9a56434a42712a5eb0|file:///home/drmdub/.config/qtile/config.py|42|5|V|python
+	    #    Key([mod], "d", lazy.spawn("rofi -show run"), desc="Dmenu Run Launcher"),
+c991a3f5ad3079e3e37001780aa2f711|file:///home/drmdub/.config/qtile/config.py|49|5|V|python
+	    #       Key([mod], "r",
+b823adada8ecb1d777b8a0db6cbf4330|file:///home/drmdub/.config/qtile/config.py|49|5|V|python
+	    #          lazy.to_screen(2),
+fc3918bf041f1e8f6971c85d4f4c178e|file:///home/drmdub/.config/qtile/config.py|49|5|V|python
+	    #         desc='Keyboard focus to monitor 3'
+bc3bd122f0e33a0d36aafceb794a1344|file:///home/drmdub/.config/qtile/config.py|49|5|V|python
+	    #        ),
+d9bc56f88655a63527c136802dd5e6c7|file:///home/drmdub/.xmonad/xmonad.hs|114|3|V|haskell
+	          spawnOnce "/usr/bin/emacs --daemon &"
+07a7449e3a3880672de1312bfb2c36a2|file:///home/drmdub/.xmonad/xmonad.hs|114|11|V|haskell
+	          -- spawnOnce "kak -d -s mysession &"
+e2407e2efdd023b729678fedbbb7e07d|file:///home/drmdub/.xmonad/xmonad.hs|112|11|V|haskell
+	          spawnOnce "volumeicon &"
+69431772047ed6d80e997a31583d4a81|file:///home/drmdub/.xmonad/xmonad.hs|111|11|V|haskell
+	          spawnOnce "nm-applet &"
+6e580299170f9a222dde979be29b6b29|file:///home/drmdub/.xmonad/xmonad.hs|111|11|V|haskell
+	          spawnOnce "trayer --edge top --align right --widthtype request --padding 6 --SetDockType true --SetPartialStrut true --expand true --monitor 1 --transparent true --alpha 0 --tint 0x282c34  --height 22 &"
+1f2e3d15855696edad3a431a7329cf5c|file:///home/drmdub/.xmonad/xmonad.hs|85|14|v|haskell
+	qutebrowser
+70e4d10cd6521ac965b43139ef92a4eb|file:///home/drmdub/.spectrwm.conf|72|1|V|conf
+	# autorun		= ws[2]:xombrero http://www.openbsd.org
+bb11d6e707f3dcc2b8322a41023d7ec9|file:///home/drmdub/.spectrwm.conf|95|1|V|conf
+	program[lock]		= xlock

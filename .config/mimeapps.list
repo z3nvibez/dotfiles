@@ -85,6 +85,7 @@ x-scheme-handler/trash=exo-file-manager.desktop
 application/javascript=vim.desktop;
 text/x-scss=vim.desktop;
 application/x-trash=vim.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-LKTNW0.desktop;
 
 [Default Applications]
 application/octet-stream=atom.desktop
@@ -111,3 +112,4 @@ x-scheme-handler/mailto=userapp-Evolution-N07ZS0.desktop
 x-scheme-handler/unknown=vivaldi-stable.desktop
 x-scheme-handler/etcher=balena-etcher-electron.desktop
 x-scheme-handler/lbry=lbry.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-LKTNW0.desktop

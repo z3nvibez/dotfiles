@@ -32,7 +32,7 @@ audio:
   playbackMuted: false
   pulse:
     devicePlayback: alsa_output.pci-0000_0b_00.4.analog-stereo
-    deviceRecord: alsa_output.usb-Focusrite_Scarlett_Solo_USB_Y79353409A5A53-00.analog-stereo.monitor
+    deviceRecord: ""
     deviceRingtone: ""
   recordPath: ""
   volumeMic: 1
@@ -43,6 +43,7 @@ video:
   recordQuality: 0
   decodingAccelerated: true
   encodingAccelerated: true
+  conferenceResolution: 1280x720
   devices:
     - name: HD Pro Webcam C920
       id: 046d_HD_Pro_Webcam_C920_875E59AF

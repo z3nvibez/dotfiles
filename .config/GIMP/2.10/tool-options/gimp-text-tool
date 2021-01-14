@@ -1,10 +1,9 @@
 # GIMP gimp-text-tool options
 
-(foreground (color-rgb 1 1 1))
+(foreground (color-rgb 0.8784313725490196 0.41960784313725491 0.45490196078431372))
 (palette "Color History")
-(font "Monthella")
-(font-size 36)
+(font "The Bold Font Bold")
+(font-size 100)
 (justify center)
-(box-mode fixed)
 
 # end of gimp-text-tool options

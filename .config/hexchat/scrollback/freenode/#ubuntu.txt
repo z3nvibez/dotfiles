@@ -1,0 +1,31 @@
+T 1608270721 19*	Now talking on 22#ubuntu
+T 1608270721 22*	Topic for 22#ubuntu is: Official Ubuntu Support Channel | IRC Guidelines: https://ubottu.com/y/gl | #ubuntu supports Ubuntu and official flavors; versions 16.04, 18.04, 20.04, 20.10 | Unofficial derivatives: use your distro's support channel, not here. | IRC info: https://ubottu.com/y/irc | Pastes to https://paste.ubuntu.com/ | Download: https://ubottu.com/y/dl
+T 1608270721 22*	Topic for 22#ubuntu set by 26krytarik!krytarik@xebian/developer/krytarik (24Thu Oct 22 14:58:13 2020)
+T 1608270721 -18ChanServ-	[#ubuntu] Welcome to #ubuntu! Please read the channel topic. This channel is logged at irclogs.ubuntu.com. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+T 1608270721 22*	Channel 22#ubuntu url: 24https://www.ubuntu.com
+T 1608270847 24*	roc91 has quit (Quit: Leaving)
+T 1608270902 FiSHLiM plugin unloaded
+T 1608336549 19*	Now talking on 22#ubuntu
+T 1608336549 22*	Topic for 22#ubuntu is: Official Ubuntu Support Channel | IRC Guidelines: https://ubottu.com/y/gl | #ubuntu supports Ubuntu and official flavors; versions 16.04, 18.04, 20.04, 20.10 | Unofficial derivatives: use your distro's support channel, not here. | IRC info: https://ubottu.com/y/irc | Pastes to https://paste.ubuntu.com/ | Download: https://ubottu.com/y/dl
+T 1608336549 22*	Topic for 22#ubuntu set by 26krytarik!krytarik@xebian/developer/krytarik (24Thu Oct 22 14:58:13 2020)
+T 1608336549 -18ChanServ-	[#ubuntu] Welcome to #ubuntu! Please read the channel topic. This channel is logged at irclogs.ubuntu.com. Use of this channel implies acceptance of terms at https://wiki.ubuntu.com/IRC/TermsOfService
+T 1608336549 22*	Channel 22#ubuntu url: 24https://www.ubuntu.com
+T 1608336625 23*	ghost2501 (~ghost2501@unaffiliated/ghost250123) has joined
+T 1608336718 24*	Tabmow has quit (Quit: ZNC 1.8.2 - https://znc.in)
+T 1608336734 24*	weskrasko has quit (Ping timeout: 260 seconds)
+T 1608336767 24*	jarn has quit (Quit: Leaving)
+T 1608336768 24*	superleaf1995 has quit (Quit: Connection closed)
+T 1608336993 23*	jwisbell35_ (~jwisbell3@174-080-092-197.res.spectrum.com23) has joined
+T 1608337011 24*	p0indexter has quit (Quit: leaving)
+T 1608337171 23*	Tabmow (~tabmow@freenode/staff-emeritus/tabmow23) has joined
+T 1608337198 23*	signofzeta (~signofzet@gateway/tor-sasl/reversedelta23) has joined
+T 1608337201 24*	jwisbell35 has quit (Ping timeout: 264 seconds)
+T 1608337210 23*	sam_wong (~Thunderbi@cm125-59-225-29.hkcable.com.hk23) has joined
+T 1608337221 23*	eeos (~kt529@2001:b07:6443:bf4a:3595:1412:9582:d75123) has joined
+T 1608337225 24*	Betal has quit (Quit: WeeChat 2.9)
+T 1608337240 24*	eeos has quit (Quit: Konversation terminated!)
+T 1608337414 23*	PowerTower_120 (~Thunderbi@ppp-61-90-19-121.revip.asianet.co.th23) has joined
+T 1608337487 24*	czwolf has quit (Ping timeout: 260 seconds)
+T 1608337513 24*	genii has quit (Quit: Beer O'Clock, probably)
+T 1608337558 23*	czwolf (~Cz@2607:5300:60:1176::123) has joined
+T 1608337610 23*	jmw (~jmw@unaffiliated/jmw23) has joined

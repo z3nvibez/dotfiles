@@ -1,3 +1,6 @@
-2020/12/17-17:01:21.925 278c74 Reusing MANIFEST /home/drmdub/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2020/12/17-17:01:21.925 278c74 Recovering log #38
-2020/12/17-17:01:21.925 278c74 Reusing old log /home/drmdub/.config/discord/Local Storage/leveldb/000038.log 
+2021/01/13-11:44:03.210 c53 Reusing MANIFEST /home/drmdub/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/01/13-11:44:03.212 c53 Recovering log #48
+2021/01/13-11:44:03.213 c53 Reusing old log /home/drmdub/.config/discord/Local Storage/leveldb/000048.log 
+2021/01/13-11:45:04.901 fe2 Level-0 table #52: started
+2021/01/13-11:45:04.902 fe2 Level-0 table #52: 17585 bytes OK
+2021/01/13-11:45:04.903 fe2 Delete type=0 #48

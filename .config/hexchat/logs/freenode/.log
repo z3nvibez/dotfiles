@@ -1,0 +1,22 @@
+**** BEGIN LOGGING AT Fri Dec 18 00:39:28 2020
+
+Dec 18 00:39:28 *	Connecting to chat.freenode.net (185.191.225.10:6697)
+Dec 18 00:39:29 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 18 00:39:29 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 18 00:39:29 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Dec 18 00:39:29 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 18 00:39:29 *	* Subject: /CN=beckett.freenode.net
+Dec 18 00:39:29 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Dec 18 00:39:29 *	* Certification info:
+Dec 18 00:39:29 *	  Subject:
+Dec 18 00:39:29 *	    CN=beckett.freenode.net
+Dec 18 00:39:29 *	  Issuer:
+Dec 18 00:39:29 *	    C=US
+Dec 18 00:39:29 *	    O=Let's Encrypt
+Dec 18 00:39:29 *	    CN=Let's Encrypt Authority X3
+Dec 18 00:39:29 *	  Public key algorithm: rsaEncryption (4096 bits)
+Dec 18 00:39:29 *	  Sign algorithm sha256WithRSAEncryption
+Dec 18 00:39:29 *	  Valid since Nov  2 04:35:31 2020 GM to Jan 31 04:35:31 2021 GM
+Dec 18 00:39:29 *	* Cipher info:
+Dec 18 00:39:29 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Dec 18 00:39:29 *	Connected. Now logging in.

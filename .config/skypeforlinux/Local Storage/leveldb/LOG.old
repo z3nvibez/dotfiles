@@ -1,14 +1,29 @@
-2020/12/16-13:51:02.804 9a7 Reusing MANIFEST /home/drmdub/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
-2020/12/16-13:51:02.804 9a7 Recovering log #88
-2020/12/16-13:51:02.804 9a7 Level-0 table #91: started
-2020/12/16-13:51:02.806 9a7 Level-0 table #91: 60082 bytes OK
-2020/12/16-13:51:02.806 9a7 Delete type=0 #88
-2020/12/16-13:51:02.807 9e5 Compacting 4@0 + 1@1 files
-2020/12/16-13:51:02.809 9e5 Generated table #93@0: 13 keys, 60182 bytes
-2020/12/16-13:51:02.809 9e5 Compacted 4@0 + 1@1 files => 60182 bytes
-2020/12/16-13:51:02.810 9e5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/12/16-13:51:02.810 9e5 Delete type=2 #89
-2020/12/16-13:51:02.810 9e5 Delete type=2 #87
-2020/12/16-13:51:02.810 9e5 Delete type=2 #83
-2020/12/16-13:51:02.810 9e5 Delete type=2 #91
-2020/12/16-13:51:02.810 9e5 Delete type=2 #85
+2021/01/03-15:23:13.180 50889 Reusing MANIFEST /home/drmdub/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/01/03-15:23:13.180 50889 Recovering log #98
+2021/01/03-15:23:13.180 50889 Reusing old log /home/drmdub/.config/skypeforlinux/Local Storage/leveldb/000098.log 
+2021/01/03-15:24:13.183 50bd8 Level-0 table #102: started
+2021/01/03-15:24:13.185 50bd8 Level-0 table #102: 69067 bytes OK
+2021/01/03-15:24:13.186 50bd8 Delete type=0 #98
+2021/01/03-16:30:06.583 50bd8 Level-0 table #104: started
+2021/01/03-16:30:06.584 50bd8 Level-0 table #104: 69347 bytes OK
+2021/01/03-16:30:06.585 50bd8 Delete type=0 #101
+2021/01/03-16:30:06.585 50bd8 Compacting 4@0 + 1@1 files
+2021/01/03-16:30:06.587 50bd8 Generated table #105@0: 13 keys, 69105 bytes
+2021/01/03-16:30:06.587 50bd8 Compacted 4@0 + 1@1 files => 69105 bytes
+2021/01/03-16:30:06.588 50bd8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/03-16:30:06.588 50bd8 Delete type=2 #104
+2021/01/03-16:30:06.588 50bd8 Delete type=2 #99
+2021/01/03-16:30:06.588 50bd8 Delete type=2 #96
+2021/01/03-16:30:06.588 50bd8 Delete type=2 #102
+2021/01/03-16:30:06.588 50bd8 Delete type=2 #93
+2021/01/03-18:23:22.695 50bd8 Level-0 table #107: started
+2021/01/03-18:23:22.697 50bd8 Level-0 table #107: 68895 bytes OK
+2021/01/03-18:23:22.698 50bd8 Delete type=0 #103
+2021/01/03-19:23:22.938 50bd8 Level-0 table #109: started
+2021/01/03-19:23:22.940 50bd8 Level-0 table #109: 67969 bytes OK
+2021/01/03-19:23:22.941 50bd8 Delete type=0 #106
+2021/01/03-20:23:23.351 50bd8 Level-0 table #111: started
+2021/01/03-20:23:23.353 50bd8 Level-0 table #111: 68912 bytes OK
+2021/01/03-20:23:23.354 50bd8 Delete type=0 #108
+2021/01/03-20:55:51.082 50bd8 Level-0 table #113: started
+2021/01/03-20:55:51.084 50bd8 Level-0 table #113: 68812 bytes OK

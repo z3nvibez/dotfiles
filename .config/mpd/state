@@ -1,8 +1,6 @@
 sw_volume: 100
 audio_device_state:1:pulse audio
-state: pause
-current: 30
-time: 3.699000
+state: stop
 random: 1
 repeat: 0
 single: 0
@@ -11,71 +9,4 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-1-It's Not Over-1-2008.mp3
-1:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-2-Used To-1-2008.mp3
-2:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-3-Home-1-2008.mp3
-3:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-4-Over You-1-2008.mp3
-4:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-5-Crashed-1-2008.mp3
-5:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-6-Feels Like Tonight-1-2008.mp3
-6:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-7-What I Want-1-2008.mp3
-7:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-8-Breakdown-1-2008.mp3
-8:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-9-Gone-1-2008.mp3
-9:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-10-There And Back Again-1-2008.mp3
-10:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-11-All These Lives-1-2008.mp3
-11:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-12-What About Now-1-2008.mp3
-12:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-13-Feels Like The First Time-1-2008.mp3
-13:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-14-It's Not Over [Live]-1-2008.mp3
-14:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-15-Home [Acoustic]-1-2008.mp3
-15:Daughtry/Studio Albums/(2006)-Daughtry_Daughtry [Deluxe Edition]-{inyd}/Daughtry-Daughtry-16-What About Now [Idol Gives Back Version]-1-2008.mp3
-16:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-1-You Don't Belong-1-2009.mp3
-17:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-2-No Surprise-1-2009.mp3
-18:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-3-Every Time You Turn Around-1-2009.mp3
-19:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-4-Life After You-1-2009.mp3
-20:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-5-What I Meant To Say-1-2009.mp3
-21:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-6-Open Up Your Eyes-1-2009.mp3
-22:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-7-September-1-2009.mp3
-23:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-8-Ghost Of Me-1-2009.mp3
-24:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-9-Learn My Lesson-1-2009.mp3
-25:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-10-Supernatural-1-2009.mp3
-26:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-11-Tennessee Line-1-2009.mp3
-27:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-12-Call Your Name-1-2009.mp3
-28:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-13-What Have We Become-1-2009.mp3
-29:Daughtry/Studio Albums/(2009)-Daughtry_Leave This Town [Deluxe Edition]-{inyd}/Leave This Town-Daughtry-14-On The Inside-1-2009.mp3
-30:Daughtry/EP/(2010)-Daughtry_Leave This Town.The B-Sides-Ep-{inyd)/Leave This Town- The B-Sides-Daughtry-1-Long Way-1-2010.mp3
-31:Daughtry/EP/(2010)-Daughtry_Leave This Town.The B-Sides-Ep-{inyd)/Leave This Town- The B-Sides-Daughtry-2-One Last Chance-1-2010.mp3
-32:Daughtry/EP/(2010)-Daughtry_Leave This Town.The B-Sides-Ep-{inyd)/Leave This Town- The B-Sides-Daughtry-3-Get Me Through-1-2010.mp3
-33:Daughtry/EP/(2010)-Daughtry_Leave This Town.The B-Sides-Ep-{inyd)/Leave This Town- The B-Sides-Daughtry-4-What Have We Become-1-2010.mp3
-34:Daughtry/EP/(2010)-Daughtry_Leave This Town.The B-Sides-Ep-{inyd)/Leave This Town- The B-Sides-Daughtry-5-On The Inside-1-2010.mp3
-35:Daughtry/EP/(2010)-Daughtry_Leave This Town.The B-Sides-Ep-{inyd)/Leave This Town- The B-Sides-Daughtry-6-Traffic Light-1-2010.mp3
-36:Daughtry/Studio Albums/(2011)-Daughtry_Break The Spell [Deluxe Edition]-{inyd}/Break The Spell (Deluxe Version)-Daughtry-1-Renegade-1-2011.mp3
-37:Daughtry/Studio Albums/(2011)-Daughtry_Break The Spell [Deluxe Edition]-{inyd}/Break The Spell (Deluxe Version)-Daughtry-2-Crawling Back To You-1-2011.mp3
-38:Daughtry/Studio Albums/(2011)-Daughtry_Break The Spell [Deluxe Edition]-{inyd}/Break The Spell (Deluxe Version)-Daughtry-3-Outta My Head-1-2011.mp3
-39:Daughtry/Studio Albums/(2011)-Daughtry_Break The Spell [Deluxe Edition]-{inyd}/Break The Spell (Deluxe Version)-Daughtry-4-Start Of Something Good-1-2011.mp3
-40:Daughtry/Studio Albums/(2011)-Daughtry_Break The Spell [Deluxe Edition]-{inyd}/Break The Spell (Deluxe Version)-Daughtry-5-Crazy-1-2011.mp3
-41:Daughtry/Studio Albums/(2011)-Daughtry_Break The Spell [Deluxe Edition]-{inyd}/Break The Spell (Deluxe Version)-Daughtry-6-Break The Spell-1-2011.mp3
-42:Daughtry/Studio Albums/(2011)-Daughtry_Break The Spell [Deluxe Edition]-{inyd}/Break The Spell (Deluxe Version)-Daughtry-7-We're Not Gonna Fall-1-2011.mp3
-43:Daughtry/Studio Albums/(2011)-Daughtry_Break The Spell [Deluxe Edition]-{inyd}/Break The Spell (Deluxe Version)-Daughtry-8-Gone Too Soon-1-2011.mp3
-44:Daughtry/Studio Albums/(2011)-Daughtry_Break The Spell [Deluxe Edition]-{inyd}/Break The Spell (Deluxe Version)-Daughtry-9-Losing My Mind-1-2011.mp3
-45:Daughtry/Studio Albums/(2011)-Daughtry_Break The Spell [Deluxe Edition]-{inyd}/Break The Spell (Deluxe Version)-Daughtry-10-Rescue Me-1-2011.mp3
-46:Daughtry/Studio Albums/(2011)-Daughtry_Break The Spell [Deluxe Edition]-{inyd}/Break The Spell (Deluxe Version)-Daughtry-11-Louder Than Ever-1-2011.mp3
-47:Daughtry/Studio Albums/(2011)-Daughtry_Break The Spell [Deluxe Edition]-{inyd}/Break The Spell (Deluxe Version)-Daughtry-12-Spaceship-1-2011.mp3
-48:Daughtry/Studio Albums/(2011)-Daughtry_Break The Spell [Deluxe Edition]-{inyd}/Break The Spell (Deluxe Version)-Daughtry-13-Who's They-1-2011.mp3
-49:Daughtry/Studio Albums/(2011)-Daughtry_Break The Spell [Deluxe Edition]-{inyd}/Break The Spell (Deluxe Version)-Daughtry-14-Maybe We're Already Gone-1-2011.mp3
-50:Daughtry/Studio Albums/(2011)-Daughtry_Break The Spell [Deluxe Edition]-{inyd}/Break The Spell (Deluxe Version)-Daughtry-15-Everything But Me-1-2011.mp3
-51:Daughtry/Studio Albums/(2011)-Daughtry_Break The Spell [Deluxe Edition]-{inyd}/Break The Spell (Deluxe Version)-Daughtry-16-Lullaby-1-2011.mp3
-52:Daughtry/Studio Albums/(2013)-Daughtry_Baptized [Deluxe Edition]-{inyd)/Baptized (Deluxe Version)-Daughtry-1-Baptized-1-2013.mp3
-53:Daughtry/Studio Albums/(2013)-Daughtry_Baptized [Deluxe Edition]-{inyd)/Baptized (Deluxe Version)-Daughtry-2-Waiting For Superman-1-2013.mp3
-54:Daughtry/Studio Albums/(2013)-Daughtry_Baptized [Deluxe Edition]-{inyd)/Baptized (Deluxe Version)-Daughtry-3-Battleships-1-2013.mp3
-55:Daughtry/Studio Albums/(2013)-Daughtry_Baptized [Deluxe Edition]-{inyd)/Baptized (Deluxe Version)-Daughtry-4-I'll Fight-1-2013.mp3
-56:Daughtry/Studio Albums/(2013)-Daughtry_Baptized [Deluxe Edition]-{inyd)/Baptized (Deluxe Version)-Daughtry-5-Wild Heart-1-2013.mp3
-57:Daughtry/Studio Albums/(2013)-Daughtry_Baptized [Deluxe Edition]-{inyd)/Baptized (Deluxe Version)-Daughtry-6-Long Live Rock & Roll-1-2013.mp3
-58:Daughtry/Studio Albums/(2013)-Daughtry_Baptized [Deluxe Edition]-{inyd)/Baptized (Deluxe Version)-Daughtry-7-The World We Knew-1-2013.mp3
-59:Daughtry/Studio Albums/(2013)-Daughtry_Baptized [Deluxe Edition]-{inyd)/Baptized (Deluxe Version)-Daughtry-8-High Above The Ground-1-2013.mp3
-60:Daughtry/Studio Albums/(2013)-Daughtry_Baptized [Deluxe Edition]-{inyd)/Baptized (Deluxe Version)-Daughtry-9-Broken Arrows-1-2013.mp3
-61:Daughtry/Studio Albums/(2013)-Daughtry_Baptized [Deluxe Edition]-{inyd)/Baptized (Deluxe Version)-Daughtry-10-Witness-1-2013.mp3
-62:Daughtry/Studio Albums/(2013)-Daughtry_Baptized [Deluxe Edition]-{inyd)/Baptized (Deluxe Version)-Daughtry-11-Traitor-1-2013.mp3
-63:Daughtry/Studio Albums/(2013)-Daughtry_Baptized [Deluxe Edition]-{inyd)/Baptized (Deluxe Version)-Daughtry-12-18 Years-1-2013.mp3
-64:Daughtry/Studio Albums/(2013)-Daughtry_Baptized [Deluxe Edition]-{inyd)/Baptized (Deluxe Version)-Daughtry-13-Undefeated-1-2013.mp3
-65:Daughtry/Studio Albums/(2013)-Daughtry_Baptized [Deluxe Edition]-{inyd)/Baptized (Deluxe Version)-Daughtry-14-Cinderella-1-2013.mp3
-66:Daughtry/Studio Albums/(2013)-Daughtry_Baptized [Deluxe Edition]-{inyd)/Baptized (Deluxe Version)-Daughtry-15-Battleships [Acoustic]-1-2013.mp3
 playlist_end

@@ -1,0 +1,592 @@
+**** BEGIN LOGGING AT Fri Dec 18 00:39:29 2020
+
+Dec 18 00:39:29 *	*** Looking up your hostname...
+Dec 18 00:39:29 *	*** Checking Ident
+Dec 18 00:39:29 *	*** Couldn't look up your hostname
+Dec 18 00:39:35 *	*** No Ident response
+Dec 18 00:39:35 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Dec 18 00:39:35 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+Dec 18 00:39:35 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Fri Dec 18 00:39:35 2020
+
+**** BEGIN LOGGING AT Fri Dec 18 00:39:35 2020
+
+Dec 18 00:39:35 *	Welcome to the freenode Internet Relay Chat Network drmdub
+Dec 18 00:39:35 *	Your host is beckett.freenode.net[185.191.225.10/6697], running version ircd-seven-1.1.9
+Dec 18 00:39:35 *	This server was created Sun Jul 12 2020 at 20:42:37 UTC
+Dec 18 00:39:35 *	beckett.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Dec 18 00:39:35 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Dec 18 00:39:35 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU MONITOR=100 :are supported by this server
+Dec 18 00:39:35 *	WHOX ETRACE KNOCK CPRIVMSG CNOTICE :are supported by this server
+Dec 18 00:39:35 *	There are 98 users and 74862 invisible on 31 servers
+Dec 18 00:39:35 *	42 :IRC Operators online
+Dec 18 00:39:35 *	23 :unknown connection(s)
+Dec 18 00:39:35 *	42824 :channels formed
+Dec 18 00:39:35 *	I have 3350 clients and 1 servers
+Dec 18 00:39:35 *	3350 4137 :Current local users 3350, max 4137
+Dec 18 00:39:35 *	74960 87998 :Current global users 74960, max 87998
+Dec 18 00:39:35 *	Highest connection count: 4138 (4137 clients) (807789 connections received)
+Dec 18 00:39:35 *	- beckett.freenode.net Message of the Day - 
+Dec 18 00:39:35 *	- Welcome to freenode - supporting the free and open source
+Dec 18 00:39:35 *	- software communities since 1998.
+Dec 18 00:39:35 *	-  
+Dec 18 00:39:35 *	- By connecting to freenode you indicate that you have read and
+Dec 18 00:39:35 *	- accept our policies and guidelines as set out on https://freenode.net
+Dec 18 00:39:35 *	-  
+Dec 18 00:39:35 *	- In the event that you observe behaviour that contravenes our policies,
+Dec 18 00:39:35 *	- please notify a volunteer staff member via private message, or send us an
+Dec 18 00:39:35 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Dec 18 00:39:35 *	- situation within a reasonable period of time, and we may request further
+Dec 18 00:39:35 *	- information or, as appropriate, involve other parties such as channel operators 
+Dec 18 00:39:35 *	- Group Contacts representing an on-topic group.
+Dec 18 00:39:35 *	-  
+Dec 18 00:39:35 *	- freenode runs an open proxy scanner.
+Dec 18 00:39:35 *	-  
+Dec 18 00:39:35 *	- If you are looking for assistance, you may be able to find a list of 
+Dec 18 00:39:35 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Dec 18 00:39:35 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Dec 18 00:39:35 *	- any of us at any time. Please note that freenode predominantly provides 
+Dec 18 00:39:35 *	- assistance via private message, and while we have a network channel the 
+Dec 18 00:39:35 *	- primary venue for support requests is via private message to a member 
+Dec 18 00:39:35 *	- of the volunteer staff team.
+Dec 18 00:39:35 *	-  
+Dec 18 00:39:35 *	- From time to time, volunteer staff may send server-wide notices relating to
+Dec 18 00:39:35 *	- the project, or the communities that we host. The majority of such notices
+Dec 18 00:39:35 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Dec 18 00:39:35 *	- do not miss them. Important messages relating to the freenode project, including
+Dec 18 00:39:35 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Dec 18 00:39:35 *	- global notices.
+Dec 18 00:39:35 *	-  
+Dec 18 00:39:35 *	- Representing an on-topic project? Don't forget to register, more information
+Dec 18 00:39:35 *	- can be found on the https://freenode.net website under "Group Registration".
+Dec 18 00:39:35 *	-  
+Dec 18 00:39:35 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Dec 18 00:39:35 *	- network going for close to two decades.
+Dec 18 00:39:35 *	-  
+Dec 18 00:39:35 *	- Thank you for using freenode!
+Dec 18 00:39:35 *	End of /MOTD command.
+Dec 18 00:39:35 *	drmdub sets mode +Z on drmdub
+Dec 18 00:39:35 *	drmdub sets mode +i on drmdub
+Dec 18 00:39:54 *	#ubuntu :Cannot join channel (+r) - you need to be identified with services - see https://freenode.net/kb/answer/registration
+**** ENDING LOGGING AT Fri Dec 18 00:46:09 2020
+
+**** BEGIN LOGGING AT Fri Dec 18 00:46:09 2020
+
+Dec 18 00:48:30 Usage: MSG <nick> <message>, sends a private message, message "." to send to last nick or prefix with "=" for dcc chat
+Dec 18 00:49:14 >NickServ<	IsWaKi2003 mtwb47@gmail.com
+Dec 18 00:49:14 -NickServ-	Invalid command. Use /msg NickServ help for a command listing.
+Dec 18 00:49:41 >NickServ<	help
+Dec 18 00:49:41 -NickServ-	***** NickServ Help *****
+Dec 18 00:49:41 -NickServ-	NickServ allows users to 'register' a nickname, and stop
+Dec 18 00:49:41 -NickServ-	others from using that nick. NickServ allows the owner of a
+Dec 18 00:49:41 -NickServ-	nickname to disconnect a user from the network that is using
+Dec 18 00:49:41 -NickServ-	their nickname.
+Dec 18 00:49:41 -NickServ-	 
+Dec 18 00:49:41 -NickServ-	For more information on a command, type:
+Dec 18 00:49:41 -NickServ-	/msg NickServ help <command>
+Dec 18 00:49:41 -NickServ-	For a verbose listing of all commands, type:
+Dec 18 00:49:41 -NickServ-	/msg NickServ help commands
+Dec 18 00:49:41 -NickServ-	 
+Dec 18 00:49:41 -NickServ-	The following commands are available:
+Dec 18 00:49:42 -NickServ-	GHOST           Reclaims use of a nickname.
+Dec 18 00:49:42 -NickServ-	IDENTIFY        Identifies to services for a nickname.
+Dec 18 00:49:42 -NickServ-	INFO            Displays information on registrations.
+Dec 18 00:49:42 -NickServ-	LISTCHANS       Lists channels that you have access to.
+Dec 18 00:49:42 -NickServ-	REGISTER        Registers a nickname.
+Dec 18 00:49:42 -NickServ-	RELEASE         Releases a services enforcer.
+Dec 18 00:49:42 -NickServ-	SENDPASS        Email registration passwords.
+Dec 18 00:49:42 -NickServ-	 
+Dec 18 00:49:42 -NickServ-	Other commands: ACC, ACCESS, CERT, DROP, HELP, LOGOUT, 
+Dec 18 00:49:42 -NickServ-	                REGAIN, SETPASS, STATUS, TAXONOMY, VERIFY
+Dec 18 00:49:42 -NickServ-	***** End of Help *****
+Dec 18 00:50:07 >NickServ<	help commands
+Dec 18 00:50:07 -NickServ-	***** NickServ Help *****
+Dec 18 00:50:07 -NickServ-	The following commands are available:
+Dec 18 00:50:07 -NickServ-	ACC             Displays parsable session information.
+Dec 18 00:50:07 -NickServ-	ACCESS          Changes and shows your nickname access list.
+Dec 18 00:50:07 -NickServ-	CERT            Changes and shows your nickname CertFP authentication list.
+Dec 18 00:50:07 -NickServ-	DROP            Drops an account registration.
+Dec 18 00:50:07 -NickServ-	GHOST           Reclaims use of a nickname.
+Dec 18 00:50:07 -NickServ-	HELP            Displays contextual help information.
+Dec 18 00:50:07 -NickServ-	IDENTIFY        Identifies to services for a nickname.
+Dec 18 00:50:07 -NickServ-	INFO            Displays information on registrations.
+Dec 18 00:50:07 -NickServ-	LISTCHANS       Lists channels that you have access to.
+Dec 18 00:50:07 -NickServ-	LOGOUT          Logs your services session out.
+Dec 18 00:50:07 -NickServ-	REGAIN          Regain usage of a nickname.
+Dec 18 00:50:07 -NickServ-	REGISTER        Registers a nickname.
+Dec 18 00:50:07 -NickServ-	RELEASE         Releases a services enforcer.
+Dec 18 00:50:07 -NickServ-	SENDPASS        Email registration passwords.
+Dec 18 00:50:07 -NickServ-	SETPASS         Changes a password using an authcode.
+Dec 18 00:50:07 -NickServ-	STATUS          Displays session information.
+Dec 18 00:50:07 -NickServ-	TAXONOMY        Displays a user's metadata.
+Dec 18 00:50:07 -NickServ-	VERIFY          Verifies an account registration.
+Dec 18 00:50:07 -NickServ-	***** End of Help *****
+Dec 18 00:50:24 >NickServ<	register
+Dec 18 00:50:24 -NickServ-	Insufficient parameters for REGISTER.
+Dec 18 00:50:24 -NickServ-	Syntax: REGISTER <password> <email>
+Dec 18 00:50:43 >NickServ<	register IsWaKi2003 mtwb47@gmail.com
+Dec 18 00:50:44 -NickServ-	An email containing nickname activation instructions has been sent to mtwb47@gmail.com.
+Dec 18 00:50:44 -NickServ-	If you do not complete registration within one day, your nickname will expire.
+Dec 18 00:50:44 -NickServ-	drmdub is now registered to mtwb47@gmail.com, with the password IsWaKi2003.
+Dec 18 00:50:44 -NickServ-	 
+Dec 18 00:50:44 -NickServ-	For frequently-asked questions about the network, please see the
+Dec 18 00:50:44 -NickServ-	Knowledge Base page (https://freenode.net/kb/all). Should you need more
+Dec 18 00:50:44 -NickServ-	help you can /join #freenode to find network staff.
+Dec 18 00:51:41 >NickServ<	VERIFY REGISTER drmdub xzdafdzhzjlg
+Dec 18 00:51:41 -NickServ-	drmdub has now been verified.
+Dec 18 00:51:41 -NickServ-	Thank you for verifying your e-mail address! You have taken steps in ensuring that your registrations are not exploited.
+**** ENDING LOGGING AT Fri Dec 18 00:54:50 2020
+
+**** BEGIN LOGGING AT Fri Dec 18 00:54:50 2020
+
+Dec 18 00:55:02 Sysinfo plugin unloaded
+Dec 18 00:55:02 Checksum plugin unloaded
+Dec 18 00:55:02 Perl interface unloaded
+**** ENDING LOGGING AT Fri Dec 18 00:55:02 2020
+
+**** BEGIN LOGGING AT Fri Dec 18 00:55:21 2020
+
+Dec 18 00:55:21 *	Welcome to the freenode Internet Relay Chat Network drmdub
+Dec 18 00:55:21 *	Your host is verne.freenode.net[185.30.166.38/6697], running version ircd-seven-1.1.9
+Dec 18 00:55:21 *	This server was created Mon Mar 16 2020 at 18:29:20 UTC
+Dec 18 00:55:21 *	verne.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Dec 18 00:55:21 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Dec 18 00:55:21 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 ETRACE WHOX KNOCK :are supported by this server
+Dec 18 00:55:21 *	SAFELIST ELIST=CTU CPRIVMSG CNOTICE MONITOR=100 :are supported by this server
+Dec 18 00:55:21 *	There are 99 users and 74954 invisible on 31 servers
+Dec 18 00:55:21 *	42 :IRC Operators online
+Dec 18 00:55:21 *	31 :unknown connection(s)
+Dec 18 00:55:21 *	42830 :channels formed
+Dec 18 00:55:21 *	I have 3363 clients and 1 servers
+Dec 18 00:55:21 *	3363 4812 :Current local users 3363, max 4812
+Dec 18 00:55:21 *	75053 89765 :Current global users 75053, max 89765
+Dec 18 00:55:21 *	Highest connection count: 4813 (4812 clients) (2091229 connections received)
+Dec 18 00:55:21 *	- verne.freenode.net Message of the Day - 
+Dec 18 00:55:21 *	- Welcome to verne.freenode.net in Amsterdam, NL.
+Dec 18 00:55:21 *	- Thanks to http://www.hyperfilter.com/ for sponsoring
+Dec 18 00:55:21 *	- this server!
+Dec 18 00:55:21 *	-  
+Dec 18 00:55:21 *	-  
+Dec 18 00:55:21 *	- VERNE, Jules (1828-1905). Born in Nantes, France, Verne was
+Dec 18 00:55:21 *	- a pioneering french author known for novels such as Twenty
+Dec 18 00:55:21 *	- Thousand Leagues Under the Sea, A Journey to the Center of the
+Dec 18 00:55:21 *	- Earth, and Around the World in Eighty Days. Often lauded as the
+Dec 18 00:55:21 *	- Father of science fiction, Verne wrote about concepts such as
+Dec 18 00:55:21 *	- space travel, skyscrapers, and worldwide communications
+Dec 18 00:55:21 *	- networks long before these ideas became popularised or realised.
+Dec 18 00:55:21 *	-  
+Dec 18 00:55:21 *	- Welcome to freenode - supporting the free and open source
+Dec 18 00:55:21 *	- software communities since 1998.
+Dec 18 00:55:21 *	-  
+Dec 18 00:55:21 *	- By connecting to freenode you indicate that you have read and
+Dec 18 00:55:21 *	- accept our policies and guidelines as set out on https://freenode.net
+Dec 18 00:55:21 *	-  
+Dec 18 00:55:21 *	- In the event that you observe behaviour that contravenes our policies,
+Dec 18 00:55:21 *	- please notify a volunteer staff member via private message, or send us an
+Dec 18 00:55:21 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Dec 18 00:55:21 *	- situation within a reasonable period of time, and we may request further
+Dec 18 00:55:21 *	- information or, as appropriate, involve other parties such as channel operators 
+Dec 18 00:55:21 *	- Group Contacts representing an on-topic group.
+Dec 18 00:55:21 *	-  
+Dec 18 00:55:21 *	- freenode runs an open proxy scanner.
+Dec 18 00:55:21 *	-  
+Dec 18 00:55:21 *	- If you are looking for assistance, you may be able to find a list of 
+Dec 18 00:55:21 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Dec 18 00:55:21 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Dec 18 00:55:21 *	- any of us at any time. Please note that freenode predominantly provides 
+Dec 18 00:55:21 *	- assistance via private message, and while we have a network channel the 
+Dec 18 00:55:21 *	- primary venue for support requests is via private message to a member 
+Dec 18 00:55:21 *	- of the volunteer staff team.
+Dec 18 00:55:21 *	-  
+Dec 18 00:55:21 *	- From time to time, volunteer staff may send server-wide notices relating to
+Dec 18 00:55:21 *	- the project, or the communities that we host. The majority of such notices
+Dec 18 00:55:21 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Dec 18 00:55:21 *	- do not miss them. Important messages relating to the freenode project, including
+Dec 18 00:55:21 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Dec 18 00:55:21 *	- global notices.
+Dec 18 00:55:21 *	-  
+Dec 18 00:55:21 *	- Representing an on-topic project? Don't forget to register, more information
+Dec 18 00:55:21 *	- can be found on the https://freenode.net website under "Group Registration".
+Dec 18 00:55:21 *	-  
+Dec 18 00:55:21 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Dec 18 00:55:21 *	- network going for close to two decades.
+Dec 18 00:55:21 *	-  
+Dec 18 00:55:21 *	- Thank you for using freenode!
+Dec 18 00:55:21 *	End of /MOTD command.
+Dec 18 00:55:21 *	drmdub sets mode +Z on drmdub
+Dec 18 00:55:21 *	drmdub sets mode +i on drmdub
+Dec 18 00:55:21 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Dec 18 00:55:47 >NickServ<	identify ****
+Dec 18 00:55:48 -NickServ-	You are now identified for drmdub.
+Dec 18 01:12:26 Sysinfo plugin unloaded
+Dec 18 01:12:26 FiSHLiM plugin unloaded
+Dec 18 01:12:26 Checksum plugin unloaded
+Dec 18 01:12:26 Perl interface unloaded
+**** ENDING LOGGING AT Fri Dec 18 01:12:26 2020
+
+**** BEGIN LOGGING AT Fri Dec 18 18:51:08 2020
+
+Dec 18 18:51:08 *	Welcome to the freenode Internet Relay Chat Network drmdub
+Dec 18 18:51:08 *	Your host is karatkievich.freenode.net[64.86.243.181/6697], running version ircd-seven-1.1.9
+Dec 18 18:51:08 *	This server was created Wed Oct 28 2020 at 22:07:50 UTC
+Dec 18 18:51:08 *	karatkievich.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Dec 18 18:51:08 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Dec 18 18:51:08 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE ETRACE :are supported by this server
+Dec 18 18:51:08 *	KNOCK SAFELIST ELIST=CTU MONITOR=100 WHOX :are supported by this server
+Dec 18 18:51:08 *	There are 97 users and 75899 invisible on 31 servers
+Dec 18 18:51:08 *	42 :IRC Operators online
+Dec 18 18:51:08 *	26 :unknown connection(s)
+Dec 18 18:51:08 *	42986 :channels formed
+Dec 18 18:51:08 *	I have 3301 clients and 1 servers
+Dec 18 18:51:08 *	3301 5918 :Current local users 3301, max 5918
+Dec 18 18:51:08 *	75996 86812 :Current global users 75996, max 86812
+Dec 18 18:51:08 *	Highest connection count: 5919 (5918 clients) (146774 connections received)
+Dec 18 18:51:08 *	- karatkievich.freenode.net Message of the Day - 
+Dec 18 18:51:08 *	- Welcome to karatkievich.freenode.net. Thanks to
+Dec 18 18:51:08 *	- http://www.tatacommunications.com/ for sponsoring
+Dec 18 18:51:08 *	- this server!
+Dec 18 18:51:08 *	-  
+Dec 18 18:51:08 *	- KARATKIEVICH, ULADZIMIR (1930-1984) was a Belarusian
+Dec 18 18:51:08 *	- romantic writer. After his first published work was a poem
+Dec 18 18:51:08 *	- in 1951, he followed up with novels, short stories, plays,
+Dec 18 18:51:08 *	- essays, articles and screenplays. His probably most popular
+Dec 18 18:51:08 *	- work is the novel 'King Stakh's Wild Hunt' (1964). Most his
+Dec 18 18:51:08 *	- novels are about Belarus's past.  He won many national
+Dec 18 18:51:08 *	- literary awards and influenced the Belarusian literature's
+Dec 18 18:51:08 *	- development of historical themes.
+Dec 18 18:51:08 *	-  
+Dec 18 18:51:08 *	-  
+Dec 18 18:51:08 *	- Welcome to freenode - supporting the free and open source
+Dec 18 18:51:08 *	- software communities since 1998.
+Dec 18 18:51:08 *	-  
+Dec 18 18:51:08 *	- By connecting to freenode you indicate that you have read and
+Dec 18 18:51:08 *	- accept our policies and guidelines as set out on https://freenode.net
+Dec 18 18:51:08 *	-  
+Dec 18 18:51:08 *	- In the event that you observe behaviour that contravenes our policies,
+Dec 18 18:51:08 *	- please notify a volunteer staff member via private message, or send us an
+Dec 18 18:51:08 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Dec 18 18:51:08 *	- situation within a reasonable period of time, and we may request further
+Dec 18 18:51:08 *	- information or, as appropriate, involve other parties such as channel operators 
+Dec 18 18:51:08 *	- Group Contacts representing an on-topic group.
+Dec 18 18:51:08 *	-  
+Dec 18 18:51:08 *	- freenode runs an open proxy scanner.
+Dec 18 18:51:08 *	-  
+Dec 18 18:51:08 *	- If you are looking for assistance, you may be able to find a list of 
+Dec 18 18:51:08 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Dec 18 18:51:08 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Dec 18 18:51:08 *	- any of us at any time. Please note that freenode predominantly provides 
+Dec 18 18:51:08 *	- assistance via private message, and while we have a network channel the 
+Dec 18 18:51:08 *	- primary venue for support requests is via private message to a member 
+Dec 18 18:51:08 *	- of the volunteer staff team.
+Dec 18 18:51:08 *	-  
+Dec 18 18:51:08 *	- From time to time, volunteer staff may send server-wide notices relating to
+Dec 18 18:51:08 *	- the project, or the communities that we host. The majority of such notices
+Dec 18 18:51:08 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Dec 18 18:51:08 *	- do not miss them. Important messages relating to the freenode project, including
+Dec 18 18:51:08 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Dec 18 18:51:08 *	- global notices.
+Dec 18 18:51:08 *	-  
+Dec 18 18:51:08 *	- Representing an on-topic project? Don't forget to register, more information
+Dec 18 18:51:08 *	- can be found on the https://freenode.net website under "Group Registration".
+Dec 18 18:51:08 *	-  
+Dec 18 18:51:08 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Dec 18 18:51:08 *	- network going for close to two decades.
+Dec 18 18:51:08 *	-  
+Dec 18 18:51:08 *	- Thank you for using freenode!
+Dec 18 18:51:08 *	End of /MOTD command.
+Dec 18 18:51:08 *	drmdub sets mode +Z on drmdub
+Dec 18 18:51:08 *	drmdub sets mode +i on drmdub
+Dec 18 18:51:08 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Dec 18 18:52:01 >NickServ<	help
+Dec 18 18:52:02 -NickServ-	***** NickServ Help *****
+Dec 18 18:52:02 -NickServ-	NickServ allows users to 'register' a nickname, and stop
+Dec 18 18:52:02 -NickServ-	others from using that nick. NickServ allows the owner of a
+Dec 18 18:52:02 -NickServ-	nickname to disconnect a user from the network that is using
+Dec 18 18:52:02 -NickServ-	their nickname.
+Dec 18 18:52:02 -NickServ-	 
+Dec 18 18:52:02 -NickServ-	For more information on a command, type:
+Dec 18 18:52:02 -NickServ-	/msg NickServ help <command>
+Dec 18 18:52:02 -NickServ-	For a verbose listing of all commands, type:
+Dec 18 18:52:02 -NickServ-	/msg NickServ help commands
+Dec 18 18:52:02 -NickServ-	 
+Dec 18 18:52:02 -NickServ-	The following commands are available:
+Dec 18 18:52:02 -NickServ-	GHOST           Reclaims use of a nickname.
+Dec 18 18:52:02 -NickServ-	IDENTIFY        Identifies to services for a nickname.
+Dec 18 18:52:02 -NickServ-	INFO            Displays information on registrations.
+Dec 18 18:52:02 -NickServ-	LISTCHANS       Lists channels that you have access to.
+Dec 18 18:52:02 -NickServ-	REGISTER        Registers a nickname.
+Dec 18 18:52:02 -NickServ-	RELEASE         Releases a services enforcer.
+Dec 18 18:52:02 -NickServ-	SENDPASS        Email registration passwords.
+Dec 18 18:52:02 -NickServ-	 
+Dec 18 18:52:02 -NickServ-	Other commands: ACC, ACCESS, CERT, DROP, HELP, LOGOUT, 
+Dec 18 18:52:02 -NickServ-	                REGAIN, SETPASS, STATUS, TAXONOMY, VERIFY
+Dec 18 18:52:02 -NickServ-	***** End of Help *****
+Dec 18 18:52:21 >NickServ<	commands
+Dec 18 18:52:21 -NickServ-	Invalid command. Use /msg NickServ help for a command listing.
+Dec 18 18:52:36 >NickServ<	help commands
+Dec 18 18:52:36 -NickServ-	***** NickServ Help *****
+Dec 18 18:52:36 -NickServ-	The following commands are available:
+Dec 18 18:52:36 -NickServ-	ACC             Displays parsable session information.
+Dec 18 18:52:36 -NickServ-	ACCESS          Changes and shows your nickname access list.
+Dec 18 18:52:36 -NickServ-	CERT            Changes and shows your nickname CertFP authentication list.
+Dec 18 18:52:36 -NickServ-	DROP            Drops an account registration.
+Dec 18 18:52:36 -NickServ-	GHOST           Reclaims use of a nickname.
+Dec 18 18:52:36 -NickServ-	HELP            Displays contextual help information.
+Dec 18 18:52:36 -NickServ-	IDENTIFY        Identifies to services for a nickname.
+Dec 18 18:52:36 -NickServ-	INFO            Displays information on registrations.
+Dec 18 18:52:36 -NickServ-	LISTCHANS       Lists channels that you have access to.
+Dec 18 18:52:36 -NickServ-	LOGOUT          Logs your services session out.
+Dec 18 18:52:36 -NickServ-	REGAIN          Regain usage of a nickname.
+Dec 18 18:52:36 -NickServ-	REGISTER        Registers a nickname.
+Dec 18 18:52:36 -NickServ-	RELEASE         Releases a services enforcer.
+Dec 18 18:52:36 -NickServ-	SENDPASS        Email registration passwords.
+Dec 18 18:52:36 -NickServ-	SETPASS         Changes a password using an authcode.
+Dec 18 18:52:36 -NickServ-	STATUS          Displays session information.
+Dec 18 18:52:36 -NickServ-	TAXONOMY        Displays a user's metadata.
+Dec 18 18:52:37 -NickServ-	VERIFY          Verifies an account registration.
+Dec 18 18:52:37 -NickServ-	***** End of Help *****
+Dec 18 18:56:43 *	#archlinux-aur :Cannot join channel (+r) - you need to be identified with services - see https://freenode.net/kb/answer/registration
+Dec 18 18:57:09 *	#archlinux-aur :Cannot join channel (+r) - you need to be identified with services - see https://freenode.net/kb/answer/registration
+Dec 18 18:58:18 >NickServ<	help
+Dec 18 18:58:18 -NickServ-	***** NickServ Help *****
+Dec 18 18:58:18 -NickServ-	NickServ allows users to 'register' a nickname, and stop
+Dec 18 18:58:18 -NickServ-	others from using that nick. NickServ allows the owner of a
+Dec 18 18:58:18 -NickServ-	nickname to disconnect a user from the network that is using
+Dec 18 18:58:18 -NickServ-	their nickname.
+Dec 18 18:58:18 -NickServ-	 
+Dec 18 18:58:18 -NickServ-	For more information on a command, type:
+Dec 18 18:58:18 -NickServ-	/msg NickServ help <command>
+Dec 18 18:58:18 -NickServ-	For a verbose listing of all commands, type:
+Dec 18 18:58:18 -NickServ-	/msg NickServ help commands
+Dec 18 18:58:18 -NickServ-	 
+Dec 18 18:58:18 -NickServ-	The following commands are available:
+Dec 18 18:58:18 -NickServ-	GHOST           Reclaims use of a nickname.
+Dec 18 18:58:18 -NickServ-	IDENTIFY        Identifies to services for a nickname.
+Dec 18 18:58:18 -NickServ-	INFO            Displays information on registrations.
+Dec 18 18:58:18 -NickServ-	LISTCHANS       Lists channels that you have access to.
+Dec 18 18:58:18 -NickServ-	REGISTER        Registers a nickname.
+Dec 18 18:58:18 -NickServ-	RELEASE         Releases a services enforcer.
+Dec 18 18:58:18 -NickServ-	SENDPASS        Email registration passwords.
+Dec 18 18:58:18 -NickServ-	 
+Dec 18 18:58:18 -NickServ-	Other commands: ACC, ACCESS, CERT, DROP, HELP, LOGOUT, 
+Dec 18 18:58:18 -NickServ-	                REGAIN, SETPASS, STATUS, TAXONOMY, VERIFY
+Dec 18 18:58:18 -NickServ-	***** End of Help *****
+Dec 18 18:58:54 >NickServ<	drmdub IsWaKi2003
+Dec 18 18:58:54 -NickServ-	Invalid command. Use /msg NickServ help for a command listing.
+Dec 18 18:59:03 >NickServ<	help
+Dec 18 18:59:03 -NickServ-	***** NickServ Help *****
+Dec 18 18:59:03 -NickServ-	NickServ allows users to 'register' a nickname, and stop
+Dec 18 18:59:03 -NickServ-	others from using that nick. NickServ allows the owner of a
+Dec 18 18:59:03 -NickServ-	nickname to disconnect a user from the network that is using
+Dec 18 18:59:03 -NickServ-	their nickname.
+Dec 18 18:59:03 -NickServ-	 
+Dec 18 18:59:03 -NickServ-	For more information on a command, type:
+Dec 18 18:59:03 -NickServ-	/msg NickServ help <command>
+Dec 18 18:59:03 -NickServ-	For a verbose listing of all commands, type:
+Dec 18 18:59:03 -NickServ-	/msg NickServ help commands
+Dec 18 18:59:03 -NickServ-	 
+Dec 18 18:59:03 -NickServ-	The following commands are available:
+Dec 18 18:59:03 -NickServ-	GHOST           Reclaims use of a nickname.
+Dec 18 18:59:03 -NickServ-	IDENTIFY        Identifies to services for a nickname.
+Dec 18 18:59:03 -NickServ-	INFO            Displays information on registrations.
+Dec 18 18:59:03 -NickServ-	LISTCHANS       Lists channels that you have access to.
+Dec 18 18:59:03 -NickServ-	REGISTER        Registers a nickname.
+Dec 18 18:59:03 -NickServ-	RELEASE         Releases a services enforcer.
+Dec 18 18:59:03 -NickServ-	SENDPASS        Email registration passwords.
+Dec 18 18:59:03 -NickServ-	 
+Dec 18 18:59:03 -NickServ-	Other commands: ACC, ACCESS, CERT, DROP, HELP, LOGOUT, 
+Dec 18 18:59:03 -NickServ-	                REGAIN, SETPASS, STATUS, TAXONOMY, VERIFY
+Dec 18 18:59:03 -NickServ-	***** End of Help *****
+Dec 18 18:59:10 >NickServ<	help commands
+Dec 18 18:59:11 -NickServ-	***** NickServ Help *****
+Dec 18 18:59:11 -NickServ-	The following commands are available:
+Dec 18 18:59:11 -NickServ-	ACC             Displays parsable session information.
+Dec 18 18:59:11 -NickServ-	ACCESS          Changes and shows your nickname access list.
+Dec 18 18:59:11 -NickServ-	CERT            Changes and shows your nickname CertFP authentication list.
+Dec 18 18:59:11 -NickServ-	DROP            Drops an account registration.
+Dec 18 18:59:11 -NickServ-	GHOST           Reclaims use of a nickname.
+Dec 18 18:59:11 -NickServ-	HELP            Displays contextual help information.
+Dec 18 18:59:11 -NickServ-	IDENTIFY        Identifies to services for a nickname.
+Dec 18 18:59:11 -NickServ-	INFO            Displays information on registrations.
+Dec 18 18:59:11 -NickServ-	LISTCHANS       Lists channels that you have access to.
+Dec 18 18:59:11 -NickServ-	LOGOUT          Logs your services session out.
+Dec 18 18:59:11 -NickServ-	REGAIN          Regain usage of a nickname.
+Dec 18 18:59:11 -NickServ-	REGISTER        Registers a nickname.
+Dec 18 18:59:11 -NickServ-	RELEASE         Releases a services enforcer.
+Dec 18 18:59:11 -NickServ-	SENDPASS        Email registration passwords.
+Dec 18 18:59:11 -NickServ-	SETPASS         Changes a password using an authcode.
+Dec 18 18:59:11 -NickServ-	STATUS          Displays session information.
+Dec 18 18:59:11 -NickServ-	TAXONOMY        Displays a user's metadata.
+Dec 18 18:59:11 -NickServ-	VERIFY          Verifies an account registration.
+Dec 18 18:59:11 -NickServ-	***** End of Help *****
+Dec 18 18:59:58 >NickServ<	help identify
+Dec 18 18:59:58 -NickServ-	***** NickServ Help *****
+Dec 18 18:59:58 -NickServ-	Help for IDENTIFY:
+Dec 18 18:59:58 -NickServ-	 
+Dec 18 18:59:58 -NickServ-	IDENTIFY identifies you with services so that you
+Dec 18 18:59:58 -NickServ-	can perform general maintenance and commands that
+Dec 18 18:59:58 -NickServ-	require you to be logged in.
+Dec 18 18:59:58 -NickServ-	 
+Dec 18 18:59:58 -NickServ-	Syntax: IDENTIFY <password>
+Dec 18 18:59:58 -NickServ-	 
+Dec 18 18:59:58 -NickServ-	You can also identify for another nick than you
+Dec 18 18:59:58 -NickServ-	are currently using.
+Dec 18 18:59:58 -NickServ-	 
+Dec 18 18:59:58 -NickServ-	Syntax: IDENTIFY <nick> <password>
+Dec 18 18:59:58 -NickServ-	 
+Dec 18 18:59:58 -NickServ-	Example:
+Dec 18 18:59:58 -NickServ-	    /msg NickServ IDENTIFY foo
+Dec 18 18:59:58 -NickServ-	    /msg NickServ IDENTIFY jilles foo
+Dec 18 18:59:58 -NickServ-	***** End of Help *****
+Dec 18 19:00:06 >NickServ<	help identify IsWaKi2003
+Dec 18 19:00:07 -NickServ-	***** NickServ Help *****
+Dec 18 19:00:07 -NickServ-	Help for IDENTIFY:
+Dec 18 19:00:07 -NickServ-	 
+Dec 18 19:00:07 -NickServ-	IDENTIFY identifies you with services so that you
+Dec 18 19:00:07 -NickServ-	can perform general maintenance and commands that
+Dec 18 19:00:07 -NickServ-	require you to be logged in.
+Dec 18 19:00:07 -NickServ-	 
+Dec 18 19:00:07 -NickServ-	Syntax: IDENTIFY <password>
+Dec 18 19:00:07 -NickServ-	 
+Dec 18 19:00:07 -NickServ-	You can also identify for another nick than you
+Dec 18 19:00:07 -NickServ-	are currently using.
+Dec 18 19:00:07 -NickServ-	 
+Dec 18 19:00:07 -NickServ-	Syntax: IDENTIFY <nick> <password>
+Dec 18 19:00:07 -NickServ-	 
+Dec 18 19:00:07 -NickServ-	Example:
+Dec 18 19:00:07 -NickServ-	    /msg NickServ IDENTIFY foo
+Dec 18 19:00:07 -NickServ-	    /msg NickServ IDENTIFY jilles foo
+Dec 18 19:00:07 -NickServ-	***** End of Help *****
+Dec 18 19:00:19 >NickServ<	identify ****
+Dec 18 19:00:19 -NickServ-	You are now identified for drmdub.
+Dec 18 19:00:59 *	Disconnected ()
+Dec 18 19:01:08 Sysinfo plugin unloaded
+Dec 18 19:01:08 FiSHLiM	hexchat_print called without a valid context.
+Dec 18 19:01:08 Checksum plugin unloaded
+Dec 18 19:01:08 Perl interface unloaded
+**** ENDING LOGGING AT Fri Dec 18 19:01:08 2020
+
+**** BEGIN LOGGING AT Fri Dec 18 19:05:33 2020
+
+Dec 18 19:05:33 *	Welcome to the freenode Internet Relay Chat Network drmdub
+Dec 18 19:05:33 *	Your host is karatkievich.freenode.net[64.86.243.181/6697], running version ircd-seven-1.1.9
+Dec 18 19:05:33 *	This server was created Wed Oct 28 2020 at 22:07:50 UTC
+Dec 18 19:05:33 *	karatkievich.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+Dec 18 19:05:33 *	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+Dec 18 19:05:33 *	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE ETRACE :are supported by this server
+Dec 18 19:05:33 *	KNOCK SAFELIST ELIST=CTU MONITOR=100 WHOX :are supported by this server
+Dec 18 19:05:33 *	There are 97 users and 75751 invisible on 31 servers
+Dec 18 19:05:33 *	42 :IRC Operators online
+Dec 18 19:05:33 *	19 :unknown connection(s)
+Dec 18 19:05:33 *	42969 :channels formed
+Dec 18 19:05:33 *	I have 3292 clients and 1 servers
+Dec 18 19:05:33 *	3292 5918 :Current local users 3292, max 5918
+Dec 18 19:05:33 *	75848 86812 :Current global users 75848, max 86812
+Dec 18 19:05:33 *	Highest connection count: 5919 (5918 clients) (146911 connections received)
+Dec 18 19:05:33 *	- karatkievich.freenode.net Message of the Day - 
+Dec 18 19:05:33 *	- Welcome to karatkievich.freenode.net. Thanks to
+Dec 18 19:05:33 *	- http://www.tatacommunications.com/ for sponsoring
+Dec 18 19:05:33 *	- this server!
+Dec 18 19:05:33 *	-  
+Dec 18 19:05:33 *	- KARATKIEVICH, ULADZIMIR (1930-1984) was a Belarusian
+Dec 18 19:05:33 *	- romantic writer. After his first published work was a poem
+Dec 18 19:05:33 *	- in 1951, he followed up with novels, short stories, plays,
+Dec 18 19:05:33 *	- essays, articles and screenplays. His probably most popular
+Dec 18 19:05:33 *	- work is the novel 'King Stakh's Wild Hunt' (1964). Most his
+Dec 18 19:05:33 *	- novels are about Belarus's past.  He won many national
+Dec 18 19:05:33 *	- literary awards and influenced the Belarusian literature's
+Dec 18 19:05:33 *	- development of historical themes.
+Dec 18 19:05:33 *	-  
+Dec 18 19:05:33 *	-  
+Dec 18 19:05:33 *	- Welcome to freenode - supporting the free and open source
+Dec 18 19:05:33 *	- software communities since 1998.
+Dec 18 19:05:33 *	-  
+Dec 18 19:05:33 *	- By connecting to freenode you indicate that you have read and
+Dec 18 19:05:33 *	- accept our policies and guidelines as set out on https://freenode.net
+Dec 18 19:05:33 *	-  
+Dec 18 19:05:33 *	- In the event that you observe behaviour that contravenes our policies,
+Dec 18 19:05:33 *	- please notify a volunteer staff member via private message, or send us an
+Dec 18 19:05:33 *	- e-mail to complaints@freenode.net -- we will do our best to address the
+Dec 18 19:05:33 *	- situation within a reasonable period of time, and we may request further
+Dec 18 19:05:33 *	- information or, as appropriate, involve other parties such as channel operators 
+Dec 18 19:05:33 *	- Group Contacts representing an on-topic group.
+Dec 18 19:05:33 *	-  
+Dec 18 19:05:33 *	- freenode runs an open proxy scanner.
+Dec 18 19:05:33 *	-  
+Dec 18 19:05:33 *	- If you are looking for assistance, you may be able to find a list of 
+Dec 18 19:05:33 *	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+Dec 18 19:05:33 *	- #freenode and using the '/who freenode/staff/*' command. You may message
+Dec 18 19:05:33 *	- any of us at any time. Please note that freenode predominantly provides 
+Dec 18 19:05:33 *	- assistance via private message, and while we have a network channel the 
+Dec 18 19:05:33 *	- primary venue for support requests is via private message to a member 
+Dec 18 19:05:33 *	- of the volunteer staff team.
+Dec 18 19:05:33 *	-  
+Dec 18 19:05:33 *	- From time to time, volunteer staff may send server-wide notices relating to
+Dec 18 19:05:33 *	- the project, or the communities that we host. The majority of such notices
+Dec 18 19:05:33 *	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+Dec 18 19:05:33 *	- do not miss them. Important messages relating to the freenode project, including
+Dec 18 19:05:33 *	- notices of upcoming maintenance and other scheduled downtime will be issued as
+Dec 18 19:05:33 *	- global notices.
+Dec 18 19:05:33 *	-  
+Dec 18 19:05:33 *	- Representing an on-topic project? Don't forget to register, more information
+Dec 18 19:05:33 *	- can be found on the https://freenode.net website under "Group Registration".
+Dec 18 19:05:33 *	-  
+Dec 18 19:05:33 *	- Thank you also to our server sponsors for the sustained support in keeping the
+Dec 18 19:05:33 *	- network going for close to two decades.
+Dec 18 19:05:33 *	-  
+Dec 18 19:05:33 *	- Thank you for using freenode!
+Dec 18 19:05:33 *	End of /MOTD command.
+Dec 18 19:05:33 *	drmdub sets mode +Z on drmdub
+Dec 18 19:05:33 *	drmdub sets mode +i on drmdub
+Dec 18 19:05:33 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Dec 18 19:06:20 >NickServ<	help commands
+Dec 18 19:06:21 -NickServ-	***** NickServ Help *****
+Dec 18 19:06:21 -NickServ-	The following commands are available:
+Dec 18 19:06:21 -NickServ-	ACC             Displays parsable session information.
+Dec 18 19:06:21 -NickServ-	ACCESS          Changes and shows your nickname access list.
+Dec 18 19:06:21 -NickServ-	CERT            Changes and shows your nickname CertFP authentication list.
+Dec 18 19:06:21 -NickServ-	DROP            Drops an account registration.
+Dec 18 19:06:21 -NickServ-	GHOST           Reclaims use of a nickname.
+Dec 18 19:06:21 -NickServ-	HELP            Displays contextual help information.
+Dec 18 19:06:21 -NickServ-	IDENTIFY        Identifies to services for a nickname.
+Dec 18 19:06:21 -NickServ-	INFO            Displays information on registrations.
+Dec 18 19:06:21 -NickServ-	LISTCHANS       Lists channels that you have access to.
+Dec 18 19:06:21 -NickServ-	LOGOUT          Logs your services session out.
+Dec 18 19:06:21 -NickServ-	REGAIN          Regain usage of a nickname.
+Dec 18 19:06:21 -NickServ-	REGISTER        Registers a nickname.
+Dec 18 19:06:21 -NickServ-	RELEASE         Releases a services enforcer.
+Dec 18 19:06:21 -NickServ-	SENDPASS        Email registration passwords.
+Dec 18 19:06:21 -NickServ-	SETPASS         Changes a password using an authcode.
+Dec 18 19:06:21 -NickServ-	STATUS          Displays session information.
+Dec 18 19:06:21 -NickServ-	TAXONOMY        Displays a user's metadata.
+Dec 18 19:06:21 -NickServ-	VERIFY          Verifies an account registration.
+Dec 18 19:06:21 -NickServ-	***** End of Help *****
+Dec 18 19:06:39 >NickServ<	help register
+Dec 18 19:06:39 -NickServ-	***** NickServ Help *****
+Dec 18 19:06:39 -NickServ-	Help for REGISTER:
+Dec 18 19:06:39 -NickServ-	 
+Dec 18 19:06:39 -NickServ-	This will register your current nickname with NickServ.
+Dec 18 19:06:39 -NickServ-	This will allow you to assert some form of identity on
+Dec 18 19:06:39 -NickServ-	the network and to be added to access lists. Furthermore,
+Dec 18 19:06:39 -NickServ-	NickServ will warn users using your nick without
+Dec 18 19:06:39 -NickServ-	identifying and allow you to kill ghosts.
+Dec 18 19:06:39 -NickServ-	The password is a case-sensitive password that you make
+Dec 18 19:06:39 -NickServ-	up. Please write down or memorize your password! You
+Dec 18 19:06:39 -NickServ-	will need it later to change settings.
+Dec 18 19:06:39 -NickServ-	 
+Dec 18 19:06:39 -NickServ-	You have to confirm the email address. To do this,
+Dec 18 19:06:39 -NickServ-	follow the instructions in the message sent to the email
+Dec 18 19:06:39 -NickServ-	address.
+Dec 18 19:06:39 -NickServ-	 
+Dec 18 19:06:39 -NickServ-	Syntax: REGISTER <password> <email-address>
+Dec 18 19:06:39 -NickServ-	 
+Dec 18 19:06:39 -NickServ-	Examples:
+Dec 18 19:06:39 -NickServ-	    /msg NickServ REGISTER bar foo@bar.com
+Dec 18 19:06:39 -NickServ-	***** End of Help *****
+Dec 18 19:07:47 >NickServ<	 identify IsWaKi2003
+Dec 18 19:07:47 -NickServ-	You are now identified for drmdub.
+Dec 18 19:27:53 Sysinfo plugin unloaded
+Dec 18 19:27:53 Checksum plugin unloaded
+Dec 18 19:27:53 Perl interface unloaded
+**** ENDING LOGGING AT Fri Dec 18 19:27:53 2020
+

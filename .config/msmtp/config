@@ -13,3 +13,13 @@ user mtwb47@gmail.com
 passwordeval "pass mw-mtwb47@gmail.com"
 
 
+
+
+account thelinuxcast@gmail.com
+host smtp.gmail.com
+port 587
+from thelinuxcast@gmail.com
+user thelinuxcast@gmail.com
+passwordeval "pass mw-thelinuxcast@gmail.com"
+
+

@@ -1,7 +1,7 @@
-delay=0
+delay=1
 region=3
 action=1
-show_mouse=0
+show_mouse=1
 title=ArcoLinux
 timestamp=TRUE
 app=feh

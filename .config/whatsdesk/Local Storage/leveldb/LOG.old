@@ -1,3 +1,6 @@
-2020/12/13-15:44:40.005 23427 Reusing MANIFEST /home/drmdub/.config/whatsdesk/Local Storage/leveldb/MANIFEST-000001
-2020/12/13-15:44:40.007 23427 Recovering log #4
-2020/12/13-15:44:40.007 23427 Reusing old log /home/drmdub/.config/whatsdesk/Local Storage/leveldb/000004.log 
+2021/01/08-20:59:30.443 bdfb7 Reusing MANIFEST /home/drmdub/.config/whatsdesk/Local Storage/leveldb/MANIFEST-000001
+2021/01/08-20:59:30.444 bdfb7 Recovering log #17
+2021/01/08-20:59:30.445 bdfb7 Reusing old log /home/drmdub/.config/whatsdesk/Local Storage/leveldb/000017.log 
+2021/01/10-06:51:29.102 1e9473 Level-0 table #22: started
+2021/01/10-06:51:29.103 1e9473 Level-0 table #22: 10758 bytes OK
+2021/01/10-06:51:29.104 1e9473 Delete type=0 #17

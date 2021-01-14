@@ -1,17 +1,3 @@
-2020/12/10-15:03:59.507 1bdefc Reusing MANIFEST /home/drmdub/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2020/12/10-15:03:59.507 1bdefc Recovering log #13
-2020/12/10-15:03:59.508 1bdefc Level-0 table #16: started
-2020/12/10-15:03:59.510 1bdefc Level-0 table #16: 62017 bytes OK
-2020/12/10-15:03:59.510 1bdefc Recovering log #16
-2020/12/10-15:03:59.510 1bdefc Reusing old log /home/drmdub/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000016.log 
-2020/12/10-15:03:59.511 1bdefc Delete type=2 #17
-2020/12/10-15:03:59.511 1bdefc Delete type=0 #13
-2020/12/10-15:03:59.511 1bdef3 Compacting 4@0 + 1@1 files
-2020/12/10-15:03:59.515 1bdef3 Generated table #17@0: 65 keys, 63892 bytes
-2020/12/10-15:03:59.515 1bdef3 Compacted 4@0 + 1@1 files => 63892 bytes
-2020/12/10-15:03:59.516 1bdef3 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/12/10-15:03:59.517 1bdef3 Delete type=2 #16
-2020/12/10-15:03:59.517 1bdef3 Delete type=2 #10
-2020/12/10-15:03:59.517 1bdef3 Delete type=2 #8
-2020/12/10-15:03:59.517 1bdef3 Delete type=2 #12
-2020/12/10-15:03:59.517 1bdef3 Delete type=2 #14
+2021/01/10-21:41:33.967 26fad4 Reusing MANIFEST /home/drmdub/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/01/10-21:41:33.968 26fad4 Recovering log #16
+2021/01/10-21:41:33.968 26fad4 Reusing old log /home/drmdub/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000016.log 

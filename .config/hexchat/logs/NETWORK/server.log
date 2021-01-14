@@ -1,0 +1,122 @@
+**** BEGIN LOGGING AT Fri Dec 18 00:39:28 2020
+
+Dec 18 00:39:28 Perl interface loaded
+Dec 18 00:39:28 Python interface loaded
+Dec 18 00:39:28 Checksum plugin loaded
+Dec 18 00:39:28 Lua version 1.3/5.4 loaded.
+Dec 18 00:39:28 FiSHLiM plugin loaded
+Dec 18 00:39:28 Sysinfo plugin loaded
+**** BEGIN LOGGING AT Fri Dec 18 00:55:13 2020
+
+Dec 18 00:55:13 Perl interface loaded
+Dec 18 00:55:13 Python interface loaded
+Dec 18 00:55:13 Checksum plugin loaded
+Dec 18 00:55:13 Lua version 1.3/5.4 loaded.
+Dec 18 00:55:13 FiSHLiM plugin loaded
+Dec 18 00:55:13 Sysinfo plugin loaded
+Dec 18 00:55:13 *	Looking up chat.freenode.net
+Dec 18 00:55:13 *	Connecting to chat.freenode.net (185.30.166.38:6697)
+Dec 18 00:55:14 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 18 00:55:14 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 18 00:55:14 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Dec 18 00:55:14 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 18 00:55:14 *	* Subject: /CN=verne.freenode.net
+Dec 18 00:55:14 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Dec 18 00:55:14 *	* Certification info:
+Dec 18 00:55:14 *	  Subject:
+Dec 18 00:55:14 *	    CN=verne.freenode.net
+Dec 18 00:55:14 *	  Issuer:
+Dec 18 00:55:14 *	    C=US
+Dec 18 00:55:14 *	    O=Let's Encrypt
+Dec 18 00:55:14 *	    CN=Let's Encrypt Authority X3
+Dec 18 00:55:14 *	  Public key algorithm: rsaEncryption (4096 bits)
+Dec 18 00:55:14 *	  Sign algorithm sha256WithRSAEncryption
+Dec 18 00:55:14 *	  Valid since Nov 16 04:35:36 2020 GM to Feb 14 04:35:36 2021 GM
+Dec 18 00:55:14 *	* Cipher info:
+Dec 18 00:55:14 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Dec 18 00:55:14 *	Connected. Now logging in.
+Dec 18 00:55:14 *	*** Looking up your hostname...
+Dec 18 00:55:14 *	*** Checking Ident
+Dec 18 00:55:14 *	*** Couldn't look up your hostname
+Dec 18 00:55:21 *	*** No Ident response
+Dec 18 00:55:21 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Dec 18 00:55:21 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+Dec 18 00:55:21 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Fri Dec 18 00:55:21 2020
+
+**** BEGIN LOGGING AT Fri Dec 18 18:50:58 2020
+
+Dec 18 18:50:58 Perl interface loaded
+Dec 18 18:50:58 Python interface loaded
+Dec 18 18:50:58 Checksum plugin loaded
+Dec 18 18:50:58 Lua version 1.3/5.4 loaded.
+Dec 18 18:50:58 FiSHLiM plugin loaded
+Dec 18 18:50:58 Sysinfo plugin loaded
+Dec 18 18:50:58 *	Looking up chat.freenode.net
+Dec 18 18:50:58 *	Connecting to chat.freenode.net (64.86.243.181:6697)
+Dec 18 18:50:59 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 18 18:50:59 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 18 18:50:59 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Dec 18 18:50:59 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 18 18:50:59 *	* Subject: /CN=karatkievich.freenode.net
+Dec 18 18:50:59 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Dec 18 18:50:59 *	* Certification info:
+Dec 18 18:50:59 *	  Subject:
+Dec 18 18:50:59 *	    CN=karatkievich.freenode.net
+Dec 18 18:50:59 *	  Issuer:
+Dec 18 18:50:59 *	    C=US
+Dec 18 18:50:59 *	    O=Let's Encrypt
+Dec 18 18:50:59 *	    CN=Let's Encrypt Authority X3
+Dec 18 18:50:59 *	  Public key algorithm: rsaEncryption (4096 bits)
+Dec 18 18:50:59 *	  Sign algorithm sha256WithRSAEncryption
+Dec 18 18:50:59 *	  Valid since Nov  2 05:18:05 2020 GM to Jan 31 05:18:05 2021 GM
+Dec 18 18:50:59 *	* Cipher info:
+Dec 18 18:50:59 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Dec 18 18:50:59 *	Connected. Now logging in.
+Dec 18 18:50:59 *	*** Looking up your hostname...
+Dec 18 18:50:59 *	*** Checking Ident
+Dec 18 18:50:59 *	*** Couldn't look up your hostname
+Dec 18 18:51:08 *	*** No Ident response
+Dec 18 18:51:08 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Dec 18 18:51:08 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+Dec 18 18:51:08 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Fri Dec 18 18:51:08 2020
+
+**** BEGIN LOGGING AT Fri Dec 18 19:05:27 2020
+
+Dec 18 19:05:27 Perl interface loaded
+Dec 18 19:05:27 Python interface loaded
+Dec 18 19:05:27 Checksum plugin loaded
+Dec 18 19:05:27 Lua version 1.3/5.4 loaded.
+Dec 18 19:05:27 FiSHLiM plugin loaded
+Dec 18 19:05:27 Sysinfo plugin loaded
+Dec 18 19:05:27 *	Looking up chat.freenode.net
+Dec 18 19:05:27 *	Connecting to chat.freenode.net (64.86.243.181:6697)
+Dec 18 19:05:28 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 18 19:05:28 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 18 19:05:28 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Dec 18 19:05:28 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Dec 18 19:05:28 *	* Subject: /CN=karatkievich.freenode.net
+Dec 18 19:05:28 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Dec 18 19:05:28 *	* Certification info:
+Dec 18 19:05:28 *	  Subject:
+Dec 18 19:05:28 *	    CN=karatkievich.freenode.net
+Dec 18 19:05:28 *	  Issuer:
+Dec 18 19:05:28 *	    C=US
+Dec 18 19:05:28 *	    O=Let's Encrypt
+Dec 18 19:05:28 *	    CN=Let's Encrypt Authority X3
+Dec 18 19:05:28 *	  Public key algorithm: rsaEncryption (4096 bits)
+Dec 18 19:05:28 *	  Sign algorithm sha256WithRSAEncryption
+Dec 18 19:05:28 *	  Valid since Nov  2 05:18:05 2020 GM to Jan 31 05:18:05 2021 GM
+Dec 18 19:05:28 *	* Cipher info:
+Dec 18 19:05:28 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Dec 18 19:05:28 *	Connected. Now logging in.
+Dec 18 19:05:28 *	*** Looking up your hostname...
+Dec 18 19:05:28 *	*** Checking Ident
+Dec 18 19:05:28 *	*** Couldn't look up your hostname
+Dec 18 19:05:33 *	*** No Ident response
+Dec 18 19:05:33 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix sasl tls
+Dec 18 19:05:33 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+Dec 18 19:05:33 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join identify-msg multi-prefix 
+**** ENDING LOGGING AT Fri Dec 18 19:05:33 2020
+

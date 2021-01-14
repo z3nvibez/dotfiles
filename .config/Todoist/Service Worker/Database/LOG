@@ -1,3 +1,3 @@
-2020/12/17-19:14:25.632 2804307 Reusing MANIFEST /home/drmdub/.config/Todoist/Service Worker/Database/MANIFEST-000001
-2020/12/17-19:14:25.632 2804307 Recovering log #4
-2020/12/17-19:14:25.635 2804307 Reusing old log /home/drmdub/.config/Todoist/Service Worker/Database/000004.log 
+2021/01/13-11:43:21.641 2084 Reusing MANIFEST /home/drmdub/.config/Todoist/Service Worker/Database/MANIFEST-000001
+2021/01/13-11:43:21.641 2084 Recovering log #4
+2021/01/13-11:43:21.644 2084 Reusing old log /home/drmdub/.config/Todoist/Service Worker/Database/000004.log 

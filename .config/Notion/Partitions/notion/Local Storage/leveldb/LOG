@@ -1,15 +1,24 @@
-2020/12/17-17:01:32.100 278ea1 Reusing MANIFEST /home/drmdub/.config/Notion/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
-2020/12/17-17:01:32.100 278ea1 Recovering log #629
-2020/12/17-17:01:32.100 278ea1 Reusing old log /home/drmdub/.config/Notion/Partitions/notion/Local Storage/leveldb/000629.log 
-2020/12/17-18:11:37.708 293a38 Level-0 table #633: started
-2020/12/17-18:11:37.710 293a38 Level-0 table #633: 21602 bytes OK
-2020/12/17-18:11:37.711 293a38 Delete type=0 #629
-2020/12/17-18:11:37.711 293a38 Compacting 4@0 + 1@1 files
-2020/12/17-18:11:37.713 293a38 Generated table #634@0: 492 keys, 41294 bytes
-2020/12/17-18:11:37.713 293a38 Compacted 4@0 + 1@1 files => 41294 bytes
-2020/12/17-18:11:37.713 293a38 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/12/17-18:11:37.714 293a38 Delete type=2 #630
-2020/12/17-18:11:37.714 293a38 Delete type=2 #633
-2020/12/17-18:11:37.714 293a38 Delete type=2 #623
-2020/12/17-18:11:37.714 293a38 Delete type=2 #625
-2020/12/17-18:11:37.714 293a38 Delete type=2 #627
+2021/01/13-11:43:53.941 aed Reusing MANIFEST /home/drmdub/.config/Notion/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2021/01/13-11:43:53.941 aed Recovering log #1458
+2021/01/13-11:43:53.941 aed Reusing old log /home/drmdub/.config/Notion/Partitions/notion/Local Storage/leveldb/001458.log 
+2021/01/13-12:43:59.507 a583 Level-0 table #1462: started
+2021/01/13-12:43:59.508 a583 Level-0 table #1462: 23123 bytes OK
+2021/01/13-12:43:59.509 a583 Delete type=0 #1458
+2021/01/13-14:39:52.316 a583 Level-0 table #1464: started
+2021/01/13-14:39:52.317 a583 Level-0 table #1464: 21522 bytes OK
+2021/01/13-14:39:52.318 a583 Delete type=0 #1461
+2021/01/13-16:43:59.507 a583 Level-0 table #1466: started
+2021/01/13-16:43:59.509 a583 Level-0 table #1466: 21786 bytes OK
+2021/01/13-16:43:59.509 a583 Delete type=0 #1463
+2021/01/13-16:43:59.510 a583 Compacting 4@0 + 1@1 files
+2021/01/13-16:43:59.512 a583 Generated table #1467@0: 923 keys, 75986 bytes
+2021/01/13-16:43:59.512 a583 Compacted 4@0 + 1@1 files => 75986 bytes
+2021/01/13-16:43:59.513 a583 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/13-16:43:59.513 a583 Delete type=2 #1466
+2021/01/13-16:43:59.513 a583 Delete type=2 #1459
+2021/01/13-16:43:59.513 a583 Delete type=2 #1464
+2021/01/13-16:43:59.513 a583 Delete type=2 #1457
+2021/01/13-16:43:59.513 a583 Delete type=2 #1462
+2021/01/13-18:35:26.059 a583 Level-0 table #1469: started
+2021/01/13-18:35:26.060 a583 Level-0 table #1469: 21519 bytes OK
+2021/01/13-18:35:26.061 a583 Delete type=0 #1465
